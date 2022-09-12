@@ -1,0 +1,1531 @@
+,round,day,date,time,home,xg_home,score,xg_away,away,attendance,venue,referee,home goals,away goals
+0,Regular Season,Fri,2021-08-13,20:30,M'Gladbach,2.0,1 1,2.6,Bayern Munich,22925.0,Stadion im Borussia-Park,Marco Fritz,1,1
+1,Regular Season,Sat,2021-08-14,15:30,Wolfsburg,3.0,1 0,0.4,Bochum,8536.0,Volkswagen Arena,Frank Willenborg,1,0
+2,Regular Season,Sat,2021-08-14,15:30,Arminia,0.9,0 0,1.4,Freiburg,13750.0,SchücoArena,Sven Jablonski,0,0
+3,Regular Season,Sat,2021-08-14,15:30,Augsburg,0.6,0 4,3.4,Hoffenheim,9124.0,WWK Arena,Felix Brych,0,4
+4,Regular Season,Sat,2021-08-14,15:30,Stuttgart,4.0,5 1,0.8,Greuther Fürth,18109.0,Mercedes-Benz Arena,Felix Zwayer,5,1
+5,Regular Season,Sat,2021-08-14,15:30,Union Berlin,0.5,1 1,0.7,Leverkusen,11000.0,Stadion An der Alten Försterei,Tobias Reichel,1,1
+6,Regular Season,Sat,2021-08-14,18:30,Dortmund,2.5,5 2,1.8,Eint Frankfurt,25000.0,Signal Iduna Park,Tobias Stieler,5,2
+7,Regular Season,Sun,2021-08-15,15:30,Mainz 05,1.1,1 0,1.1,RB Leipzig,10500.0,Opel Arena,Daniel Siebert,1,0
+8,Regular Season,Sun,2021-08-15,17:30,Köln,1.7,3 1,1.9,Hertha BSC,16500.0,RheinEnergieSTADION,Robert Hartmann,3,1
+9,Regular Season,Fri,2021-08-20,20:30,RB Leipzig,3.5,4 0,1.1,Stuttgart,23100.0,Red Bull Arena,Florian Badstübner,4,0
+10,Regular Season,Sat,2021-08-21,15:30,Freiburg,1.0,2 1,1.5,Dortmund,10100.0,Schwarzwald-Stadion,Robert Schröder,2,1
+11,Regular Season,Sat,2021-08-21,15:30,Bochum,0.7,2 0,0.8,Mainz 05,12548.0,Vonovia Ruhrstadion,Patrick Ittrich,2,0
+12,Regular Season,Sat,2021-08-21,15:30,Greuther Fürth,2.3,1 1,0.6,Arminia,5890.0,Sportpark Ronhof Thomas Sommer,Daniel Schlager,1,1
+13,Regular Season,Sat,2021-08-21,15:30,Eint Frankfurt,1.4,0 0,0.2,Augsburg,22000.0,Commerzbank-Arena,Harm Osmers,0,0
+14,Regular Season,Sat,2021-08-21,15:30,Hertha BSC,1.3,1 2,1.4,Wolfsburg,18241.0,Olympiastadion Berlin,Matthias Jöllenbeck,1,2
+15,Regular Season,Sat,2021-08-21,18:30,Leverkusen,2.0,4 0,1.7,M'Gladbach,15105.0,BayArena,Deniz Aytekin,4,0
+16,Regular Season,Sun,2021-08-22,15:30,Hoffenheim,0.9,2 2,1.6,Union Berlin,8014.0,PreZero Arena,Sascha Stegemann,2,2
+17,Regular Season,Sun,2021-08-22,17:30,Bayern Munich,2.6,3 2,0.8,Köln,20000.0,Allianz Arena,Martin Petersen,3,2
+18,Regular Season,Fri,2021-08-27,20:30,Dortmund,3.6,3 2,1.8,Hoffenheim,25000.0,Signal Iduna Park,Felix Zwayer,3,2
+19,Regular Season,Sat,2021-08-28,15:30,Arminia,0.7,1 1,2.1,Eint Frankfurt,13750.0,SchücoArena,Bastian Dankert,1,1
+20,Regular Season,Sat,2021-08-28,15:30,Stuttgart,1.5,2 3,1.2,Freiburg,25000.0,Mercedes-Benz Arena,Frank Willenborg,2,3
+21,Regular Season,Sat,2021-08-28,15:30,Mainz 05,2.6,3 0,0.4,Greuther Fürth,11500.0,Opel Arena,Tobias Reichel,3,0
+22,Regular Season,Sat,2021-08-28,15:30,Köln,2.0,2 1,1.0,Bochum,25000.0,RheinEnergieSTADION,Benjamin Cortus,2,1
+23,Regular Season,Sat,2021-08-28,15:30,Augsburg,1.5,1 4,2.1,Leverkusen,10582.0,WWK Arena,Benjamin Brand,1,4
+24,Regular Season,Sat,2021-08-28,18:30,Bayern Munich,3.0,5 0,0.4,Hertha BSC,25000.0,Allianz Arena,Sven Jablonski,5,0
+25,Regular Season,Sun,2021-08-29,15:30,Union Berlin,1.9,2 1,2.2,M'Gladbach,11006.0,Stadion An der Alten Försterei,Felix Brych,2,1
+26,Regular Season,Sun,2021-08-29,17:30,Wolfsburg,1.1,1 0,1.4,RB Leipzig,12058.0,Volkswagen Arena,Tobias Stieler,1,0
+27,Regular Season,Sat,2021-09-11,15:30,Hoffenheim,0.8,0 2,1.1,Mainz 05,8427.0,PreZero Arena,Marco Fritz,0,2
+28,Regular Season,Sat,2021-09-11,15:30,Freiburg,0.6,1 1,0.8,Köln,10000.0,Schwarzwald-Stadion,Harm Osmers,1,1
+29,Regular Season,Sat,2021-09-11,15:30,Union Berlin,1.3,0 0,1.3,Augsburg,10207.0,Stadion An der Alten Försterei,Martin Petersen,0,0
+30,Regular Season,Sat,2021-09-11,15:30,Greuther Fürth,0.5,0 2,1.6,Wolfsburg,9000.0,Sportpark Ronhof Thomas Sommer,Robert Hartmann,0,2
+31,Regular Season,Sat,2021-09-11,15:30,Leverkusen,0.9,3 4,2.1,Dortmund,17605.0,BayArena,Daniel Siebert,3,4
+32,Regular Season,Sat,2021-09-11,18:30,RB Leipzig,0.5,1 4,4.2,Bayern Munich,34000.0,Red Bull Arena,Deniz Aytekin,1,4
+33,Regular Season,Sun,2021-09-12,15:30,Eint Frankfurt,1.3,1 1,1.4,Stuttgart,25000.0,Commerzbank-Arena,Matthias Jöllenbeck,1,1
+34,Regular Season,Sun,2021-09-12,17:30,Bochum,1.2,1 3,0.5,Hertha BSC,14000.0,Vonovia Ruhrstadion,Robert Schröder,1,3
+35,Regular Season,Sun,2021-09-12,19:30,M'Gladbach,1.9,3 1,1.8,Arminia,24500.0,Stadion im Borussia-Park,Sascha Stegemann,3,1
+36,Regular Season,Fri,2021-09-17,20:30,Hertha BSC,1.1,2 1,1.3,Greuther Fürth,21372.0,Olympiastadion Berlin,Tobias Stieler,2,1
+37,Regular Season,Sat,2021-09-18,15:30,Augsburg,0.4,1 0,0.7,M'Gladbach,12500.0,WWK Arena,Florian Badstübner,1,0
+38,Regular Season,Sat,2021-09-18,15:30,Arminia,1.1,0 0,1.5,Hoffenheim,13750.0,SchücoArena,Patrick Ittrich,0,0
+39,Regular Season,Sat,2021-09-18,15:30,Bayern Munich,4.5,7 0,1.0,Bochum,25000.0,Allianz Arena,Tobias Welz,7,0
+40,Regular Season,Sat,2021-09-18,15:30,Mainz 05,0.8,0 0,0.7,Freiburg,13500.0,Opel Arena,Benjamin Brand,0,0
+41,Regular Season,Sat,2021-09-18,18:30,Köln,1.6,1 1,1.9,RB Leipzig,25000.0,RheinEnergieSTADION,Felix Brych,1,1
+42,Regular Season,Sun,2021-09-19,15:30,Stuttgart,1.1,1 3,1.5,Leverkusen,23450.0,Mercedes-Benz Arena,Benjamin Cortus,1,3
+43,Regular Season,Sun,2021-09-19,17:30,Dortmund,0.9,4 2,1.4,Union Berlin,25000.0,Signal Iduna Park,Sven Jablonski,4,2
+44,Regular Season,Sun,2021-09-19,19:30,Wolfsburg,1.7,1 1,0.3,Eint Frankfurt,9266.0,Volkswagen Arena,Felix Zwayer,1,1
+45,Regular Season,Fri,2021-09-24,20:30,Greuther Fürth,1.0,1 3,0.9,Bayern Munich,11740.0,Sportpark Ronhof Thomas Sommer,Robert Schröder,1,3
+46,Regular Season,Sat,2021-09-25,15:30,Union Berlin,1.2,1 0,0.6,Arminia,11000.0,Stadion An der Alten Försterei,Marco Fritz,1,0
+47,Regular Season,Sat,2021-09-25,15:30,RB Leipzig,3.9,6 0,0.3,Hertha BSC,23500.0,Red Bull Arena,Sascha Stegemann,6,0
+48,Regular Season,Sat,2021-09-25,15:30,Eint Frankfurt,1.2,1 1,1.0,Köln,24000.0,Commerzbank-Arena,Martin Petersen,1,1
+49,Regular Season,Sat,2021-09-25,15:30,Leverkusen,1.6,1 0,1.0,Mainz 05,16624.0,BayArena,Bastian Dankert,1,0
+50,Regular Season,Sat,2021-09-25,15:30,Hoffenheim,1.7,3 1,0.6,Wolfsburg,8523.0,PreZero Arena,Daniel Siebert,3,1
+51,Regular Season,Sat,2021-09-25,18:30,M'Gladbach,1.4,1 0,0.4,Dortmund,25000.0,Stadion im Borussia-Park,Deniz Aytekin,1,0
+52,Regular Season,Sun,2021-09-26,15:30,Bochum,0.7,0 0,0.2,Stuttgart,15300.0,Vonovia Ruhrstadion,Christian Dingert,0,0
+53,Regular Season,Sun,2021-09-26,17:30,Freiburg,3.0,3 0,0.2,Augsburg,14400.0,Schwarzwald-Stadion,Daniel Schlager,3,0
+54,Regular Season,Fri,2021-10-01,20:30,Köln,2.7,3 1,1.2,Greuther Fürth,40000.0,RheinEnergieSTADION,Matthias Jöllenbeck,3,1
+55,Regular Season,Sat,2021-10-02,15:30,Hertha BSC,1.0,1 2,1.0,Freiburg,18376.0,Olympiastadion Berlin,Patrick Ittrich,1,2
+56,Regular Season,Sat,2021-10-02,15:30,Wolfsburg,1.3,1 3,2.8,M'Gladbach,12845.0,Volkswagen Arena,Frank Willenborg,1,3
+57,Regular Season,Sat,2021-10-02,15:30,Stuttgart,0.8,3 1,1.3,Hoffenheim,24211.0,Mercedes-Benz Arena,Harm Osmers,3,1
+58,Regular Season,Sat,2021-10-02,15:30,Dortmund,3.0,2 1,0.8,Augsburg,41000.0,Signal Iduna Park,Tobias Welz,2,1
+59,Regular Season,Sat,2021-10-02,18:30,RB Leipzig,2.5,3 0,1.3,Bochum,25598.0,Red Bull Arena,Robert Hartmann,3,0
+60,Regular Season,Sun,2021-10-03,15:30,Mainz 05,1.1,1 2,1.3,Union Berlin,16000.0,Opel Arena,Tobias Stieler,1,2
+61,Regular Season,Sun,2021-10-03,17:30,Bayern Munich,2.7,1 2,0.7,Eint Frankfurt,25000.0,Allianz Arena,Florian Badstübner,1,2
+62,Regular Season,Sun,2021-10-03,19:30,Arminia,0.4,0 4,3.0,Leverkusen,16250.0,SchücoArena,Felix Zwayer,0,4
+63,Regular Season,Fri,2021-10-15,20:30,Hoffenheim,3.7,5 0,0.7,Köln,14309.0,PreZero Arena,Tobias Reichel,5,0
+64,Regular Season,Sat,2021-10-16,15:30,Union Berlin,1.2,2 0,1.8,Wolfsburg,11000.0,Stadion An der Alten Försterei,Sascha Stegemann,2,0
+65,Regular Season,Sat,2021-10-16,15:30,Eint Frankfurt,1.5,1 2,1.8,Hertha BSC,32000.0,Commerzbank-Arena,Deniz Aytekin,1,2
+66,Regular Season,Sat,2021-10-16,15:30,Greuther Fürth,1.0,0 1,1.2,Bochum,10586.0,Sportpark Ronhof Thomas Sommer,Bastian Dankert,0,1
+67,Regular Season,Sat,2021-10-16,15:30,Dortmund,2.3,3 1,0.6,Mainz 05,63812.0,Signal Iduna Park,Daniel Schlager,3,1
+68,Regular Season,Sat,2021-10-16,15:30,Freiburg,1.4,1 1,1.7,RB Leipzig,20000.0,Europa-Park Stadion,Daniel Siebert,1,1
+69,Regular Season,Sat,2021-10-16,18:30,M'Gladbach,2.6,1 1,0.5,Stuttgart,41608.0,Stadion im Borussia-Park,Felix Brych,1,1
+70,Regular Season,Sun,2021-10-17,15:30,Leverkusen,0.8,1 5,3.1,Bayern Munich,29542.0,BayArena,Sven Jablonski,1,5
+71,Regular Season,Sun,2021-10-17,17:30,Augsburg,0.8,1 1,0.4,Arminia,17500.0,WWK Arena,Robert Schröder,1,1
+72,Regular Season,Fri,2021-10-22,20:30,Mainz 05,3.6,4 1,0.8,Augsburg,19400.0,Opel Arena,Robert Hartmann,4,1
+73,Regular Season,Sat,2021-10-23,15:30,RB Leipzig,2.5,4 1,1.5,Greuther Fürth,24758.0,Red Bull Arena,Christian Dingert,4,1
+74,Regular Season,Sat,2021-10-23,15:30,Arminia,1.7,1 3,2.4,Dortmund,25000.0,SchücoArena,Benjamin Brand,1,3
+75,Regular Season,Sat,2021-10-23,15:30,Bayern Munich,2.1,4 0,0.7,Hoffenheim,60000.0,Allianz Arena,Matthias Jöllenbeck,4,0
+76,Regular Season,Sat,2021-10-23,15:30,Wolfsburg,1.8,0 2,1.5,Freiburg,10251.0,Volkswagen Arena,Tobias Welz,0,2
+77,Regular Season,Sat,2021-10-23,18:30,Hertha BSC,1.1,1 0,0.7,M'Gladbach,25000.0,Olympiastadion Berlin,Benjamin Cortus,1,0
+78,Regular Season,Sun,2021-10-24,15:30,Köln,1.9,2 2,1.4,Leverkusen,49600.0,RheinEnergieSTADION,Felix Zwayer,2,2
+79,Regular Season,Sun,2021-10-24,17:30,Stuttgart,0.5,1 1,1.2,Union Berlin,32595.0,Mercedes-Benz Arena,Florian Badstübner,1,1
+80,Regular Season,Sun,2021-10-24,19:30,Bochum,2.1,2 0,1.6,Eint Frankfurt,19510.0,Vonovia Ruhrstadion,Marco Fritz,2,0
+81,Regular Season,Fri,2021-10-29,20:30,Hoffenheim,1.0,2 0,0.4,Hertha BSC,8127.0,PreZero Arena,Sven Jablonski,2,0
+82,Regular Season,Sat,2021-10-30,15:30,Dortmund,1.3,2 0,1.3,Köln,66709.0,Signal Iduna Park,Martin Petersen,2,0
+83,Regular Season,Sat,2021-10-30,15:30,Leverkusen,1.4,0 2,1.7,Wolfsburg,20132.0,BayArena,Deniz Aytekin,0,2
+84,Regular Season,Sat,2021-10-30,15:30,Freiburg,1.3,3 1,0.7,Greuther Fürth,31500.0,Europa-Park Stadion,Felix Brych,3,1
+85,Regular Season,Sat,2021-10-30,15:30,Union Berlin,1.1,2 5,3.3,Bayern Munich,16509.0,Stadion An der Alten Försterei,Harm Osmers,2,5
+86,Regular Season,Sat,2021-10-30,15:30,Arminia,0.7,1 2,2.5,Mainz 05,19477.0,SchücoArena,Bastian Dankert,1,2
+87,Regular Season,Sat,2021-10-30,18:30,Eint Frankfurt,0.6,1 1,2.8,RB Leipzig,31000.0,Commerzbank-Arena,Daniel Schlager,1,1
+88,Regular Season,Sun,2021-10-31,15:30,Augsburg,2.0,4 1,0.9,Stuttgart,17500.0,WWK Arena,Patrick Ittrich,4,1
+89,Regular Season,Sun,2021-10-31,17:30,M'Gladbach,1.8,2 1,1.0,Bochum,42361.0,Stadion im Borussia-Park,Tobias Reichel,2,1
+90,Regular Season,Fri,2021-11-05,20:30,Mainz 05,0.9,1 1,1.8,M'Gladbach,25000.0,Opel Arena,Robert Schröder,1,1
+91,Regular Season,Sat,2021-11-06,15:30,Stuttgart,0.9,0 1,1.7,Arminia,33550.0,Mercedes-Benz Arena,Christian Dingert,0,1
+92,Regular Season,Sat,2021-11-06,15:30,Wolfsburg,0.8,1 0,0.6,Augsburg,16095.0,Volkswagen Arena,Marco Fritz,1,0
+93,Regular Season,Sat,2021-11-06,15:30,Bayern Munich,3.5,2 1,1.1,Freiburg,75000.0,Allianz Arena,Sascha Stegemann,2,1
+94,Regular Season,Sat,2021-11-06,15:30,Bochum,2.3,2 0,0.6,Hoffenheim,19600.0,Vonovia Ruhrstadion,Frank Willenborg,2,0
+95,Regular Season,Sat,2021-11-06,18:30,RB Leipzig,2.4,2 1,1.2,Dortmund,43429.0,Red Bull Arena,Felix Zwayer,2,1
+96,Regular Season,Sun,2021-11-07,15:30,Hertha BSC,0.9,1 1,1.0,Leverkusen,22187.0,Olympiastadion Berlin,Robert Hartmann,1,1
+97,Regular Season,Sun,2021-11-07,17:30,Köln,2.1,2 2,1.1,Union Berlin,49000.0,RheinEnergieSTADION,Tobias Stieler,2,2
+98,Regular Season,Sun,2021-11-07,19:30,Greuther Fürth,2.8,1 2,1.5,Eint Frankfurt,10244.0,Sportpark Ronhof Thomas Sommer,Daniel Siebert,1,2
+99,Regular Season,Fri,2021-11-19,20:30,Augsburg,0.3,2 1,1.6,Bayern Munich,26000.0,WWK Arena,Daniel Siebert,2,1
+100,Regular Season,Sat,2021-11-20,15:30,Leverkusen,1.7,1 0,0.8,Bochum,22538.0,BayArena,Daniel Schlager,1,0
+101,Regular Season,Sat,2021-11-20,15:30,Hoffenheim,2.7,2 0,0.2,RB Leipzig,13233.0,PreZero Arena,Tobias Welz,2,0
+102,Regular Season,Sat,2021-11-20,15:30,Dortmund,1.7,2 1,1.4,Stuttgart,57900.0,Signal Iduna Park,Harm Osmers,2,1
+103,Regular Season,Sat,2021-11-20,15:30,Arminia,1.5,2 2,1.7,Wolfsburg,19801.0,SchücoArena,Martin Petersen,2,2
+104,Regular Season,Sat,2021-11-20,15:30,M'Gladbach,2.6,4 0,0.4,Greuther Fürth,38621.0,Stadion im Borussia-Park,Benjamin Brand,4,0
+105,Regular Season,Sat,2021-11-20,18:30,Union Berlin,2.0,2 0,0.5,Hertha BSC,22012.0,Stadion An der Alten Försterei,Felix Brych,2,0
+106,Regular Season,Sun,2021-11-21,15:30,Freiburg,1.7,0 2,1.3,Eint Frankfurt,32500.0,Europa-Park Stadion,Florian Badstübner,0,2
+107,Regular Season,Sun,2021-11-21,17:30,Mainz 05,0.9,1 1,1.7,Köln,25500.0,Opel Arena,Deniz Aytekin,1,1
+108,Regular Season,Fri,2021-11-26,20:30,Stuttgart,0.4,2 1,1.0,Mainz 05,25000.0,Mercedes-Benz Arena,Matthias Jöllenbeck,2,1
+109,Regular Season,Sat,2021-11-27,15:30,Bochum,1.0,2 1,2.1,Freiburg,19700.0,Vonovia Ruhrstadion,Patrick Ittrich,2,1
+110,Regular Season,Sat,2021-11-27,15:30,Wolfsburg,1.4,1 3,2.2,Dortmund,13281.0,Volkswagen Arena,Sven Jablonski,1,3
+111,Regular Season,Sat,2021-11-27,15:30,Köln,1.7,4 1,1.1,M'Gladbach,50000.0,RheinEnergieSTADION,Robert Schröder,4,1
+112,Regular Season,Sat,2021-11-27,15:30,Hertha BSC,1.4,1 1,1.4,Augsburg,14523.0,Olympiastadion Berlin,Frank Willenborg,1,1
+113,Regular Season,Sat,2021-11-27,15:30,Greuther Fürth,1.4,3 6,3.0,Hoffenheim,3385.0,Sportpark Ronhof Thomas Sommer,Bastian Dankert,3,6
+114,Regular Season,Sat,2021-11-27,18:30,Bayern Munich,2.3,1 0,0.5,Arminia,12000.0,Allianz Arena,Marco Fritz,1,0
+115,Regular Season,Sun,2021-11-28,15:30,Eint Frankfurt,1.9,2 1,1.3,Union Berlin,24000.0,Commerzbank-Arena,Sascha Stegemann,2,1
+116,Regular Season,Sun,2021-11-28,17:30,RB Leipzig,1.6,1 3,1.8,Leverkusen,35584.32258064516,Red Bull Arena,Benjamin Cortus,1,3
+117,Regular Season,Fri,2021-12-03,20:30,Union Berlin,3.3,2 1,1.3,RB Leipzig,13506.0,Stadion An der Alten Försterei,Harm Osmers,2,1
+118,Regular Season,Sat,2021-12-04,15:30,Leverkusen,2.8,7 1,0.4,Greuther Fürth,10455.0,BayArena,Tobias Reichel,7,1
+119,Regular Season,Sat,2021-12-04,15:30,Mainz 05,1.4,3 0,0.7,Wolfsburg,10000.0,Opel Arena,Florian Badstübner,3,0
+120,Regular Season,Sat,2021-12-04,15:30,Hoffenheim,0.9,3 2,1.7,Eint Frankfurt,23331.615384615383,PreZero Arena,Daniel Schlager,3,2
+121,Regular Season,Sat,2021-12-04,15:30,Augsburg,2.9,2 3,1.2,Bochum,25827.93442622951,WWK Arena,Deniz Aytekin,2,3
+122,Regular Season,Sat,2021-12-04,15:30,Arminia,1.5,1 1,1.1,Köln,8231.0,SchücoArena,Felix Brych,1,1
+123,Regular Season,Sat,2021-12-04,18:30,Dortmund,1.1,2 3,2.0,Bayern Munich,15000.0,Signal Iduna Park,Felix Zwayer,2,3
+124,Regular Season,Sun,2021-12-05,15:30,Stuttgart,1.2,2 2,1.1,Hertha BSC,395.0,Mercedes-Benz Arena,Benjamin Brand,2,2
+125,Regular Season,Sun,2021-12-05,17:30,M'Gladbach,1.1,0 6,1.8,Freiburg,10025.0,Stadion im Borussia-Park,Robert Hartmann,0,6
+126,Regular Season,Fri,2021-12-10,20:30,Köln,1.2,0 2,0.7,Augsburg,15000.0,RheinEnergieSTADION,Patrick Ittrich,0,2
+127,Regular Season,Sat,2021-12-11,15:30,RB Leipzig,4.4,4 1,1.4,M'Gladbach,35584.32258064516,Red Bull Arena,Bastian Dankert,4,1
+128,Regular Season,Sat,2021-12-11,15:30,Hertha BSC,2.0,2 0,0.4,Arminia,5000.0,Olympiastadion Berlin,Tobias Welz,2,0
+129,Regular Season,Sat,2021-12-11,15:30,Freiburg,1.6,1 2,1.1,Hoffenheim,750.0,Europa-Park Stadion,Frank Willenborg,1,2
+130,Regular Season,Sat,2021-12-11,15:30,Bochum,0.9,1 1,2.5,Dortmund,13799.0,Vonovia Ruhrstadion,Matthias Jöllenbeck,1,1
+131,Regular Season,Sat,2021-12-11,15:30,Bayern Munich,1.9,2 1,0.8,Mainz 05,65955.64516129032,Allianz Arena,Benjamin Cortus,2,1
+132,Regular Season,Sat,2021-12-11,18:30,Wolfsburg,1.5,0 2,1.4,Stuttgart,5000.0,Volkswagen Arena,Sascha Stegemann,0,2
+133,Regular Season,Sun,2021-12-12,15:30,Greuther Fürth,0.7,1 0,1.2,Union Berlin,10032.76923076923,Sportpark Ronhof Thomas Sommer,Sven Jablonski,1,0
+134,Regular Season,Sun,2021-12-12,17:30,Eint Frankfurt,1.6,5 2,1.7,Leverkusen,12000.0,Commerzbank-Arena,Marco Fritz,5,2
+135,Regular Season,Tue,2021-12-14,18:30,Stuttgart,0.9,0 5,3.3,Bayern Munich,750.0,Mercedes-Benz Arena,Robert Schröder,0,5
+136,Regular Season,Tue,2021-12-14,20:30,Wolfsburg,2.5,2 3,3.3,Köln,5000.0,Volkswagen Arena,Robert Hartmann,2,3
+137,Regular Season,Tue,2021-12-14,20:30,Arminia,0.9,2 0,0.6,Bochum,13750.0,SchücoArena,Benjamin Brand,2,0
+138,Regular Season,Tue,2021-12-14,20:30,Mainz 05,2.6,4 0,0.5,Hertha BSC,10000.0,Opel Arena,Harm Osmers,4,0
+139,Regular Season,Wed,2021-12-15,18:30,M'Gladbach,1.9,2 3,1.8,Eint Frankfurt,10028.0,Stadion im Borussia-Park,Martin Petersen,2,3
+140,Regular Season,Wed,2021-12-15,20:30,Leverkusen,2.0,2 2,1.9,Hoffenheim,13272.0,BayArena,Tobias Stieler,2,2
+141,Regular Season,Wed,2021-12-15,20:30,Union Berlin,1.8,0 0,1.4,Freiburg,5000.0,Stadion An der Alten Försterei,Deniz Aytekin,0,0
+142,Regular Season,Wed,2021-12-15,20:30,Augsburg,1.4,1 1,2.4,RB Leipzig,25827.93442622951,WWK Arena,Florian Badstübner,1,1
+143,Regular Season,Wed,2021-12-15,20:30,Dortmund,1.8,3 0,0.6,Greuther Fürth,15000.0,Signal Iduna Park,Daniel Schlager,3,0
+144,Regular Season,Fri,2021-12-17,20:30,Bayern Munich,3.2,4 0,1.2,Wolfsburg,65955.64516129032,Allianz Arena,Tobias Welz,4,0
+145,Regular Season,Sat,2021-12-18,15:30,Greuther Fürth,0.1,0 0,1.2,Augsburg,10032.76923076923,Sportpark Ronhof Thomas Sommer,Sascha Stegemann,0,0
+146,Regular Season,Sat,2021-12-18,15:30,Bochum,0.9,0 1,1.0,Union Berlin,13500.0,Vonovia Ruhrstadion,Tobias Reichel,0,1
+147,Regular Season,Sat,2021-12-18,15:30,Eint Frankfurt,2.0,1 0,0.8,Mainz 05,15000.0,Commerzbank-Arena,Felix Brych,1,0
+148,Regular Season,Sat,2021-12-18,15:30,RB Leipzig,2.0,0 2,0.6,Arminia,35584.32258064516,Red Bull Arena,Frank Willenborg,0,2
+149,Regular Season,Sat,2021-12-18,15:30,Hoffenheim,2.3,1 1,1.6,M'Gladbach,750.0,PreZero Arena,Sven Jablonski,1,1
+150,Regular Season,Sat,2021-12-18,18:30,Hertha BSC,1.6,3 2,1.2,Dortmund,5000.0,Olympiastadion Berlin,Marco Fritz,3,2
+151,Regular Season,Sun,2021-12-19,15:30,Freiburg,2.0,2 1,1.0,Leverkusen,750.0,Europa-Park Stadion,Benjamin Cortus,2,1
+152,Regular Season,Sun,2021-12-19,17:30,Köln,1.1,1 0,0.4,Stuttgart,15000.0,RheinEnergieSTADION,Bastian Dankert,1,0
+153,Regular Season,Fri,2022-01-07,20:30,Bayern Munich,1.7,1 2,1.1,M'Gladbach,65955.64516129032,Allianz Arena,Daniel Siebert,1,2
+154,Regular Season,Sat,2022-01-08,15:30,Hoffenheim,1.8,3 1,0.7,Augsburg,500.0,PreZero Arena,Benjamin Cortus,3,1
+155,Regular Season,Sat,2022-01-08,15:30,Greuther Fürth,0.8,0 0,1.4,Stuttgart,10032.76923076923,Sportpark Ronhof Thomas Sommer,Felix Brych,0,0
+156,Regular Season,Sat,2022-01-08,15:30,Freiburg,2.0,2 2,0.9,Arminia,22560.31746031746,Europa-Park Stadion,Harm Osmers,2,2
+157,Regular Season,Sat,2022-01-08,15:30,RB Leipzig,3.3,4 1,0.4,Mainz 05,35584.32258064516,Red Bull Arena,Deniz Aytekin,4,1
+158,Regular Season,Sat,2022-01-08,15:30,Leverkusen,1.8,2 2,2.4,Union Berlin,25328.171875,BayArena,Matthias Jöllenbeck,2,2
+159,Regular Season,Sat,2022-01-08,18:30,Eint Frankfurt,1.2,2 3,2.4,Dortmund,250.0,Commerzbank-Arena,Robert Schröder,2,3
+160,Regular Season,Sun,2022-01-09,15:30,Hertha BSC,1.0,1 3,1.7,Köln,3000.0,Olympiastadion Berlin,Tobias Stieler,1,3
+161,Regular Season,Sun,2022-01-09,17:30,Bochum,0.8,1 0,0.4,Wolfsburg,16133.8,Vonovia Ruhrstadion,Daniel Schlager,1,0
+162,Regular Season,Fri,2022-01-14,20:30,Dortmund,1.8,5 1,0.7,Freiburg,750.0,Signal Iduna Park,Florian Badstübner,5,1
+163,Regular Season,Sat,2022-01-15,15:30,Mainz 05,1.7,1 0,1.5,Bochum,1000.0,Opel Arena,Frank Willenborg,1,0
+164,Regular Season,Sat,2022-01-15,15:30,Köln,1.2,0 4,3.4,Bayern Munich,1000.0,RheinEnergieSTADION,Tobias Welz,0,4
+165,Regular Season,Sat,2022-01-15,15:30,Union Berlin,1.6,2 1,1.3,Hoffenheim,3000.0,Stadion An der Alten Försterei,Martin Petersen,2,1
+166,Regular Season,Sat,2022-01-15,15:30,Stuttgart,1.1,0 2,1.3,RB Leipzig,500.0,Mercedes-Benz Arena,Daniel Schlager,0,2
+167,Regular Season,Sat,2022-01-15,15:30,Wolfsburg,1.2,0 0,0.2,Hertha BSC,500.0,Volkswagen Arena,Robert Hartmann,0,0
+168,Regular Season,Sat,2022-01-15,18:30,M'Gladbach,1.5,1 2,4.4,Leverkusen,750.0,Stadion im Borussia-Park,Sascha Stegemann,1,2
+169,Regular Season,Sun,2022-01-16,15:30,Augsburg,1.4,1 1,2.2,Eint Frankfurt,25827.93442622951,WWK Arena,Sven Jablonski,1,1
+170,Regular Season,Sun,2022-01-16,17:30,Arminia,0.8,2 2,0.4,Greuther Fürth,750.0,SchücoArena,Christian Dingert,2,2
+171,Regular Season,Fri,2022-01-21,20:30,Eint Frankfurt,1.9,0 2,1.5,Arminia,1000.0,Commerzbank-Arena,Tobias Reichel,0,2
+172,Regular Season,Sat,2022-01-22,15:30,Greuther Fürth,1.1,2 1,2.0,Mainz 05,10032.76923076923,Sportpark Ronhof Thomas Sommer,Robert Schröder,2,1
+173,Regular Season,Sat,2022-01-22,15:30,M'Gladbach,1.0,1 2,1.1,Union Berlin,750.0,Stadion im Borussia-Park,Felix Brych,1,2
+174,Regular Season,Sat,2022-01-22,15:30,Freiburg,1.6,2 0,0.5,Stuttgart,500.0,Europa-Park Stadion,Tobias Stieler,2,0
+175,Regular Season,Sat,2022-01-22,15:30,Leverkusen,3.2,5 1,1.4,Augsburg,750.0,BayArena,Daniel Schlager,5,1
+176,Regular Season,Sat,2022-01-22,15:30,Hoffenheim,1.5,2 3,1.5,Dortmund,500.0,PreZero Arena,Deniz Aytekin,2,3
+177,Regular Season,Sat,2022-01-22,18:30,Bochum,1.8,2 2,1.0,Köln,750.0,Vonovia Ruhrstadion,Matthias Jöllenbeck,2,2
+178,Regular Season,Sun,2022-01-23,15:30,RB Leipzig,1.3,2 0,0.9,Wolfsburg,1000.0,Red Bull Arena,Daniel Siebert,2,0
+179,Regular Season,Sun,2022-01-23,17:30,Hertha BSC,0.9,1 4,3.9,Bayern Munich,3000.0,Olympiastadion Berlin,Bastian Dankert,1,4
+180,Regular Season,Fri,2022-02-04,20:30,Hertha BSC,0.5,1 1,1.1,Bochum,3000.0,Olympiastadion Berlin,Marco Fritz,1,1
+181,Regular Season,Sat,2022-02-05,15:30,Arminia,0.6,1 1,1.5,M'Gladbach,10000.0,SchücoArena,Benjamin Cortus,1,1
+182,Regular Season,Sat,2022-02-05,15:30,Mainz 05,2.0,2 0,1.6,Hoffenheim,6800.0,Opel Arena,Christian Dingert,2,0
+183,Regular Season,Sat,2022-02-05,15:30,Stuttgart,1.8,2 3,1.1,Eint Frankfurt,10000.0,Mercedes-Benz Arena,Sascha Stegemann,2,3
+184,Regular Season,Sat,2022-02-05,15:30,Köln,1.3,1 0,1.3,Freiburg,10000.0,RheinEnergieSTADION,Felix Brych,1,0
+185,Regular Season,Sat,2022-02-05,15:30,Augsburg,2.0,2 0,1.6,Union Berlin,7600.0,WWK Arena,Harm Osmers,2,0
+186,Regular Season,Sat,2022-02-05,18:30,Bayern Munich,2.9,3 2,2.1,RB Leipzig,10000.0,Allianz Arena,Sven Jablonski,3,2
+187,Regular Season,Sun,2022-02-06,15:30,Dortmund,1.3,2 5,2.1,Leverkusen,10000.0,Signal Iduna Park,Daniel Siebert,2,5
+188,Regular Season,Sun,2022-02-06,17:30,Wolfsburg,2.0,4 1,1.1,Greuther Fürth,500.0,Volkswagen Arena,Martin Petersen,4,1
+189,Regular Season,Fri,2022-02-11,20:30,RB Leipzig,1.0,3 1,0.9,Köln,15000.0,Red Bull Arena,Florian Badstübner,3,1
+190,Regular Season,Sat,2022-02-12,15:30,Freiburg,1.7,1 1,2.1,Mainz 05,10000.0,Europa-Park Stadion,Deniz Aytekin,1,1
+191,Regular Season,Sat,2022-02-12,15:30,Eint Frankfurt,1.1,0 2,1.6,Wolfsburg,10000.0,Commerzbank-Arena,Frank Willenborg,0,2
+192,Regular Season,Sat,2022-02-12,15:30,M'Gladbach,2.2,3 2,1.2,Augsburg,10000.0,Stadion im Borussia-Park,Tobias Welz,3,2
+193,Regular Season,Sat,2022-02-12,15:30,Bochum,1.3,4 2,2.2,Bayern Munich,10000.0,Vonovia Ruhrstadion,Robert Schröder,4,2
+194,Regular Season,Sat,2022-02-12,15:30,Greuther Fürth,2.5,2 1,2.3,Hertha BSC,9000.0,Sportpark Ronhof Thomas Sommer,Daniel Schlager,2,1
+195,Regular Season,Sat,2022-02-12,18:30,Leverkusen,2.5,4 2,1.2,Stuttgart,10000.0,BayArena,Felix Brych,4,2
+196,Regular Season,Sun,2022-02-13,15:30,Union Berlin,1.3,0 3,1.9,Dortmund,10000.0,Stadion An der Alten Försterei,Matthias Jöllenbeck,0,3
+197,Regular Season,Sun,2022-02-13,17:30,Hoffenheim,2.3,2 0,0.8,Arminia,10000.0,PreZero Arena,Robert Hartmann,2,0
+198,Regular Season,Fri,2022-02-18,20:30,Mainz 05,1.0,3 2,1.2,Leverkusen,10000.0,Opel Arena,Benjamin Cortus,3,2
+199,Regular Season,Sat,2022-02-19,15:30,Wolfsburg,1.1,1 2,1.4,Hoffenheim,7145.0,Volkswagen Arena,Felix Zwayer,1,2
+200,Regular Season,Sat,2022-02-19,15:30,Stuttgart,1.9,1 1,1.9,Bochum,20059.0,Mercedes-Benz Arena,Harm Osmers,1,1
+201,Regular Season,Sat,2022-02-19,15:30,Arminia,1.1,1 0,1.0,Union Berlin,10000.0,SchücoArena,Daniel Schlager,1,0
+202,Regular Season,Sat,2022-02-19,15:30,Augsburg,0.8,1 2,1.6,Freiburg,15000.0,WWK Arena,Daniel Siebert,1,2
+203,Regular Season,Sat,2022-02-19,18:30,Köln,1.3,1 0,0.7,Eint Frankfurt,10000.0,RheinEnergieSTADION,Christian Dingert,1,0
+204,Regular Season,Sun,2022-02-20,15:30,Bayern Munich,2.7,4 1,0.9,Greuther Fürth,25000.0,Allianz Arena,Robert Hartmann,4,1
+205,Regular Season,Sun,2022-02-20,17:30,Dortmund,3.5,6 0,0.8,M'Gladbach,10000.0,Signal Iduna Park,Marco Fritz,6,0
+206,Regular Season,Sun,2022-02-20,19:30,Hertha BSC,0.7,1 6,3.1,RB Leipzig,10000.0,Olympiastadion Berlin,Patrick Ittrich,1,6
+207,Regular Season,Fri,2022-02-25,20:30,Hoffenheim,2.3,2 1,1.9,Stuttgart,18099.0,PreZero Arena,Matthias Jöllenbeck,2,1
+208,Regular Season,Sat,2022-02-26,15:30,M'Gladbach,2.7,2 2,1.5,Wolfsburg,10000.0,Stadion im Borussia-Park,Tobias Reichel,2,2
+209,Regular Season,Sat,2022-02-26,15:30,Freiburg,2.8,3 0,1.9,Hertha BSC,25000.0,Europa-Park Stadion,Sven Jablonski,3,0
+210,Regular Season,Sat,2022-02-26,15:30,Greuther Fürth,0.8,1 1,0.8,Köln,9200.0,Sportpark Ronhof Thomas Sommer,Robert Schörgenhofer,1,1
+211,Regular Season,Sat,2022-02-26,15:30,Leverkusen,2.6,3 0,0.4,Arminia,10000.0,BayArena,Martin Petersen,3,0
+212,Regular Season,Sat,2022-02-26,15:30,Union Berlin,0.9,3 1,0.8,Mainz 05,10000.0,Stadion An der Alten Försterei,Bastian Dankert,3,1
+213,Regular Season,Sat,2022-02-26,18:30,Eint Frankfurt,0.8,0 1,2.0,Bayern Munich,25000.0,Commerzbank-Arena,Florian Badstübner,0,1
+214,Regular Season,Sun,2022-02-27,15:30,Bochum,1.0,0 1,0.7,RB Leipzig,10000.0,Vonovia Ruhrstadion,Felix Brych,0,1
+215,Regular Season,Sun,2022-02-27,17:30,Augsburg,0.9,1 1,0.5,Dortmund,15330.0,WWK Arena,Deniz Aytekin,1,1
+216,Regular Season,Fri,2022-03-04,20:30,Arminia,0.2,0 1,0.4,Augsburg,19460.0,SchücoArena,Felix Brych,0,1
+217,Regular Season,Sat,2022-03-05,15:30,RB Leipzig,0.7,1 1,0.5,Freiburg,24758.0,Red Bull Arena,Felix Zwayer,1,1
+218,Regular Season,Sat,2022-03-05,15:30,Bayern Munich,1.4,1 1,1.8,Leverkusen,25000.0,Allianz Arena,Daniel Siebert,1,1
+219,Regular Season,Sat,2022-03-05,15:30,Wolfsburg,0.6,1 0,1.1,Union Berlin,15703.0,Volkswagen Arena,Patrick Ittrich,1,0
+220,Regular Season,Sat,2022-03-05,15:30,Hertha BSC,0.7,1 4,1.3,Eint Frankfurt,25000.0,Olympiastadion Berlin,Harm Osmers,1,4
+221,Regular Season,Sat,2022-03-05,15:30,Bochum,1.3,2 1,0.8,Greuther Fürth,19800.0,Vonovia Ruhrstadion,Daniel Schlager,2,1
+222,Regular Season,Sat,2022-03-05,18:30,Stuttgart,1.8,3 2,1.2,M'Gladbach,25000.0,Mercedes-Benz Arena,Christian Dingert,3,2
+223,Regular Season,Sun,2022-03-06,17:30,Köln,1.3,0 1,2.1,Hoffenheim,37500.0,RheinEnergieSTADION,Marco Fritz,0,1
+224,Regular Season,Sat,2022-03-12,15:30,Freiburg,1.9,3 2,1.2,Wolfsburg,25000.0,Europa-Park Stadion,Martin Petersen,3,2
+225,Regular Season,Sat,2022-03-12,15:30,Hoffenheim,1.4,1 1,3.3,Bayern Munich,25600.0,PreZero Arena,Robert Schröder,1,1
+226,Regular Season,Sat,2022-03-12,15:30,Union Berlin,1.2,1 1,1.2,Stuttgart,16509.0,Stadion An der Alten Försterei,Robert Hartmann,1,1
+227,Regular Season,Sat,2022-03-12,18:30,M'Gladbach,1.8,2 0,0.5,Hertha BSC,30675.0,Stadion im Borussia-Park,Florian Badstübner,2,0
+228,Regular Season,Sun,2022-03-13,15:30,Leverkusen,1.7,0 1,0.5,Köln,22658.0,BayArena,Sascha Stegemann,0,1
+229,Regular Season,Sun,2022-03-13,17:30,Eint Frankfurt,1.9,2 1,1.0,Bochum,24000.0,Commerzbank-Arena,Marco Fritz,2,1
+230,Regular Season,Sun,2022-03-13,17:30,Dortmund,2.0,1 0,0.6,Arminia,33000.0,Signal Iduna Park,Bastian Dankert,1,0
+231,Regular Season,Sun,2022-03-13,19:30,Greuther Fürth,0.4,1 6,1.4,RB Leipzig,9418.0,Sportpark Ronhof Thomas Sommer,Sven Jablonski,1,6
+232,Regular Season,Wed,2022-03-16,18:30,Mainz 05,0.6,0 1,0.8,Dortmund,25000.0,Opel Arena,Sascha Stegemann,0,1
+233,Regular Season,Fri,2022-03-18,20:30,Bochum,1.4,0 2,0.6,M'Gladbach,16133.8,Vonovia Ruhrstadion,Benjamin Cortus,0,2
+234,Regular Season,Sat,2022-03-19,15:30,Mainz 05,4.2,4 0,0.2,Arminia,25000.0,Opel Arena,Felix Zwayer,4,0
+235,Regular Season,Sat,2022-03-19,15:30,Stuttgart,2.7,3 2,0.9,Augsburg,55785.0,Mercedes-Benz Arena,Patrick Ittrich,3,2
+236,Regular Season,Sat,2022-03-19,15:30,Hertha BSC,0.8,3 0,0.8,Hoffenheim,25000.0,Olympiastadion Berlin,Daniel Schlager,3,0
+237,Regular Season,Sat,2022-03-19,15:30,Greuther Fürth,0.7,0 0,0.8,Freiburg,9884.0,Sportpark Ronhof Thomas Sommer,Tobias Reichel,0,0
+238,Regular Season,Sat,2022-03-19,18:30,Bayern Munich,2.9,4 0,0.8,Union Berlin,37000.0,Allianz Arena,Harm Osmers,4,0
+239,Regular Season,Sun,2022-03-20,15:30,RB Leipzig,1.2,0 0,0.1,Eint Frankfurt,43058.0,Red Bull Arena,Christian Dingert,0,0
+240,Regular Season,Sun,2022-03-20,17:30,Wolfsburg,1.5,0 2,1.2,Leverkusen,16554.0,Volkswagen Arena,Felix Brych,0,2
+241,Regular Season,Sun,2022-03-20,19:30,Köln,1.2,1 1,1.1,Dortmund,50000.0,RheinEnergieSTADION,Daniel Siebert,1,1
+242,Regular Season,Fri,2022-04-01,20:30,Union Berlin,1.7,1 0,0.5,Köln,22012.0,Stadion An der Alten Försterei,Florian Badstübner,1,0
+243,Regular Season,Sat,2022-04-02,15:30,Freiburg,0.6,1 4,2.0,Bayern Munich,34700.0,Europa-Park Stadion,Christian Dingert,1,4
+244,Regular Season,Sat,2022-04-02,15:30,Leverkusen,2.1,2 1,0.8,Hertha BSC,23557.0,BayArena,Matthias Jöllenbeck,2,1
+245,Regular Season,Sat,2022-04-02,15:30,Hoffenheim,2.2,1 2,2.1,Bochum,15014.0,PreZero Arena,Daniel Siebert,1,2
+246,Regular Season,Sat,2022-04-02,15:30,Arminia,0.8,1 1,2.3,Stuttgart,26011.0,SchücoArena,Patrick Ittrich,1,1
+247,Regular Season,Sat,2022-04-02,15:30,Eint Frankfurt,1.4,0 0,0.4,Greuther Fürth,50500.0,Commerzbank-Arena,Bastian Dankert,0,0
+248,Regular Season,Sat,2022-04-02,18:30,Dortmund,0.8,1 4,0.9,RB Leipzig,81365.0,Signal Iduna Park,Marco Fritz,1,4
+249,Regular Season,Sun,2022-04-03,15:30,Augsburg,1.6,3 0,1.4,Wolfsburg,23143.0,WWK Arena,Sascha Stegemann,3,0
+250,Regular Season,Sun,2022-04-03,17:30,M'Gladbach,1.6,1 1,2.2,Mainz 05,44156.0,Stadion im Borussia-Park,Daniel Schlager,1,1
+251,Regular Season,Wed,2022-04-06,18:30,Augsburg,2.1,2 1,2.0,Mainz 05,18122.0,WWK Arena,Matthias Jöllenbeck,2,1
+252,Regular Season,Fri,2022-04-08,20:30,Stuttgart,1.1,0 2,1.7,Dortmund,58248.0,Mercedes-Benz Arena,Harm Osmers,0,2
+253,Regular Season,Sat,2022-04-09,15:30,Greuther Fürth,0.7,0 2,2.9,M'Gladbach,13900.0,Sportpark Ronhof Thomas Sommer,Tobias Stieler,0,2
+254,Regular Season,Sat,2022-04-09,15:30,Bayern Munich,1.8,1 0,0.3,Augsburg,75000.0,Allianz Arena,Patrick Ittrich,1,0
+255,Regular Season,Sat,2022-04-09,15:30,Wolfsburg,2.0,4 0,0.5,Arminia,22512.0,Volkswagen Arena,Benjamin Brand,4,0
+256,Regular Season,Sat,2022-04-09,15:30,Köln,2.2,3 2,1.0,Mainz 05,49800.0,RheinEnergieSTADION,Martin Petersen,3,2
+257,Regular Season,Sat,2022-04-09,18:30,Hertha BSC,0.9,1 4,2.3,Union Berlin,74667.0,Olympiastadion Berlin,Sven Jablonski,1,4
+258,Regular Season,Sun,2022-04-10,15:30,Bochum,1.0,0 0,1.2,Leverkusen,25000.0,Vonovia Ruhrstadion,Felix Zwayer,0,0
+259,Regular Season,Sun,2022-04-10,17:30,Eint Frankfurt,1.1,1 2,0.9,Freiburg,47000.0,Commerzbank-Arena,Felix Brych,1,2
+260,Regular Season,Sun,2022-04-10,19:30,RB Leipzig,1.5,3 0,0.2,Hoffenheim,35112.0,Red Bull Arena,Bastian Dankert,3,0
+261,Regular Season,Sat,2022-04-16,15:30,Dortmund,2.8,6 1,1.3,Wolfsburg,79200.0,Signal Iduna Park,Robert Schröder,6,1
+262,Regular Season,Sat,2022-04-16,15:30,Mainz 05,0.6,0 0,0.6,Stuttgart,30128.0,Opel Arena,Florian Badstübner,0,0
+263,Regular Season,Sat,2022-04-16,15:30,Freiburg,1.8,3 0,0.7,Bochum,34000.0,Europa-Park Stadion,Sascha Stegemann,3,0
+264,Regular Season,Sat,2022-04-16,15:30,Augsburg,1.3,0 1,1.0,Hertha BSC,28533.0,WWK Arena,Marco Fritz,0,1
+265,Regular Season,Sat,2022-04-16,18:30,M'Gladbach,2.0,1 3,2.3,Köln,54042.0,Stadion im Borussia-Park,Deniz Aytekin,1,3
+266,Regular Season,Sun,2022-04-17,15:30,Arminia,0.7,0 3,2.2,Bayern Munich,26419.0,SchücoArena,Matthias Jöllenbeck,0,3
+267,Regular Season,Sun,2022-04-17,17:30,Union Berlin,1.2,2 0,0.5,Eint Frankfurt,22000.0,Stadion An der Alten Försterei,Frank Willenborg,2,0
+268,Regular Season,Sun,2022-04-17,17:30,Hoffenheim,0.8,0 0,0.5,Greuther Fürth,16110.0,PreZero Arena,Felix Zwayer,0,0
+269,Regular Season,Sun,2022-04-17,19:30,Leverkusen,0.7,0 1,0.6,RB Leipzig,26119.0,BayArena,Daniel Siebert,0,1
+270,Regular Season,Fri,2022-04-22,20:30,Wolfsburg,3.2,5 0,0.8,Mainz 05,19055.0,Volkswagen Arena,Harm Osmers,5,0
+271,Regular Season,Sat,2022-04-23,15:30,RB Leipzig,0.6,1 2,1.5,Union Berlin,45770.0,Red Bull Arena,Daniel Schlager,1,2
+272,Regular Season,Sat,2022-04-23,15:30,Freiburg,2.1,3 3,1.6,M'Gladbach,34700.0,Europa-Park Stadion,Benjamin Brand,3,3
+273,Regular Season,Sat,2022-04-23,15:30,Greuther Fürth,0.7,1 4,2.2,Leverkusen,11579.0,Sportpark Ronhof Thomas Sommer,Tobias Reichel,1,4
+274,Regular Season,Sat,2022-04-23,15:30,Köln,1.8,3 1,0.9,Arminia,50000.0,RheinEnergieSTADION,Tobias Stieler,3,1
+275,Regular Season,Sat,2022-04-23,15:30,Eint Frankfurt,1.5,2 2,1.0,Hoffenheim,50500.0,Commerzbank-Arena,Sven Jablonski,2,2
+276,Regular Season,Sat,2022-04-23,18:30,Bayern Munich,1.8,3 1,1.4,Dortmund,75000.0,Allianz Arena,Daniel Siebert,3,1
+277,Regular Season,Sun,2022-04-24,15:30,Bochum,1.2,0 2,2.3,Augsburg,23500.0,Vonovia Ruhrstadion,Bastian Dankert,0,2
+278,Regular Season,Sun,2022-04-24,17:30,Hertha BSC,1.1,2 0,0.6,Stuttgart,54589.0,Olympiastadion Berlin,Felix Brych,2,0
+279,Regular Season,Fri,2022-04-29,20:30,Union Berlin,1.3,1 1,0.3,Greuther Fürth,22012.0,Stadion An der Alten Försterei,Patrick Ittrich,1,1
+280,Regular Season,Sat,2022-04-30,15:30,Dortmund,4.6,3 4,2.1,Bochum,81365.0,Signal Iduna Park,Robert Hartmann,3,4
+281,Regular Season,Sat,2022-04-30,15:30,Mainz 05,3.8,3 1,1.9,Bayern Munich,33305.0,Opel Arena,Sascha Stegemann,3,1
+282,Regular Season,Sat,2022-04-30,15:30,Stuttgart,0.9,1 1,0.9,Wolfsburg,55000.0,Mercedes-Benz Arena,Sven Jablonski,1,1
+283,Regular Season,Sat,2022-04-30,15:30,Arminia,0.3,1 1,1.0,Hertha BSC,26021.0,SchücoArena,Deniz Aytekin,1,1
+284,Regular Season,Sat,2022-04-30,15:30,Augsburg,1.7,1 4,3.1,Köln,29511.0,WWK Arena,Robert Schröder,1,4
+285,Regular Season,Sat,2022-04-30,18:30,Hoffenheim,1.7,3 4,2.2,Freiburg,23627.0,PreZero Arena,Marco Fritz,3,4
+286,Regular Season,Mon,2022-05-02,20:30,M'Gladbach,1.6,3 1,1.3,RB Leipzig,35324.0,Stadion im Borussia-Park,Martin Petersen,3,1
+287,Regular Season,Mon,2022-05-02,20:30,Leverkusen,1.9,2 0,0.4,Eint Frankfurt,26492.0,BayArena,Benjamin Cortus,2,0
+288,Regular Season,Fri,2022-05-06,20:30,Bochum,2.1,2 1,0.8,Arminia,25000.0,Vonovia Ruhrstadion,Robert Schröder,2,1
+289,Regular Season,Sat,2022-05-07,15:30,Hoffenheim,1.9,2 4,3.6,Leverkusen,20033.0,PreZero Arena,Frank Willenborg,2,4
+290,Regular Season,Sat,2022-05-07,15:30,Freiburg,1.9,1 4,2.5,Union Berlin,34700.0,Europa-Park Stadion,Felix Brych,1,4
+291,Regular Season,Sat,2022-05-07,15:30,Greuther Fürth,1.1,1 3,1.6,Dortmund,16600.0,Sportpark Ronhof Thomas Sommer,Christian Dingert,1,3
+292,Regular Season,Sat,2022-05-07,15:30,Köln,1.6,0 1,0.9,Wolfsburg,50000.0,RheinEnergieSTADION,Tobias Stieler,0,1
+293,Regular Season,Sat,2022-05-07,18:30,Hertha BSC,1.1,1 2,0.6,Mainz 05,71548.0,Olympiastadion Berlin,Patrick Ittrich,1,2
+294,Regular Season,Sun,2022-05-08,15:30,Eint Frankfurt,0.9,1 1,1.5,M'Gladbach,51500.0,Commerzbank-Arena,Felix Zwayer,1,1
+295,Regular Season,Sun,2022-05-08,17:30,Bayern Munich,2.8,2 2,1.7,Stuttgart,75000.0,Allianz Arena,Deniz Aytekin,2,2
+296,Regular Season,Sun,2022-05-08,19:30,RB Leipzig,3.1,4 0,0.2,Augsburg,37029.0,Red Bull Arena,Bastian Dankert,4,0
+297,Regular Season,Sat,2022-05-14,15:30,Arminia,1.3,1 1,3.0,RB Leipzig,22719.0,SchücoArena,Daniel Siebert,1,1
+298,Regular Season,Sat,2022-05-14,15:30,Wolfsburg,1.6,2 2,2.5,Bayern Munich,30000.0,Volkswagen Arena,Robert Hartmann,2,2
+299,Regular Season,Sat,2022-05-14,15:30,Augsburg,1.8,2 1,0.6,Greuther Fürth,27907.0,WWK Arena,Tobias Reichel,2,1
+300,Regular Season,Sat,2022-05-14,15:30,Stuttgart,4.1,2 1,1.3,Köln,52230.0,Mercedes-Benz Arena,Robert Schröder,2,1
+301,Regular Season,Sat,2022-05-14,15:30,Union Berlin,2.6,3 2,0.2,Bochum,22012.0,Stadion An der Alten Försterei,Marco Fritz,3,2
+302,Regular Season,Sat,2022-05-14,15:30,Leverkusen,1.7,2 1,0.9,Freiburg,30210.0,BayArena,Sven Jablonski,2,1
+303,Regular Season,Sat,2022-05-14,15:30,M'Gladbach,2.9,5 1,1.4,Hoffenheim,50395.0,Stadion im Borussia-Park,Harm Osmers,5,1
+304,Regular Season,Sat,2022-05-14,15:30,Dortmund,1.3,2 1,1.0,Hertha BSC,80500.0,Signal Iduna Park,Tobias Stieler,2,1
+305,Regular Season,Sat,2022-05-14,15:30,Mainz 05,1.7,2 2,1.7,Eint Frankfurt,33000.0,Opel Arena,Martin Petersen,2,2
+308,Regular Season,Fri,2020-09-18,20:30,Bayern Munich,5.1,8 0,0.2,Schalke 04,65955.64516129032,Allianz Arena,Felix Zwayer,8,0
+309,Regular Season,Sat,2020-09-19,15:30,Union Berlin,1.3,1 3,1.1,Augsburg,4600.0,Stadion An der Alten Försterei,Marco Fritz,1,3
+310,Regular Season,Sat,2020-09-19,15:30,Eint Frankfurt,1.6,1 1,1.0,Arminia,6500.0,Commerzbank-Arena,Benjamin Brand,1,1
+311,Regular Season,Sat,2020-09-19,15:30,Werder Bremen,1.0,1 4,2.1,Hertha BSC,8400.0,Weserstadion,Sascha Stegemann,1,4
+312,Regular Season,Sat,2020-09-19,15:30,Stuttgart,3.1,2 3,2.0,Freiburg,7123.0,Mercedes-Benz Arena,Benjamin Cortus,2,3
+313,Regular Season,Sat,2020-09-19,15:30,Köln,2.1,2 3,3.1,Hoffenheim,41037.5,RheinEnergieSTADION,Daniel Siebert,2,3
+314,Regular Season,Sat,2020-09-19,18:30,Dortmund,1.6,3 0,0.6,M'Gladbach,9300.0,Signal Iduna Park,Felix Brych,3,0
+315,Regular Season,Sun,2020-09-20,15:30,RB Leipzig,2.8,3 1,1.2,Mainz 05,8500.0,Red Bull Arena,Manuel Gräfe,3,1
+316,Regular Season,Sun,2020-09-20,18:00,Wolfsburg,1.0,0 0,0.7,Leverkusen,21075.417910447763,Volkswagen Arena,Sven Jablonski,0,0
+317,Regular Season,Fri,2020-09-25,20:30,Hertha BSC,1.1,1 3,1.7,Eint Frankfurt,4000.0,Olympiastadion Berlin,Bastian Dankert,1,3
+318,Regular Season,Sat,2020-09-26,15:30,Mainz 05,1.2,1 4,2.7,Stuttgart,3403.0,Opel Arena,Daniel Schlager,1,4
+319,Regular Season,Sat,2020-09-26,15:30,Arminia,0.2,1 0,0.9,Köln,5460.0,SchücoArena,Patrick Ittrich,1,0
+320,Regular Season,Sat,2020-09-26,15:30,Augsburg,1.0,2 0,1.7,Dortmund,6000.0,WWK Arena,Martin Petersen,2,0
+321,Regular Season,Sat,2020-09-26,15:30,Leverkusen,0.8,1 1,0.8,RB Leipzig,6042.0,BayArena,Harm Osmers,1,1
+322,Regular Season,Sat,2020-09-26,15:30,M'Gladbach,1.3,1 1,0.9,Union Berlin,10383.0,Stadion im Borussia-Park,Tobias Stieler,1,1
+323,Regular Season,Sat,2020-09-26,18:30,Schalke 04,1.2,1 3,2.4,Werder Bremen,59831.604166666664,Veltins-Arena,Markus Schmidt,1,3
+324,Regular Season,Sun,2020-09-27,15:30,Hoffenheim,4.0,4 1,1.6,Bayern Munich,23331.615384615383,PreZero Arena,Benjamin Brand,4,1
+325,Regular Season,Sun,2020-09-27,18:00,Freiburg,1.5,1 1,0.6,Wolfsburg,3200.0,Schwarzwald-Stadion,Sören Storks,1,1
+326,Regular Season,Fri,2020-10-02,20:30,Union Berlin,1.9,4 0,0.2,Mainz 05,4400.0,Stadion An der Alten Försterei,Sascha Stegemann,4,0
+327,Regular Season,Sat,2020-10-03,15:30,Werder Bremen,0.4,1 0,0.9,Arminia,300.0,Weserstadion,Robert Schröder,1,0
+328,Regular Season,Sat,2020-10-03,15:30,Stuttgart,0.8,1 1,1.4,Leverkusen,9500.0,Mercedes-Benz Arena,Robert Hartmann,1,1
+329,Regular Season,Sat,2020-10-03,15:30,Eint Frankfurt,2.6,2 1,0.5,Hoffenheim,8000.0,Commerzbank-Arena,Manuel Gräfe,2,1
+330,Regular Season,Sat,2020-10-03,15:30,Köln,0.8,1 3,2.2,M'Gladbach,300.0,RheinEnergieSTADION,Marco Fritz,1,3
+331,Regular Season,Sat,2020-10-03,15:30,Dortmund,3.1,4 0,0.6,Freiburg,11500.0,Signal Iduna Park,Guido Winkmann,4,0
+332,Regular Season,Sat,2020-10-03,18:30,RB Leipzig,3.2,4 0,0.1,Schalke 04,8500.0,Red Bull Arena,Florian Badstübner,4,0
+333,Regular Season,Sun,2020-10-04,15:30,Wolfsburg,1.2,0 0,0.9,Augsburg,4632.0,Volkswagen Arena,Felix Zwayer,0,0
+334,Regular Season,Sun,2020-10-04,18:00,Bayern Munich,3.8,4 3,1.4,Hertha BSC,65955.64516129032,Allianz Arena,Benjamin Cortus,4,3
+335,Regular Season,Sat,2020-10-17,15:30,Augsburg,0.7,0 2,1.7,RB Leipzig,25827.93442622951,WWK Arena,Felix Brych,0,2
+336,Regular Season,Sat,2020-10-17,15:30,Hertha BSC,1.2,0 2,0.8,Stuttgart,4000.0,Olympiastadion Berlin,Harm Osmers,0,2
+337,Regular Season,Sat,2020-10-17,15:30,Hoffenheim,1.0,0 1,2.4,Dortmund,6030.0,PreZero Arena,Sascha Stegemann,0,1
+338,Regular Season,Sat,2020-10-17,15:30,Freiburg,1.0,1 1,1.6,Werder Bremen,22560.31746031746,Schwarzwald-Stadion,Christian Dingert,1,1
+339,Regular Season,Sat,2020-10-17,15:30,Mainz 05,0.3,0 1,0.5,Leverkusen,250.0,Opel Arena,Bastian Dankert,0,1
+340,Regular Season,Sat,2020-10-17,18:30,Arminia,1.4,1 4,2.6,Bayern Munich,16144.388888888889,SchücoArena,Daniel Siebert,1,4
+341,Regular Season,Sat,2020-10-17,20:30,M'Gladbach,1.6,1 1,1.2,Wolfsburg,300.0,Stadion im Borussia-Park,Daniel Schlager,1,1
+342,Regular Season,Sun,2020-10-18,15:30,Köln,1.1,1 1,2.1,Eint Frankfurt,300.0,RheinEnergieSTADION,Sven Jablonski,1,1
+343,Regular Season,Sun,2020-10-18,18:00,Schalke 04,0.3,1 1,0.9,Union Berlin,300.0,Veltins-Arena,Patrick Ittrich,1,1
+344,Regular Season,Fri,2020-10-23,20:30,Stuttgart,0.7,1 1,2.2,Köln,44836.25925925926,Mercedes-Benz Arena,Guido Winkmann,1,1
+345,Regular Season,Sat,2020-10-24,15:30,Union Berlin,1.3,1 1,0.4,Freiburg,4500.0,Stadion An der Alten Försterei,Robert Schröder,1,1
+346,Regular Season,Sat,2020-10-24,15:30,RB Leipzig,2.3,2 1,0.9,Hertha BSC,999.0,Red Bull Arena,Tobias Stieler,2,1
+347,Regular Season,Sat,2020-10-24,15:30,Bayern Munich,3.4,5 0,0.5,Eint Frankfurt,65955.64516129032,Allianz Arena,Markus Schmidt,5,0
+348,Regular Season,Sat,2020-10-24,15:30,Mainz 05,1.7,2 3,2.9,M'Gladbach,100.0,Opel Arena,Frank Willenborg,2,3
+349,Regular Season,Sat,2020-10-24,18:30,Dortmund,1.5,3 0,0.2,Schalke 04,300.0,Signal Iduna Park,Felix Zwayer,3,0
+350,Regular Season,Sun,2020-10-25,15:30,Wolfsburg,2.1,2 1,0.4,Arminia,4519.0,Volkswagen Arena,Manuel Gräfe,2,1
+351,Regular Season,Sun,2020-10-25,18:00,Werder Bremen,0.3,1 1,1.2,Hoffenheim,38676.5,Weserstadion,Daniel Schlager,1,1
+352,Regular Season,Mon,2020-10-26,20:30,Leverkusen,2.8,3 1,0.4,Augsburg,25328.171875,BayArena,Sören Storks,3,1
+353,Regular Season,Fri,2020-10-30,20:30,Schalke 04,0.5,1 1,1.6,Stuttgart,59831.604166666664,Veltins-Arena,Benjamin Brand,1,1
+354,Regular Season,Sat,2020-10-31,15:30,Köln,1.0,1 2,1.0,Bayern Munich,41037.5,RheinEnergieSTADION,Frank Willenborg,1,2
+355,Regular Season,Sat,2020-10-31,15:30,Arminia,0.2,0 2,2.7,Dortmund,16144.388888888889,SchücoArena,Bastian Dankert,0,2
+356,Regular Season,Sat,2020-10-31,15:30,Augsburg,2.0,3 1,0.8,Mainz 05,25827.93442622951,WWK Arena,Marco Fritz,3,1
+357,Regular Season,Sat,2020-10-31,15:30,Eint Frankfurt,2.0,1 1,0.9,Werder Bremen,42213.07692307692,Commerzbank-Arena,Felix Brych,1,1
+358,Regular Season,Sat,2020-10-31,18:30,M'Gladbach,0.5,1 0,0.9,RB Leipzig,42866.03076923077,Stadion im Borussia-Park,Daniel Siebert,1,0
+359,Regular Season,Sun,2020-11-01,15:30,Freiburg,1.1,2 4,1.5,Leverkusen,22560.31746031746,Schwarzwald-Stadion,Benjamin Cortus,2,4
+360,Regular Season,Sun,2020-11-01,18:00,Hertha BSC,1.2,1 1,0.5,Wolfsburg,40769.19402985075,Olympiastadion Berlin,Martin Petersen,1,1
+361,Regular Season,Mon,2020-11-02,20:30,Hoffenheim,1.3,1 3,4.0,Union Berlin,23331.615384615383,PreZero Arena,Robert Hartmann,1,3
+362,Regular Season,Fri,2020-11-06,20:30,Werder Bremen,1.7,1 1,0.4,Köln,38676.5,Weserstadion,Florian Badstübner,1,1
+363,Regular Season,Sat,2020-11-07,15:30,Stuttgart,2.3,2 2,2.4,Eint Frankfurt,44836.25925925926,Mercedes-Benz Arena,Sascha Stegemann,2,2
+364,Regular Season,Sat,2020-11-07,15:30,Mainz 05,3.1,2 2,1.7,Schalke 04,23826.880597014926,Opel Arena,Patrick Ittrich,2,2
+365,Regular Season,Sat,2020-11-07,15:30,Union Berlin,2.1,5 0,0.3,Arminia,15859.823529411764,Stadion An der Alten Försterei,Matthias Jöllenbeck,5,0
+366,Regular Season,Sat,2020-11-07,15:30,RB Leipzig,2.0,3 0,1.0,Freiburg,35584.32258064516,Red Bull Arena,Felix Zwayer,3,0
+367,Regular Season,Sat,2020-11-07,15:30,Augsburg,0.7,0 3,2.4,Hertha BSC,25827.93442622951,WWK Arena,Frank Willenborg,0,3
+368,Regular Season,Sat,2020-11-07,18:30,Dortmund,2.0,2 3,1.1,Bayern Munich,67143.86363636363,Signal Iduna Park,Manuel Gräfe,2,3
+369,Regular Season,Sun,2020-11-08,15:30,Wolfsburg,2.0,2 1,2.0,Hoffenheim,21075.417910447763,Volkswagen Arena,Sven Jablonski,2,1
+370,Regular Season,Sun,2020-11-08,18:00,Leverkusen,1.6,4 3,2.5,M'Gladbach,25328.171875,BayArena,Harm Osmers,4,3
+371,Regular Season,Sat,2020-11-21,15:30,Arminia,0.0,1 2,1.5,Leverkusen,16144.388888888889,SchücoArena,Felix Brych,1,2
+372,Regular Season,Sat,2020-11-21,15:30,Hoffenheim,1.9,3 3,2.1,Stuttgart,23331.615384615383,PreZero Arena,Daniel Siebert,3,3
+373,Regular Season,Sat,2020-11-21,15:30,Bayern Munich,1.2,1 1,1.4,Werder Bremen,65955.64516129032,Allianz Arena,Guido Winkmann,1,1
+374,Regular Season,Sat,2020-11-21,15:30,Schalke 04,0.9,0 2,2.1,Wolfsburg,59831.604166666664,Veltins-Arena,Marco Fritz,0,2
+375,Regular Season,Sat,2020-11-21,15:30,M'Gladbach,2.0,1 1,0.7,Augsburg,42866.03076923077,Stadion im Borussia-Park,Markus Schmidt,1,1
+376,Regular Season,Sat,2020-11-21,18:30,Eint Frankfurt,1.1,1 1,0.9,RB Leipzig,42213.07692307692,Commerzbank-Arena,Sören Storks,1,1
+377,Regular Season,Sat,2020-11-21,20:30,Hertha BSC,1.3,2 5,3.5,Dortmund,40769.19402985075,Olympiastadion Berlin,Bastian Dankert,2,5
+378,Regular Season,Sun,2020-11-22,15:30,Freiburg,2.2,1 3,2.8,Mainz 05,22560.31746031746,Schwarzwald-Stadion,Martin Petersen,1,3
+379,Regular Season,Sun,2020-11-22,18:00,Köln,0.7,1 2,1.9,Union Berlin,41037.5,RheinEnergieSTADION,Tobias Stieler,1,2
+380,Regular Season,Fri,2020-11-27,20:30,Wolfsburg,1.8,5 3,1.0,Werder Bremen,21075.417910447763,Volkswagen Arena,Christian Dingert,5,3
+381,Regular Season,Sat,2020-11-28,15:30,RB Leipzig,2.3,2 1,1.3,Arminia,35584.32258064516,Red Bull Arena,Robert Hartmann,2,1
+382,Regular Season,Sat,2020-11-28,15:30,Augsburg,0.4,1 1,0.8,Freiburg,25827.93442622951,WWK Arena,Robert Schröder,1,1
+383,Regular Season,Sat,2020-11-28,15:30,Dortmund,2.9,1 2,1.6,Köln,67143.86363636363,Signal Iduna Park,Benjamin Brand,1,2
+384,Regular Season,Sat,2020-11-28,15:30,Stuttgart,1.8,1 3,1.0,Bayern Munich,44836.25925925926,Mercedes-Benz Arena,Harm Osmers,1,3
+385,Regular Season,Sat,2020-11-28,15:30,Union Berlin,2.8,3 3,2.0,Eint Frankfurt,15859.823529411764,Stadion An der Alten Försterei,Tobias Reichel,3,3
+386,Regular Season,Sat,2020-11-28,18:30,M'Gladbach,3.1,4 1,1.0,Schalke 04,42866.03076923077,Stadion im Borussia-Park,Manuel Gräfe,4,1
+387,Regular Season,Sun,2020-11-29,15:30,Leverkusen,0.7,0 0,0.4,Hertha BSC,25328.171875,BayArena,Daniel Schlager,0,0
+388,Regular Season,Sun,2020-11-29,18:00,Mainz 05,1.4,1 1,1.0,Hoffenheim,23826.880597014926,Opel Arena,Sascha Stegemann,1,1
+389,Regular Season,Fri,2020-12-04,20:30,Hertha BSC,0.7,3 1,0.3,Union Berlin,40769.19402985075,Olympiastadion Berlin,Felix Brych,3,1
+390,Regular Season,Sat,2020-12-05,15:30,Eint Frankfurt,0.8,1 1,1.2,Dortmund,42213.07692307692,Commerzbank-Arena,Guido Winkmann,1,1
+391,Regular Season,Sat,2020-12-05,15:30,Freiburg,3.3,2 2,1.3,M'Gladbach,22560.31746031746,Schwarzwald-Stadion,Tobias Stieler,2,2
+392,Regular Season,Sat,2020-12-05,15:30,Köln,0.7,2 2,1.6,Wolfsburg,41037.5,RheinEnergieSTADION,Sven Jablonski,2,2
+393,Regular Season,Sat,2020-12-05,15:30,Arminia,0.8,2 1,2.0,Mainz 05,16144.388888888889,SchücoArena,Marco Fritz,2,1
+394,Regular Season,Sat,2020-12-05,18:30,Bayern Munich,1.2,3 3,1.5,RB Leipzig,65955.64516129032,Allianz Arena,Daniel Siebert,3,3
+395,Regular Season,Sun,2020-12-06,15:30,Werder Bremen,0.8,1 2,2.3,Stuttgart,38676.5,Weserstadion,Frank Willenborg,1,2
+396,Regular Season,Sun,2020-12-06,18:00,Schalke 04,1.3,0 3,2.5,Leverkusen,59831.604166666664,Veltins-Arena,Benjamin Cortus,0,3
+397,Regular Season,Mon,2020-12-07,20:30,Hoffenheim,1.4,3 1,0.9,Augsburg,23331.615384615383,PreZero Arena,Florian Badstübner,3,1
+398,Regular Season,Fri,2020-12-11,20:30,Wolfsburg,2.8,2 1,1.5,Eint Frankfurt,21075.417910447763,Volkswagen Arena,Markus Schmidt,2,1
+399,Regular Season,Sat,2020-12-12,15:30,Freiburg,2.7,2 0,0.2,Arminia,22560.31746031746,Schwarzwald-Stadion,Harm Osmers,2,0
+400,Regular Season,Sat,2020-12-12,15:30,Dortmund,0.9,1 5,3.9,Stuttgart,67143.86363636363,Signal Iduna Park,Christian Dingert,1,5
+401,Regular Season,Sat,2020-12-12,15:30,Mainz 05,1.7,0 1,1.0,Köln,23826.880597014926,Opel Arena,Felix Zwayer,0,1
+402,Regular Season,Sat,2020-12-12,15:30,RB Leipzig,2.7,2 0,0.4,Werder Bremen,35584.32258064516,Red Bull Arena,Sören Storks,2,0
+403,Regular Season,Sat,2020-12-12,15:30,M'Gladbach,1.4,1 1,0.5,Hertha BSC,42866.03076923077,Stadion im Borussia-Park,Robert Hartmann,1,1
+404,Regular Season,Sat,2020-12-12,18:30,Union Berlin,1.3,1 1,0.9,Bayern Munich,15859.823529411764,Stadion An der Alten Försterei,Bastian Dankert,1,1
+405,Regular Season,Sun,2020-12-13,15:30,Augsburg,1.0,2 2,1.9,Schalke 04,25827.93442622951,WWK Arena,Manuel Gräfe,2,2
+406,Regular Season,Sun,2020-12-13,18:00,Leverkusen,2.3,4 1,1.6,Hoffenheim,25328.171875,BayArena,Martin Petersen,4,1
+407,Regular Season,Tue,2020-12-15,18:30,Eint Frankfurt,2.2,3 3,1.6,M'Gladbach,42213.07692307692,Commerzbank-Arena,Benjamin Cortus,3,3
+408,Regular Season,Tue,2020-12-15,20:30,Hertha BSC,0.6,0 0,0.5,Mainz 05,40769.19402985075,Olympiastadion Berlin,Matthias Jöllenbeck,0,0
+409,Regular Season,Tue,2020-12-15,20:30,Stuttgart,1.7,2 2,0.8,Union Berlin,44836.25925925926,Mercedes-Benz Arena,Sascha Stegemann,2,2
+410,Regular Season,Tue,2020-12-15,20:30,Werder Bremen,0.2,1 2,2.8,Dortmund,38676.5,Weserstadion,Robert Schröder,1,2
+411,Regular Season,Wed,2020-12-16,18:30,Schalke 04,0.4,0 2,1.4,Freiburg,59831.604166666664,Veltins-Arena,Sven Jablonski,0,2
+412,Regular Season,Wed,2020-12-16,20:30,Köln,0.6,0 4,1.4,Leverkusen,41037.5,RheinEnergieSTADION,Tobias Stieler,0,4
+413,Regular Season,Wed,2020-12-16,20:30,Arminia,0.8,0 1,0.6,Augsburg,16144.388888888889,SchücoArena,Patrick Ittrich,0,1
+414,Regular Season,Wed,2020-12-16,20:30,Hoffenheim,0.8,0 1,0.3,RB Leipzig,23331.615384615383,PreZero Arena,Daniel Schlager,0,1
+415,Regular Season,Wed,2020-12-16,20:30,Bayern Munich,2.0,2 1,1.1,Wolfsburg,65955.64516129032,Allianz Arena,Marco Fritz,2,1
+416,Regular Season,Fri,2020-12-18,20:30,Union Berlin,1.1,2 1,1.7,Dortmund,15859.823529411764,Stadion An der Alten Försterei,Harm Osmers,2,1
+417,Regular Season,Sat,2020-12-19,15:30,RB Leipzig,2.2,0 0,0.5,Köln,35584.32258064516,Red Bull Arena,Felix Brych,0,0
+418,Regular Season,Sat,2020-12-19,15:30,M'Gladbach,1.8,1 2,1.8,Hoffenheim,42866.03076923077,Stadion im Borussia-Park,Frank Willenborg,1,2
+419,Regular Season,Sat,2020-12-19,15:30,Schalke 04,0.6,0 1,0.7,Arminia,59831.604166666664,Veltins-Arena,Bastian Dankert,0,1
+420,Regular Season,Sat,2020-12-19,15:30,Mainz 05,0.5,0 1,0.9,Werder Bremen,23826.880597014926,Opel Arena,Guido Winkmann,0,1
+421,Regular Season,Sat,2020-12-19,15:30,Augsburg,2.0,0 2,1.3,Eint Frankfurt,25827.93442622951,WWK Arena,Daniel Siebert,0,2
+422,Regular Season,Sat,2020-12-19,18:30,Leverkusen,0.3,1 2,1.3,Bayern Munich,25328.171875,BayArena,Felix Zwayer,1,2
+423,Regular Season,Sun,2020-12-20,15:30,Freiburg,2.8,4 1,1.8,Hertha BSC,22560.31746031746,Schwarzwald-Stadion,Tobias Reichel,4,1
+424,Regular Season,Sun,2020-12-20,18:00,Wolfsburg,1.8,1 0,1.7,Stuttgart,21075.417910447763,Volkswagen Arena,Florian Badstübner,1,0
+425,Regular Season,Sat,2021-01-02,15:30,Eint Frankfurt,1.4,2 1,0.7,Leverkusen,42213.07692307692,Commerzbank-Arena,Felix Brych,2,1
+426,Regular Season,Sat,2021-01-02,15:30,Arminia,0.2,0 1,2.7,M'Gladbach,16144.388888888889,SchücoArena,Sascha Stegemann,0,1
+427,Regular Season,Sat,2021-01-02,15:30,Köln,0.5,0 1,1.3,Augsburg,41037.5,RheinEnergieSTADION,Sören Storks,0,1
+428,Regular Season,Sat,2021-01-02,15:30,Werder Bremen,1.0,0 2,0.8,Union Berlin,38676.5,Weserstadion,Tobias Stieler,0,2
+429,Regular Season,Sat,2021-01-02,15:30,Hoffenheim,1.2,1 3,1.9,Freiburg,23331.615384615383,PreZero Arena,Robert Hartmann,1,3
+430,Regular Season,Sat,2021-01-02,18:30,Hertha BSC,2.3,3 0,0.9,Schalke 04,40769.19402985075,Olympiastadion Berlin,Sven Jablonski,3,0
+431,Regular Season,Sat,2021-01-02,20:30,Stuttgart,1.1,0 1,3.2,RB Leipzig,44836.25925925926,Mercedes-Benz Arena,Christian Dingert,0,1
+432,Regular Season,Sun,2021-01-03,15:30,Dortmund,1.8,2 0,1.6,Wolfsburg,67143.86363636363,Signal Iduna Park,Manuel Gräfe,2,0
+433,Regular Season,Sun,2021-01-03,18:00,Bayern Munich,3.5,5 2,1.5,Mainz 05,65955.64516129032,Allianz Arena,Markus Schmidt,5,2
+434,Regular Season,Fri,2021-01-08,20:30,M'Gladbach,1.3,3 2,1.4,Bayern Munich,42866.03076923077,Stadion im Borussia-Park,Harm Osmers,3,2
+435,Regular Season,Sat,2021-01-09,15:30,Mainz 05,1.2,0 2,2.3,Eint Frankfurt,23826.880597014926,Opel Arena,Bastian Dankert,0,2
+436,Regular Season,Sat,2021-01-09,15:30,Schalke 04,2.0,4 0,2.4,Hoffenheim,59831.604166666664,Veltins-Arena,Felix Zwayer,4,0
+437,Regular Season,Sat,2021-01-09,15:30,Union Berlin,1.4,2 2,1.8,Wolfsburg,15859.823529411764,Stadion An der Alten Försterei,Patrick Ittrich,2,2
+438,Regular Season,Sat,2021-01-09,15:30,Freiburg,2.9,5 0,0.2,Köln,22560.31746031746,Schwarzwald-Stadion,Robert Schröder,5,0
+439,Regular Season,Sat,2021-01-09,15:30,Leverkusen,0.8,1 1,0.4,Werder Bremen,25328.171875,BayArena,Benjamin Cortus,1,1
+440,Regular Season,Sat,2021-01-09,18:30,RB Leipzig,1.0,1 3,2.2,Dortmund,35584.32258064516,Red Bull Arena,Daniel Siebert,1,3
+441,Regular Season,Sun,2021-01-10,15:30,Augsburg,1.0,1 4,4.0,Stuttgart,25827.93442622951,WWK Arena,Daniel Schlager,1,4
+442,Regular Season,Sun,2021-01-10,18:00,Arminia,0.8,1 0,0.8,Hertha BSC,16144.388888888889,SchücoArena,Guido Winkmann,1,0
+443,Regular Season,Fri,2021-01-15,20:30,Union Berlin,1.3,1 0,1.2,Leverkusen,15859.823529411764,Stadion An der Alten Försterei,Florian Badstübner,1,0
+444,Regular Season,Sat,2021-01-16,15:30,Köln,0.4,0 0,0.9,Hertha BSC,41037.5,RheinEnergieSTADION,Frank Willenborg,0,0
+445,Regular Season,Sat,2021-01-16,15:30,Wolfsburg,1.2,2 2,2.1,RB Leipzig,21075.417910447763,Volkswagen Arena,Tobias Stieler,2,2
+446,Regular Season,Sat,2021-01-16,15:30,Dortmund,2.4,1 1,0.8,Mainz 05,67143.86363636363,Signal Iduna Park,Sven Jablonski,1,1
+447,Regular Season,Sat,2021-01-16,15:30,Hoffenheim,0.7,0 0,0.8,Arminia,23331.615384615383,PreZero Arena,Marco Fritz,0,0
+448,Regular Season,Sat,2021-01-16,15:30,Werder Bremen,1.2,2 0,0.5,Augsburg,38676.5,Weserstadion,Sascha Stegemann,2,0
+449,Regular Season,Sat,2021-01-16,18:30,Stuttgart,2.0,2 2,1.5,M'Gladbach,44836.25925925926,Mercedes-Benz Arena,Felix Brych,2,2
+450,Regular Season,Sun,2021-01-17,15:30,Bayern Munich,2.7,2 1,1.0,Freiburg,65955.64516129032,Allianz Arena,Christian Dingert,2,1
+451,Regular Season,Sun,2021-01-17,18:00,Eint Frankfurt,1.7,3 1,0.2,Schalke 04,42213.07692307692,Commerzbank-Arena,Manuel Gräfe,3,1
+452,Regular Season,Tue,2021-01-19,18:30,M'Gladbach,0.8,1 0,1.1,Werder Bremen,42866.03076923077,Stadion im Borussia-Park,Martin Petersen,1,0
+453,Regular Season,Tue,2021-01-19,20:30,Hertha BSC,1.4,0 3,1.3,Hoffenheim,40769.19402985075,Olympiastadion Berlin,Harm Osmers,0,3
+454,Regular Season,Tue,2021-01-19,20:30,Leverkusen,1.8,2 1,2.1,Dortmund,25328.171875,BayArena,Felix Zwayer,2,1
+455,Regular Season,Tue,2021-01-19,20:30,Mainz 05,0.4,0 2,1.1,Wolfsburg,23826.880597014926,Opel Arena,Sören Storks,0,2
+456,Regular Season,Wed,2021-01-20,18:30,Schalke 04,1.4,1 2,1.6,Köln,59831.604166666664,Veltins-Arena,Daniel Siebert,1,2
+457,Regular Season,Wed,2021-01-20,20:30,Freiburg,0.7,2 2,1.4,Eint Frankfurt,22560.31746031746,Schwarzwald-Stadion,Guido Winkmann,2,2
+458,Regular Season,Wed,2021-01-20,20:30,RB Leipzig,1.4,1 0,0.3,Union Berlin,35584.32258064516,Red Bull Arena,Markus Schmidt,1,0
+459,Regular Season,Wed,2021-01-20,20:30,Augsburg,1.2,0 1,2.0,Bayern Munich,25827.93442622951,WWK Arena,Matthias Jöllenbeck,0,1
+460,Regular Season,Wed,2021-01-20,20:30,Arminia,2.2,3 0,0.9,Stuttgart,16144.388888888889,SchücoArena,Robert Hartmann,3,0
+461,Regular Season,Fri,2021-01-22,20:30,M'Gladbach,1.8,4 2,1.2,Dortmund,42866.03076923077,Stadion im Borussia-Park,Manuel Gräfe,4,2
+462,Regular Season,Sat,2021-01-23,15:30,Leverkusen,1.0,0 1,1.1,Wolfsburg,25328.171875,BayArena,Marco Fritz,0,1
+463,Regular Season,Sat,2021-01-23,15:30,Augsburg,1.0,2 1,1.5,Union Berlin,25827.93442622951,WWK Arena,Felix Brych,2,1
+464,Regular Season,Sat,2021-01-23,15:30,Arminia,0.6,1 5,2.4,Eint Frankfurt,16144.388888888889,SchücoArena,Robert Schröder,1,5
+465,Regular Season,Sat,2021-01-23,15:30,Mainz 05,1.6,3 2,1.4,RB Leipzig,23826.880597014926,Opel Arena,Christian Dingert,3,2
+466,Regular Season,Sat,2021-01-23,15:30,Freiburg,1.2,2 1,2.5,Stuttgart,22560.31746031746,Schwarzwald-Stadion,Tobias Stieler,2,1
+467,Regular Season,Sat,2021-01-23,18:30,Hertha BSC,1.9,1 4,1.5,Werder Bremen,40769.19402985075,Olympiastadion Berlin,Daniel Schlager,1,4
+468,Regular Season,Sun,2021-01-24,15:30,Schalke 04,0.7,0 4,3.1,Bayern Munich,59831.604166666664,Veltins-Arena,Sascha Stegemann,0,4
+469,Regular Season,Sun,2021-01-24,18:00,Hoffenheim,2.2,3 0,2.0,Köln,23331.615384615383,PreZero Arena,Sven Jablonski,3,0
+470,Regular Season,Fri,2021-01-29,20:30,Stuttgart,1.0,2 0,0.5,Mainz 05,44836.25925925926,Mercedes-Benz Arena,Frank Willenborg,2,0
+471,Regular Season,Sat,2021-01-30,15:30,Union Berlin,0.5,1 1,0.9,M'Gladbach,15859.823529411764,Stadion An der Alten Försterei,Bastian Dankert,1,1
+472,Regular Season,Sat,2021-01-30,15:30,Eint Frankfurt,2.3,3 1,0.5,Hertha BSC,42213.07692307692,Commerzbank-Arena,Florian Badstübner,3,1
+473,Regular Season,Sat,2021-01-30,15:30,Werder Bremen,0.7,1 1,0.3,Schalke 04,38676.5,Weserstadion,Sören Storks,1,1
+474,Regular Season,Sat,2021-01-30,15:30,Dortmund,1.9,3 1,0.5,Augsburg,67143.86363636363,Signal Iduna Park,Patrick Ittrich,3,1
+475,Regular Season,Sat,2021-01-30,15:30,Bayern Munich,2.0,4 1,2.1,Hoffenheim,65955.64516129032,Allianz Arena,Benjamin Cortus,4,1
+476,Regular Season,Sat,2021-01-30,18:30,RB Leipzig,1.7,1 0,0.5,Leverkusen,35584.32258064516,Red Bull Arena,Harm Osmers,1,0
+477,Regular Season,Sun,2021-01-31,15:30,Köln,1.7,3 1,1.5,Arminia,41037.5,RheinEnergieSTADION,Felix Zwayer,3,1
+478,Regular Season,Sun,2021-01-31,18:00,Wolfsburg,2.3,3 0,0.7,Freiburg,21075.417910447763,Volkswagen Arena,Tobias Reichel,3,0
+479,Regular Season,Fri,2021-02-05,20:00,Hertha BSC,1.4,0 1,2.4,Bayern Munich,40769.19402985075,Olympiastadion Berlin,Robert Schröder,0,1
+480,Regular Season,Sat,2021-02-06,15:30,Mainz 05,1.9,1 0,0.8,Union Berlin,23826.880597014926,Opel Arena,Sascha Stegemann,1,0
+481,Regular Season,Sat,2021-02-06,15:30,Schalke 04,0.2,0 3,2.1,RB Leipzig,59831.604166666664,Veltins-Arena,Martin Petersen,0,3
+482,Regular Season,Sat,2021-02-06,15:30,Freiburg,0.2,2 1,1.5,Dortmund,22560.31746031746,Schwarzwald-Stadion,Felix Brych,2,1
+483,Regular Season,Sat,2021-02-06,15:30,Augsburg,0.6,0 2,2.3,Wolfsburg,25827.93442622951,WWK Arena,Robert Hartmann,0,2
+484,Regular Season,Sat,2021-02-06,15:30,Leverkusen,3.9,5 2,1.5,Stuttgart,25328.171875,BayArena,Sven Jablonski,5,2
+485,Regular Season,Sat,2021-02-06,18:30,M'Gladbach,0.8,1 2,0.5,Köln,42866.03076923077,Stadion im Borussia-Park,Christian Dingert,1,2
+486,Regular Season,Sun,2021-02-07,15:30,Hoffenheim,0.9,1 3,1.0,Eint Frankfurt,23331.615384615383,PreZero Arena,Daniel Siebert,1,3
+487,Regular Season,Fri,2021-02-12,20:30,RB Leipzig,2.9,2 1,0.9,Augsburg,35584.32258064516,Red Bull Arena,Felix Zwayer,2,1
+488,Regular Season,Sat,2021-02-13,15:30,Stuttgart,1.3,1 1,1.4,Hertha BSC,44836.25925925926,Mercedes-Benz Arena,Harm Osmers,1,1
+489,Regular Season,Sat,2021-02-13,15:30,Leverkusen,1.3,2 2,2.5,Mainz 05,25328.171875,BayArena,Guido Winkmann,2,2
+490,Regular Season,Sat,2021-02-13,15:30,Werder Bremen,0.7,0 0,0.8,Freiburg,38676.5,Weserstadion,Manuel Gräfe,0,0
+491,Regular Season,Sat,2021-02-13,15:30,Dortmund,1.7,2 2,2.6,Hoffenheim,67143.86363636363,Signal Iduna Park,Bastian Dankert,2,2
+492,Regular Season,Sat,2021-02-13,18:30,Union Berlin,2.3,0 0,0.4,Schalke 04,15859.823529411764,Stadion An der Alten Försterei,Daniel Schlager,0,0
+493,Regular Season,Sun,2021-02-14,15:30,Eint Frankfurt,2.0,2 0,0.4,Köln,42213.07692307692,Commerzbank-Arena,Frank Willenborg,2,0
+494,Regular Season,Sun,2021-02-14,18:00,Wolfsburg,0.8,0 0,0.6,M'Gladbach,21075.417910447763,Volkswagen Arena,Tobias Stieler,0,0
+495,Regular Season,Mon,2021-02-15,20:30,Bayern Munich,2.1,3 3,1.2,Arminia,65955.64516129032,Allianz Arena,Florian Badstübner,3,3
+496,Regular Season,Fri,2021-02-19,20:30,Arminia,0.6,0 3,1.1,Wolfsburg,16144.388888888889,SchücoArena,Felix Brych,0,3
+497,Regular Season,Sat,2021-02-20,15:30,Freiburg,0.4,0 1,1.2,Union Berlin,22560.31746031746,Schwarzwald-Stadion,Sören Storks,0,1
+498,Regular Season,Sat,2021-02-20,15:30,M'Gladbach,0.8,1 2,0.7,Mainz 05,42866.03076923077,Stadion im Borussia-Park,Markus Schmidt,1,2
+499,Regular Season,Sat,2021-02-20,15:30,Eint Frankfurt,1.1,2 1,2.0,Bayern Munich,42213.07692307692,Commerzbank-Arena,Sascha Stegemann,2,1
+500,Regular Season,Sat,2021-02-20,15:30,Köln,0.7,0 1,0.5,Stuttgart,41037.5,RheinEnergieSTADION,Benjamin Cortus,0,1
+501,Regular Season,Sat,2021-02-20,18:30,Schalke 04,0.8,0 4,1.7,Dortmund,59831.604166666664,Veltins-Arena,Daniel Siebert,0,4
+502,Regular Season,Sun,2021-02-21,13:30,Augsburg,1.5,1 1,0.5,Leverkusen,25827.93442622951,WWK Arena,Christian Dingert,1,1
+503,Regular Season,Sun,2021-02-21,15:30,Hertha BSC,0.6,0 3,1.0,RB Leipzig,40769.19402985075,Olympiastadion Berlin,Sven Jablonski,0,3
+504,Regular Season,Sun,2021-02-21,18:00,Hoffenheim,1.7,4 0,0.1,Werder Bremen,23331.615384615383,PreZero Arena,Robert Schröder,4,0
+505,Regular Season,Fri,2021-02-26,20:30,Werder Bremen,1.0,2 1,0.9,Eint Frankfurt,38676.5,Weserstadion,Robert Hartmann,2,1
+506,Regular Season,Sat,2021-02-27,15:30,Bayern Munich,2.1,5 1,1.0,Köln,65955.64516129032,Allianz Arena,Martin Petersen,5,1
+507,Regular Season,Sat,2021-02-27,15:30,Dortmund,3.6,3 0,0.6,Arminia,67143.86363636363,Signal Iduna Park,Tobias Reichel,3,0
+508,Regular Season,Sat,2021-02-27,15:30,Stuttgart,2.5,5 1,1.5,Schalke 04,44836.25925925926,Mercedes-Benz Arena,Guido Winkmann,5,1
+509,Regular Season,Sat,2021-02-27,15:30,Wolfsburg,0.5,2 0,1.2,Hertha BSC,21075.417910447763,Volkswagen Arena,Bastian Dankert,2,0
+510,Regular Season,Sat,2021-02-27,18:30,RB Leipzig,1.8,3 2,1.3,M'Gladbach,35584.32258064516,Red Bull Arena,Manuel Gräfe,3,2
+511,Regular Season,Sun,2021-02-28,13:30,Union Berlin,1.0,1 1,1.3,Hoffenheim,15859.823529411764,Stadion An der Alten Försterei,Tobias Stieler,1,1
+512,Regular Season,Sun,2021-02-28,15:30,Mainz 05,0.6,0 1,1.6,Augsburg,23826.880597014926,Opel Arena,Daniel Schlager,0,1
+513,Regular Season,Sun,2021-02-28,18:00,Leverkusen,1.6,1 2,1.4,Freiburg,25328.171875,BayArena,Felix Zwayer,1,2
+514,Regular Season,Fri,2021-03-05,20:30,Schalke 04,0.2,0 0,1.1,Mainz 05,59831.604166666664,Veltins-Arena,Felix Brych,0,0
+515,Regular Season,Sat,2021-03-06,15:30,Hertha BSC,2.3,2 1,0.4,Augsburg,40769.19402985075,Olympiastadion Berlin,Florian Badstübner,2,1
+516,Regular Season,Sat,2021-03-06,15:30,M'Gladbach,0.6,0 1,1.5,Leverkusen,42866.03076923077,Stadion im Borussia-Park,Daniel Siebert,0,1
+517,Regular Season,Sat,2021-03-06,15:30,Hoffenheim,1.1,2 1,1.9,Wolfsburg,23331.615384615383,PreZero Arena,Markus Schmidt,2,1
+518,Regular Season,Sat,2021-03-06,15:30,Eint Frankfurt,1.6,1 1,0.5,Stuttgart,42213.07692307692,Commerzbank-Arena,Robert Schröder,1,1
+519,Regular Season,Sat,2021-03-06,15:30,Freiburg,0.1,0 3,1.8,RB Leipzig,22560.31746031746,Schwarzwald-Stadion,Guido Winkmann,0,3
+520,Regular Season,Sat,2021-03-06,18:30,Bayern Munich,2.9,4 2,0.6,Dortmund,65955.64516129032,Allianz Arena,Marco Fritz,4,2
+521,Regular Season,Sun,2021-03-07,15:30,Köln,1.6,1 1,1.3,Werder Bremen,41037.5,RheinEnergieSTADION,Matthias Jöllenbeck,1,1
+522,Regular Season,Sun,2021-03-07,18:00,Arminia,0.5,0 0,0.8,Union Berlin,16144.388888888889,SchücoArena,Harm Osmers,0,0
+523,Regular Season,Wed,2021-03-10,18:30,Arminia,2.6,0 2,1.5,Werder Bremen,16144.388888888889,SchücoArena,Markus Schmidt,0,2
+524,Regular Season,Fri,2021-03-12,20:30,Augsburg,1.6,3 1,3.0,M'Gladbach,25827.93442622951,WWK Arena,Sven Jablonski,3,1
+525,Regular Season,Sat,2021-03-13,15:30,Mainz 05,1.7,1 0,0.9,Freiburg,23826.880597014926,Opel Arena,Benjamin Cortus,1,0
+526,Regular Season,Sat,2021-03-13,15:30,Union Berlin,2.3,2 1,1.3,Köln,15859.823529411764,Stadion An der Alten Försterei,Deniz Aytekin,2,1
+527,Regular Season,Sat,2021-03-13,15:30,Werder Bremen,1.2,1 3,3.0,Bayern Munich,38676.5,Weserstadion,Manuel Gräfe,1,3
+528,Regular Season,Sat,2021-03-13,15:30,Wolfsburg,1.7,5 0,0.2,Schalke 04,21075.417910447763,Volkswagen Arena,Sören Storks,5,0
+529,Regular Season,Sat,2021-03-13,18:30,Dortmund,1.4,2 0,0.4,Hertha BSC,67143.86363636363,Signal Iduna Park,Martin Petersen,2,0
+530,Regular Season,Sun,2021-03-14,13:30,Leverkusen,2.5,1 2,1.5,Arminia,25328.171875,BayArena,Sascha Stegemann,1,2
+531,Regular Season,Sun,2021-03-14,15:30,RB Leipzig,1.8,1 1,1.0,Eint Frankfurt,35584.32258064516,Red Bull Arena,Felix Zwayer,1,1
+532,Regular Season,Sun,2021-03-14,18:00,Stuttgart,0.8,2 0,1.1,Hoffenheim,44836.25925925926,Mercedes-Benz Arena,Christian Dingert,2,0
+533,Regular Season,Fri,2021-03-19,20:30,Arminia,0.3,0 1,2.8,RB Leipzig,16144.388888888889,SchücoArena,Frank Willenborg,0,1
+534,Regular Season,Sat,2021-03-20,15:30,Werder Bremen,0.7,1 2,1.6,Wolfsburg,38676.5,Weserstadion,Robert Schröder,1,2
+535,Regular Season,Sat,2021-03-20,15:30,Bayern Munich,2.2,4 0,0.8,Stuttgart,65955.64516129032,Allianz Arena,Daniel Schlager,4,0
+536,Regular Season,Sat,2021-03-20,15:30,Eint Frankfurt,2.4,5 2,2.8,Union Berlin,42213.07692307692,Commerzbank-Arena,Markus Schmidt,5,2
+537,Regular Season,Sat,2021-03-20,15:30,Köln,1.4,2 2,1.8,Dortmund,41037.5,RheinEnergieSTADION,Daniel Siebert,2,2
+538,Regular Season,Sat,2021-03-20,18:30,Schalke 04,0.2,0 3,2.4,M'Gladbach,59831.604166666664,Veltins-Arena,Tobias Stieler,0,3
+539,Regular Season,Sun,2021-03-21,13:30,Hoffenheim,1.3,1 2,3.5,Mainz 05,23331.615384615383,PreZero Arena,Marco Fritz,1,2
+540,Regular Season,Sun,2021-03-21,15:30,Hertha BSC,1.9,3 0,1.9,Leverkusen,40769.19402985075,Olympiastadion Berlin,Felix Brych,3,0
+541,Regular Season,Sun,2021-03-21,18:00,Freiburg,1.4,2 0,1.0,Augsburg,22560.31746031746,Schwarzwald-Stadion,Bastian Dankert,2,0
+542,Regular Season,Sat,2021-04-03,15:30,Dortmund,1.7,1 2,1.4,Eint Frankfurt,67143.86363636363,Signal Iduna Park,Manuel Gräfe,1,2
+543,Regular Season,Sat,2021-04-03,15:30,Wolfsburg,0.8,1 0,1.2,Köln,21075.417910447763,Volkswagen Arena,Robert Hartmann,1,0
+544,Regular Season,Sat,2021-04-03,15:30,Augsburg,0.6,2 1,1.0,Hoffenheim,25827.93442622951,WWK Arena,Guido Winkmann,2,1
+545,Regular Season,Sat,2021-04-03,15:30,Mainz 05,1.8,1 1,0.5,Arminia,23826.880597014926,Opel Arena,Deniz Aytekin,1,1
+546,Regular Season,Sat,2021-04-03,15:30,Leverkusen,0.7,2 1,0.6,Schalke 04,25328.171875,BayArena,Sven Jablonski,2,1
+547,Regular Season,Sat,2021-04-03,18:30,RB Leipzig,0.7,0 1,0.6,Bayern Munich,35584.32258064516,Red Bull Arena,Daniel Siebert,0,1
+548,Regular Season,Sat,2021-04-03,20:30,M'Gladbach,1.9,2 1,1.7,Freiburg,42866.03076923077,Stadion im Borussia-Park,Christian Dingert,2,1
+549,Regular Season,Sun,2021-04-04,15:30,Stuttgart,0.8,1 0,0.6,Werder Bremen,44836.25925925926,Mercedes-Benz Arena,Felix Zwayer,1,0
+550,Regular Season,Sun,2021-04-04,18:00,Union Berlin,0.5,1 1,0.9,Hertha BSC,15859.823529411764,Stadion An der Alten Försterei,Sascha Stegemann,1,1
+551,Regular Season,Fri,2021-04-09,20:30,Arminia,1.4,1 0,0.6,Freiburg,16144.388888888889,SchücoArena,Martin Petersen,1,0
+552,Regular Season,Sat,2021-04-10,15:30,Hertha BSC,1.6,2 2,1.3,M'Gladbach,40769.19402985075,Olympiastadion Berlin,Patrick Ittrich,2,2
+553,Regular Season,Sat,2021-04-10,15:30,Werder Bremen,1.4,1 4,1.6,RB Leipzig,38676.5,Weserstadion,Florian Badstübner,1,4
+554,Regular Season,Sat,2021-04-10,15:30,Eint Frankfurt,1.6,4 3,1.8,Wolfsburg,42213.07692307692,Commerzbank-Arena,Marco Fritz,4,3
+555,Regular Season,Sat,2021-04-10,15:30,Bayern Munich,1.0,1 1,1.1,Union Berlin,65955.64516129032,Allianz Arena,Tobias Stieler,1,1
+556,Regular Season,Sat,2021-04-10,18:30,Stuttgart,1.4,2 3,1.3,Dortmund,44836.25925925926,Mercedes-Benz Arena,Robert Schröder,2,3
+557,Regular Season,Sun,2021-04-11,15:30,Schalke 04,0.7,1 0,0.9,Augsburg,59831.604166666664,Veltins-Arena,Harm Osmers,1,0
+558,Regular Season,Sun,2021-04-11,18:00,Köln,2.5,2 3,1.7,Mainz 05,41037.5,RheinEnergieSTADION,Felix Brych,2,3
+559,Regular Season,Mon,2021-04-12,20:30,Hoffenheim,0.1,0 0,0.6,Leverkusen,23331.615384615383,PreZero Arena,Matthias Jöllenbeck,0,0
+560,Regular Season,Fri,2021-04-16,20:30,RB Leipzig,1.3,0 0,0.2,Hoffenheim,35584.32258064516,Red Bull Arena,Manuel Gräfe,0,0
+561,Regular Season,Sat,2021-04-17,15:30,Augsburg,0.6,0 0,0.7,Arminia,25827.93442622951,WWK Arena,Markus Schmidt,0,0
+562,Regular Season,Sat,2021-04-17,15:30,Freiburg,2.0,4 0,0.7,Schalke 04,22560.31746031746,Schwarzwald-Stadion,Tobias Reichel,4,0
+563,Regular Season,Sat,2021-04-17,15:30,Wolfsburg,1.2,2 3,2.1,Bayern Munich,21075.417910447763,Volkswagen Arena,Felix Zwayer,2,3
+564,Regular Season,Sat,2021-04-17,15:30,Union Berlin,1.4,2 1,0.7,Stuttgart,15859.823529411764,Stadion An der Alten Försterei,Benjamin Cortus,2,1
+565,Regular Season,Sat,2021-04-17,15:30,M'Gladbach,2.1,4 0,0.9,Eint Frankfurt,42866.03076923077,Stadion im Borussia-Park,Deniz Aytekin,4,0
+566,Regular Season,Sat,2021-04-17,18:30,Leverkusen,1.8,3 0,1.2,Köln,25328.171875,BayArena,Sören Storks,3,0
+567,Regular Season,Sun,2021-04-18,15:30,Dortmund,2.9,4 1,0.9,Werder Bremen,67143.86363636363,Signal Iduna Park,Bastian Dankert,4,1
+568,Regular Season,Tue,2021-04-20,18:30,Köln,0.7,2 1,2.5,RB Leipzig,41037.5,RheinEnergieSTADION,Frank Willenborg,2,1
+569,Regular Season,Tue,2021-04-20,20:30,Arminia,1.9,1 0,0.3,Schalke 04,16144.388888888889,SchücoArena,Christian Dingert,1,0
+570,Regular Season,Tue,2021-04-20,20:30,Bayern Munich,1.7,2 0,0.4,Leverkusen,65955.64516129032,Allianz Arena,Guido Winkmann,2,0
+571,Regular Season,Tue,2021-04-20,20:30,Eint Frankfurt,1.1,2 0,1.6,Augsburg,42213.07692307692,Commerzbank-Arena,Robert Schröder,2,0
+572,Regular Season,Wed,2021-04-21,20:30,Dortmund,4.3,2 0,0.3,Union Berlin,67143.86363636363,Signal Iduna Park,Daniel Schlager,2,0
+573,Regular Season,Wed,2021-04-21,20:30,Werder Bremen,1.1,0 1,1.5,Mainz 05,38676.5,Weserstadion,Marco Fritz,0,1
+574,Regular Season,Wed,2021-04-21,20:30,Stuttgart,2.0,1 3,1.5,Wolfsburg,44836.25925925926,Mercedes-Benz Arena,Felix Brych,1,3
+575,Regular Season,Wed,2021-04-21,20:30,Hoffenheim,2.1,3 2,0.9,M'Gladbach,23331.615384615383,PreZero Arena,Daniel Siebert,3,2
+576,Regular Season,Fri,2021-04-23,20:30,Augsburg,1.6,2 3,1.3,Köln,25827.93442622951,WWK Arena,Martin Petersen,2,3
+577,Regular Season,Sat,2021-04-24,15:30,Union Berlin,1.9,3 1,0.7,Werder Bremen,15859.823529411764,Stadion An der Alten Försterei,Patrick Ittrich,3,1
+578,Regular Season,Sat,2021-04-24,15:30,Mainz 05,0.5,2 1,1.7,Bayern Munich,23826.880597014926,Opel Arena,Harm Osmers,2,1
+579,Regular Season,Sat,2021-04-24,15:30,Wolfsburg,1.2,0 2,1.3,Dortmund,21075.417910447763,Volkswagen Arena,Tobias Stieler,0,2
+580,Regular Season,Sat,2021-04-24,15:30,Freiburg,1.8,1 1,1.6,Hoffenheim,22560.31746031746,Schwarzwald-Stadion,Manuel Gräfe,1,1
+581,Regular Season,Sat,2021-04-24,18:30,Leverkusen,2.2,3 1,2.4,Eint Frankfurt,25328.171875,BayArena,Felix Zwayer,3,1
+582,Regular Season,Sun,2021-04-25,15:30,RB Leipzig,4.2,2 0,0.2,Stuttgart,35584.32258064516,Red Bull Arena,Deniz Aytekin,2,0
+583,Regular Season,Sun,2021-04-25,18:00,M'Gladbach,3.7,5 0,0.7,Arminia,42866.03076923077,Stadion im Borussia-Park,Robert Hartmann,5,0
+584,Regular Season,Mon,2021-05-03,18:00,Mainz 05,1.9,1 1,1.5,Hertha BSC,23826.880597014926,SchücoArena,Sascha Stegemann,1,1
+585,Regular Season,Thu,2021-05-06,18:30,Hertha BSC,1.5,3 0,1.0,Freiburg,40769.19402985075,Olympiastadion Berlin,Benjamin Cortus,3,0
+586,Regular Season,Fri,2021-05-07,20:30,Stuttgart,1.3,2 1,2.1,Augsburg,44836.25925925926,Mercedes-Benz Arena,Manuel Gräfe,2,1
+587,Regular Season,Sat,2021-05-08,15:30,Hoffenheim,1.4,4 2,0.9,Schalke 04,23331.615384615383,PreZero Arena,Guido Winkmann,4,2
+588,Regular Season,Sat,2021-05-08,15:30,Wolfsburg,1.8,3 0,0.5,Union Berlin,21075.417910447763,Volkswagen Arena,Sven Jablonski,3,0
+589,Regular Season,Sat,2021-05-08,15:30,Werder Bremen,0.6,0 0,1.3,Leverkusen,38676.5,Weserstadion,Markus Schmidt,0,0
+590,Regular Season,Sat,2021-05-08,15:30,Dortmund,2.2,3 2,1.9,RB Leipzig,67143.86363636363,Signal Iduna Park,Daniel Siebert,3,2
+591,Regular Season,Sat,2021-05-08,18:30,Bayern Munich,3.3,6 0,1.2,M'Gladbach,65955.64516129032,Allianz Arena,Tobias Stieler,6,0
+592,Regular Season,Sun,2021-05-09,13:30,Köln,1.8,1 4,2.6,Freiburg,41037.5,RheinEnergieSTADION,Marco Fritz,1,4
+593,Regular Season,Sun,2021-05-09,15:30,Eint Frankfurt,0.9,1 1,0.4,Mainz 05,42213.07692307692,Commerzbank-Arena,Felix Brych,1,1
+594,Regular Season,Sun,2021-05-09,18:00,Hertha BSC,0.8,0 0,0.5,Arminia,40769.19402985075,Olympiastadion Berlin,Bastian Dankert,0,0
+595,Regular Season,Wed,2021-05-12,18:00,Schalke 04,1.3,1 2,1.9,Hertha BSC,59831.604166666664,Veltins-Arena,Markus Schmidt,1,2
+596,Regular Season,Sat,2021-05-15,15:30,Schalke 04,2.8,4 3,2.6,Eint Frankfurt,59831.604166666664,Veltins-Arena,Sven Jablonski,4,3
+597,Regular Season,Sat,2021-05-15,15:30,Leverkusen,1.3,1 1,1.5,Union Berlin,25328.171875,BayArena,Patrick Ittrich,1,1
+598,Regular Season,Sat,2021-05-15,15:30,M'Gladbach,0.6,1 2,0.7,Stuttgart,42866.03076923077,Stadion im Borussia-Park,Sascha Stegemann,1,2
+599,Regular Season,Sat,2021-05-15,15:30,Augsburg,1.6,2 0,1.2,Werder Bremen,25827.93442622951,WWK Arena,Robert Schröder,2,0
+600,Regular Season,Sat,2021-05-15,15:30,Hertha BSC,0.2,0 0,1.4,Köln,40769.19402985075,Olympiastadion Berlin,Deniz Aytekin,0,0
+601,Regular Season,Sat,2021-05-15,15:30,Freiburg,1.4,2 2,3.4,Bayern Munich,22560.31746031746,Schwarzwald-Stadion,Florian Badstübner,2,2
+602,Regular Season,Sat,2021-05-15,15:30,Arminia,1.8,1 1,1.4,Hoffenheim,16144.388888888889,SchücoArena,Daniel Schlager,1,1
+603,Regular Season,Sun,2021-05-16,18:00,Mainz 05,1.3,1 3,1.9,Dortmund,23826.880597014926,Opel Arena,Harm Osmers,1,3
+604,Regular Season,Sun,2021-05-16,20:30,RB Leipzig,2.0,2 2,1.0,Wolfsburg,35584.32258064516,Red Bull Arena,Felix Zwayer,2,2
+605,Regular Season,Sat,2021-05-22,15:30,Werder Bremen,2.1,2 4,2.0,M'Gladbach,100.0,Weserstadion,Felix Brych,2,4
+606,Regular Season,Sat,2021-05-22,15:30,Bayern Munich,4.1,5 2,1.5,Augsburg,250.0,Allianz Arena,Markus Schmidt,5,2
+607,Regular Season,Sat,2021-05-22,15:30,Stuttgart,1.0,0 2,1.6,Arminia,44836.25925925926,Mercedes-Benz Arena,Tobias Stieler,0,2
+608,Regular Season,Sat,2021-05-22,15:30,Dortmund,1.3,3 1,1.8,Leverkusen,67143.86363636363,Signal Iduna Park,Manuel Gräfe,3,1
+609,Regular Season,Sat,2021-05-22,15:30,Köln,2.2,1 0,0.5,Schalke 04,41037.5,RheinEnergieSTADION,Daniel Siebert,1,0
+610,Regular Season,Sat,2021-05-22,15:30,Eint Frankfurt,1.9,3 1,0.9,Freiburg,42213.07692307692,Commerzbank-Arena,Christian Dingert,3,1
+611,Regular Season,Sat,2021-05-22,15:30,Hoffenheim,2.6,2 1,1.5,Hertha BSC,100.0,PreZero Arena,Frank Willenborg,2,1
+612,Regular Season,Sat,2021-05-22,15:30,Union Berlin,0.9,2 1,2.6,RB Leipzig,2000.0,Stadion An der Alten Försterei,Guido Winkmann,2,1
+613,Regular Season,Sat,2021-05-22,15:30,Wolfsburg,1.4,2 3,2.6,Mainz 05,21075.417910447763,Volkswagen Arena,Bastian Dankert,2,3
+616,Regular Season,Fri,2019-08-16,20:30,Bayern Munich,2.6,2 2,1.0,Hertha BSC,75000.0,Allianz Arena,Harm Osmers,2,2
+617,Regular Season,Sat,2019-08-17,15:30,Leverkusen,2.7,3 2,1.2,Paderborn 07,26208.0,BayArena,Tobias Stieler,3,2
+618,Regular Season,Sat,2019-08-17,15:30,Werder Bremen,2.4,1 3,0.9,Düsseldorf,42100.0,Weserstadion,Felix Zwayer,1,3
+619,Regular Season,Sat,2019-08-17,15:30,Freiburg,1.8,3 0,0.9,Mainz 05,24000.0,Schwarzwald-Stadion,Robert Hartmann,3,0
+620,Regular Season,Sat,2019-08-17,15:30,Dortmund,2.7,5 1,0.8,Augsburg,81365.0,Signal Iduna Park,Frank Willenborg,5,1
+621,Regular Season,Sat,2019-08-17,15:30,Wolfsburg,0.9,2 1,1.2,Köln,25099.0,Volkswagen Arena,Sven Jablonski,2,1
+622,Regular Season,Sat,2019-08-17,18:30,M'Gladbach,1.6,0 0,0.6,Schalke 04,54022.0,Stadion im Borussia-Park,Felix Brych,0,0
+623,Regular Season,Sun,2019-08-18,15:30,Eint Frankfurt,1.1,1 0,0.6,Hoffenheim,50200.0,Commerzbank-Arena,Daniel Siebert,1,0
+624,Regular Season,Sun,2019-08-18,18:00,Union Berlin,0.5,0 4,3.1,RB Leipzig,22467.0,Stadion An der Alten Försterei,Markus Schmidt,0,4
+625,Regular Season,Fri,2019-08-23,20:30,Köln,0.7,1 3,1.4,Dortmund,50000.0,RheinEnergieSTADION,Christian Dingert,1,3
+626,Regular Season,Sat,2019-08-24,15:30,Hoffenheim,0.7,3 2,1.3,Werder Bremen,27333.0,PreZero Arena,Sascha Stegemann,3,2
+627,Regular Season,Sat,2019-08-24,15:30,Düsseldorf,1.0,1 3,1.8,Leverkusen,44538.0,Merkur Spielarena,Patrick Ittrich,1,3
+628,Regular Season,Sat,2019-08-24,15:30,Mainz 05,1.3,1 3,1.6,M'Gladbach,28005.0,Opel Arena,Martin Petersen,1,3
+629,Regular Season,Sat,2019-08-24,15:30,Augsburg,1.3,1 1,1.1,Union Berlin,27703.0,WWK Arena,Robert Schröder,1,1
+630,Regular Season,Sat,2019-08-24,15:30,Paderborn 07,1.7,1 3,2.2,Freiburg,14322.0,Benteler-Arena,Tobias Welz,1,3
+631,Regular Season,Sat,2019-08-24,18:30,Schalke 04,1.0,0 3,1.5,Bayern Munich,62271.0,Veltins-Arena,Marco Fritz,0,3
+632,Regular Season,Sun,2019-08-25,15:30,RB Leipzig,1.4,2 1,1.0,Eint Frankfurt,40108.0,Red Bull Arena,Benjamin Cortus,2,1
+633,Regular Season,Sun,2019-08-25,18:00,Hertha BSC,1.1,0 3,1.2,Wolfsburg,42738.0,Olympiastadion Berlin,Guido Winkmann,0,3
+634,Regular Season,Fri,2019-08-30,20:30,M'Gladbach,1.1,1 3,2.2,RB Leipzig,47327.0,Stadion im Borussia-Park,Sven Jablonski,1,3
+635,Regular Season,Sat,2019-08-31,15:30,Schalke 04,1.0,3 0,0.8,Hertha BSC,58875.0,Veltins-Arena,Tobias Stieler,3,0
+636,Regular Season,Sat,2019-08-31,15:30,Freiburg,0.7,1 2,1.4,Köln,24000.0,Schwarzwald-Stadion,Robert Kampka,1,2
+637,Regular Season,Sat,2019-08-31,15:30,Bayern Munich,2.7,6 1,0.4,Mainz 05,75000.0,Allianz Arena,Markus Schmidt,6,1
+638,Regular Season,Sat,2019-08-31,15:30,Wolfsburg,0.6,1 1,0.7,Paderborn 07,23750.0,Volkswagen Arena,Daniel Schlager,1,1
+639,Regular Season,Sat,2019-08-31,15:30,Leverkusen,0.8,0 0,0.3,Hoffenheim,26506.0,BayArena,Felix Zwayer,0,0
+640,Regular Season,Sat,2019-08-31,18:30,Union Berlin,1.9,3 1,1.9,Dortmund,22012.0,Stadion An der Alten Försterei,Felix Brych,3,1
+641,Regular Season,Sun,2019-09-01,15:30,Werder Bremen,2.5,3 2,1.5,Augsburg,40041.0,Weserstadion,Sören Storks,3,2
+642,Regular Season,Sun,2019-09-01,18:00,Eint Frankfurt,1.2,2 1,0.6,Düsseldorf,49800.0,Commerzbank-Arena,Frank Willenborg,2,1
+643,Regular Season,Fri,2019-09-13,20:30,Düsseldorf,0.5,1 1,1.3,Wolfsburg,36758.0,Merkur Spielarena,Manuel Gräfe,1,1
+644,Regular Season,Sat,2019-09-14,15:30,Dortmund,2.5,4 0,0.8,Leverkusen,81365.0,Signal Iduna Park,Daniel Siebert,4,0
+645,Regular Season,Sat,2019-09-14,15:30,Augsburg,2.0,2 1,1.0,Eint Frankfurt,28513.0,WWK Arena,Harm Osmers,2,1
+646,Regular Season,Sat,2019-09-14,15:30,Köln,0.9,0 1,1.7,M'Gladbach,50000.0,RheinEnergieSTADION,Deniz Aytekin,0,1
+647,Regular Season,Sat,2019-09-14,15:30,Union Berlin,1.6,1 2,2.7,Werder Bremen,22012.0,Stadion An der Alten Försterei,Tobias Welz,1,2
+648,Regular Season,Sat,2019-09-14,15:30,Mainz 05,1.7,2 1,2.2,Hertha BSC,22798.0,Opel Arena,Marco Fritz,2,1
+649,Regular Season,Sat,2019-09-14,18:30,RB Leipzig,1.5,1 1,1.5,Bayern Munich,42146.0,Red Bull Arena,Sascha Stegemann,1,1
+650,Regular Season,Sun,2019-09-15,15:30,Hoffenheim,1.5,0 3,1.2,Freiburg,29395.0,PreZero Arena,Guido Winkmann,0,3
+651,Regular Season,Sun,2019-09-15,18:00,Paderborn 07,1.1,1 5,2.7,Schalke 04,15000.0,Benteler-Arena,Robert Schröder,1,5
+652,Regular Season,Fri,2019-09-20,20:30,Schalke 04,1.3,2 1,1.2,Mainz 05,58687.0,Veltins-Arena,Daniel Schlager,2,1
+653,Regular Season,Sat,2019-09-21,15:30,Freiburg,1.0,1 1,1.0,Augsburg,23800.0,Schwarzwald-Stadion,Bastian Dankert,1,1
+654,Regular Season,Sat,2019-09-21,15:30,Leverkusen,1.7,2 0,0.2,Union Berlin,27430.0,BayArena,Robert Hartmann,2,0
+655,Regular Season,Sat,2019-09-21,15:30,Hertha BSC,1.3,2 1,1.3,Paderborn 07,43588.0,Olympiastadion Berlin,Frank Willenborg,2,1
+656,Regular Season,Sat,2019-09-21,15:30,Bayern Munich,2.7,4 0,0.8,Köln,75000.0,Allianz Arena,Patrick Ittrich,4,0
+657,Regular Season,Sat,2019-09-21,18:30,Werder Bremen,0.7,0 3,1.5,RB Leipzig,40550.0,Weserstadion,Tobias Stieler,0,3
+658,Regular Season,Sun,2019-09-22,15:30,M'Gladbach,2.8,2 1,0.9,Düsseldorf,52413.0,Stadion im Borussia-Park,Christian Dingert,2,1
+659,Regular Season,Sun,2019-09-22,18:00,Eint Frankfurt,1.1,2 2,2.2,Dortmund,51500.0,Commerzbank-Arena,Markus Schmidt,2,2
+660,Regular Season,Mon,2019-09-23,20:30,Wolfsburg,1.2,1 1,0.7,Hoffenheim,21120.0,Volkswagen Arena,Benjamin Cortus,1,1
+661,Regular Season,Fri,2019-09-27,20:30,Union Berlin,0.6,1 2,1.5,Eint Frankfurt,22012.0,Stadion An der Alten Försterei,Sascha Stegemann,1,2
+662,Regular Season,Sat,2019-09-28,15:30,RB Leipzig,1.6,1 3,2.6,Schalke 04,42146.0,Red Bull Arena,Manuel Gräfe,1,3
+663,Regular Season,Sat,2019-09-28,15:30,Augsburg,0.3,0 3,1.2,Leverkusen,27113.0,WWK Arena,Robert Kampka,0,3
+664,Regular Season,Sat,2019-09-28,15:30,Paderborn 07,0.3,2 3,3.5,Bayern Munich,15000.0,Benteler-Arena,Felix Zwayer,2,3
+665,Regular Season,Sat,2019-09-28,15:30,Mainz 05,0.7,0 1,0.4,Wolfsburg,24303.0,Opel Arena,Felix Brych,0,1
+666,Regular Season,Sat,2019-09-28,15:30,Hoffenheim,1.5,0 3,2.2,M'Gladbach,29030.0,PreZero Arena,Harm Osmers,0,3
+667,Regular Season,Sat,2019-09-28,18:30,Dortmund,2.1,2 2,1.4,Werder Bremen,81365.0,Signal Iduna Park,Deniz Aytekin,2,2
+668,Regular Season,Sun,2019-09-29,15:30,Düsseldorf,1.3,1 2,1.6,Freiburg,39244.0,Merkur Spielarena,Daniel Siebert,1,2
+669,Regular Season,Sun,2019-09-29,18:00,Köln,0.8,0 4,1.5,Hertha BSC,49700.0,RheinEnergieSTADION,Sören Storks,0,4
+670,Regular Season,Fri,2019-10-04,20:30,Hertha BSC,1.7,3 1,1.2,Düsseldorf,37128.0,Olympiastadion Berlin,Martin Petersen,3,1
+671,Regular Season,Sat,2019-10-05,15:30,Leverkusen,1.3,1 1,1.5,RB Leipzig,26355.0,BayArena,Marco Fritz,1,1
+672,Regular Season,Sat,2019-10-05,15:30,Freiburg,0.4,2 2,0.7,Dortmund,24000.0,Schwarzwald-Stadion,Sven Jablonski,2,2
+673,Regular Season,Sat,2019-10-05,15:30,Bayern Munich,1.5,1 2,0.8,Hoffenheim,75000.0,Allianz Arena,Tobias Stieler,1,2
+674,Regular Season,Sat,2019-10-05,15:30,Paderborn 07,1.6,1 2,2.7,Mainz 05,14217.0,Benteler-Arena,Patrick Ittrich,1,2
+675,Regular Season,Sat,2019-10-05,18:30,Schalke 04,1.6,1 1,0.6,Köln,61883.0,Veltins-Arena,Tobias Welz,1,1
+676,Regular Season,Sun,2019-10-06,13:30,M'Gladbach,3.0,5 1,1.2,Augsburg,50352.0,Stadion im Borussia-Park,Robert Schröder,5,1
+677,Regular Season,Sun,2019-10-06,15:30,Wolfsburg,2.3,1 0,0.5,Union Berlin,27012.0,Volkswagen Arena,Bastian Dankert,1,0
+678,Regular Season,Sun,2019-10-06,18:00,Eint Frankfurt,2.1,2 2,1.7,Werder Bremen,51500.0,Commerzbank-Arena,Guido Winkmann,2,2
+679,Regular Season,Fri,2019-10-18,20:30,Eint Frankfurt,2.5,3 0,1.5,Leverkusen,50800.0,Commerzbank-Arena,Christian Dingert,3,0
+680,Regular Season,Sat,2019-10-19,15:30,Augsburg,2.0,2 2,2.8,Bayern Munich,30660.0,WWK Arena,Daniel Siebert,2,2
+681,Regular Season,Sat,2019-10-19,15:30,Düsseldorf,1.3,1 0,0.2,Mainz 05,40660.0,Merkur Spielarena,Felix Zwayer,1,0
+682,Regular Season,Sat,2019-10-19,15:30,Werder Bremen,1.0,1 1,0.5,Hertha BSC,41447.0,Weserstadion,Felix Brych,1,1
+683,Regular Season,Sat,2019-10-19,15:30,Union Berlin,1.0,2 0,0.5,Freiburg,22012.0,Stadion An der Alten Försterei,Benjamin Cortus,2,0
+684,Regular Season,Sat,2019-10-19,15:30,RB Leipzig,1.3,1 1,1.5,Wolfsburg,39182.0,Red Bull Arena,Deniz Aytekin,1,1
+685,Regular Season,Sat,2019-10-19,18:30,Dortmund,2.2,1 0,2.5,M'Gladbach,81365.0,Signal Iduna Park,Sascha Stegemann,1,0
+686,Regular Season,Sun,2019-10-20,15:30,Köln,2.3,3 0,0.4,Paderborn 07,50000.0,RheinEnergieSTADION,Manuel Gräfe,3,0
+687,Regular Season,Sun,2019-10-20,18:00,Hoffenheim,1.1,2 0,1.1,Schalke 04,29477.0,PreZero Arena,Robert Hartmann,2,0
+688,Regular Season,Fri,2019-10-25,20:30,Mainz 05,1.5,3 1,1.9,Köln,31999.0,Opel Arena,Frank Willenborg,3,1
+689,Regular Season,Sat,2019-10-26,15:30,Hertha BSC,2.2,2 3,2.2,Hoffenheim,44702.0,Olympiastadion Berlin,Markus Schmidt,2,3
+690,Regular Season,Sat,2019-10-26,15:30,Bayern Munich,3.3,2 1,1.6,Union Berlin,75000.0,Allianz Arena,Marco Fritz,2,1
+691,Regular Season,Sat,2019-10-26,15:30,Freiburg,1.6,2 1,2.1,RB Leipzig,24000.0,Schwarzwald-Stadion,Harm Osmers,2,1
+692,Regular Season,Sat,2019-10-26,15:30,Schalke 04,1.1,0 0,0.4,Dortmund,61873.0,Veltins-Arena,Felix Brych,0,0
+693,Regular Season,Sat,2019-10-26,15:30,Paderborn 07,0.7,2 0,1.4,Düsseldorf,14182.0,Benteler-Arena,Bastian Dankert,2,0
+694,Regular Season,Sat,2019-10-26,18:30,Leverkusen,1.7,2 2,0.9,Werder Bremen,30210.0,BayArena,Martin Petersen,2,2
+695,Regular Season,Sun,2019-10-27,15:30,Wolfsburg,0.8,0 0,0.8,Augsburg,22630.0,Volkswagen Arena,Tobias Stieler,0,0
+696,Regular Season,Sun,2019-10-27,18:00,M'Gladbach,1.8,4 2,1.0,Eint Frankfurt,52300.0,Stadion im Borussia-Park,Daniel Schlager,4,2
+697,Regular Season,Fri,2019-11-01,20:30,Hoffenheim,1.7,3 0,0.4,Paderborn 07,23629.0,PreZero Arena,Robert Schröder,3,0
+698,Regular Season,Sat,2019-11-02,15:30,Leverkusen,2.9,1 2,2.2,M'Gladbach,30210.0,BayArena,Daniel Siebert,1,2
+699,Regular Season,Sat,2019-11-02,15:30,Werder Bremen,1.8,2 2,1.0,Freiburg,41000.0,Weserstadion,Christian Dingert,2,2
+700,Regular Season,Sat,2019-11-02,15:30,RB Leipzig,3.6,8 0,0.8,Mainz 05,38517.0,Red Bull Arena,Guido Winkmann,8,0
+701,Regular Season,Sat,2019-11-02,15:30,Eint Frankfurt,2.7,5 1,1.1,Bayern Munich,51500.0,Commerzbank-Arena,Markus Schmidt,5,1
+702,Regular Season,Sat,2019-11-02,15:30,Dortmund,1.8,3 0,1.6,Wolfsburg,80200.0,Signal Iduna Park,Tobias Welz,3,0
+703,Regular Season,Sat,2019-11-02,18:30,Union Berlin,1.2,1 0,0.4,Hertha BSC,22012.0,Stadion An der Alten Försterei,Deniz Aytekin,1,0
+704,Regular Season,Sun,2019-11-03,15:30,Düsseldorf,1.8,2 0,0.7,Köln,51155.0,Merkur Spielarena,Sven Jablonski,2,0
+705,Regular Season,Sun,2019-11-03,18:00,Augsburg,1.8,2 3,0.5,Schalke 04,30361.0,WWK Arena,Patrick Ittrich,2,3
+706,Regular Season,Fri,2019-11-08,20:30,Köln,0.7,1 2,1.8,Hoffenheim,49100.0,RheinEnergieSTADION,Robert Kampka,1,2
+707,Regular Season,Sat,2019-11-09,15:30,Schalke 04,1.6,3 3,1.7,Düsseldorf,61831.0,Veltins-Arena,Robert Hartmann,3,3
+708,Regular Season,Sat,2019-11-09,15:30,Mainz 05,1.8,2 3,1.0,Union Berlin,24349.0,Opel Arena,Harm Osmers,2,3
+709,Regular Season,Sat,2019-11-09,15:30,Paderborn 07,1.2,0 1,1.0,Augsburg,13758.0,Benteler-Arena,Marco Fritz,0,1
+710,Regular Season,Sat,2019-11-09,15:30,Hertha BSC,0.4,2 4,2.0,RB Leipzig,48532.0,Olympiastadion Berlin,Sören Storks,2,4
+711,Regular Season,Sat,2019-11-09,18:30,Bayern Munich,3.1,4 0,0.5,Dortmund,75000.0,Allianz Arena,Felix Zwayer,4,0
+712,Regular Season,Sun,2019-11-10,13:30,M'Gladbach,1.4,3 1,1.7,Werder Bremen,54022.0,Stadion im Borussia-Park,Tobias Stieler,3,1
+713,Regular Season,Sun,2019-11-10,15:30,Wolfsburg,0.8,0 2,1.6,Leverkusen,24112.0,Volkswagen Arena,Manuel Gräfe,0,2
+714,Regular Season,Sun,2019-11-10,18:00,Freiburg,0.9,1 0,1.0,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Felix Brych,1,0
+715,Regular Season,Fri,2019-11-22,20:30,Dortmund,2.5,3 3,1.6,Paderborn 07,81365.0,Signal Iduna Park,Christian Dingert,3,3
+716,Regular Season,Sat,2019-11-23,15:30,Eint Frankfurt,1.0,0 2,1.1,Wolfsburg,50700.0,Commerzbank-Arena,Daniel Siebert,0,2
+717,Regular Season,Sat,2019-11-23,15:30,Düsseldorf,0.7,0 4,3.5,Bayern Munich,53000.0,Merkur Spielarena,Frank Willenborg,0,4
+718,Regular Season,Sat,2019-11-23,15:30,Werder Bremen,1.7,1 2,0.5,Schalke 04,42100.0,Weserstadion,Benjamin Cortus,1,2
+719,Regular Season,Sat,2019-11-23,15:30,Leverkusen,3.5,1 1,1.2,Freiburg,29032.0,BayArena,Deniz Aytekin,1,1
+720,Regular Season,Sat,2019-11-23,15:30,Union Berlin,1.6,2 0,1.0,M'Gladbach,22012.0,Stadion An der Alten Försterei,Felix Brych,2,0
+721,Regular Season,Sat,2019-11-23,18:30,RB Leipzig,2.3,4 1,0.4,Köln,42036.0,Red Bull Arena,Robert Schröder,4,1
+722,Regular Season,Sun,2019-11-24,15:30,Augsburg,2.3,4 0,0.4,Hertha BSC,29233.0,WWK Arena,Sascha Stegemann,4,0
+723,Regular Season,Sun,2019-11-24,18:00,Hoffenheim,2.0,1 5,1.9,Mainz 05,23129.0,PreZero Arena,Bastian Dankert,1,5
+724,Regular Season,Fri,2019-11-29,20:30,Schalke 04,1.6,2 1,1.8,Union Berlin,61837.0,Veltins-Arena,Daniel Schlager,2,1
+725,Regular Season,Sat,2019-11-30,15:30,Paderborn 07,1.6,2 3,2.4,RB Leipzig,13253.0,Benteler-Arena,Bibiana Steinhaus,2,3
+726,Regular Season,Sat,2019-11-30,15:30,Köln,1.4,1 1,1.8,Augsburg,49200.0,RheinEnergieSTADION,Tobias Stieler,1,1
+727,Regular Season,Sat,2019-11-30,15:30,Hoffenheim,1.6,1 1,1.0,Düsseldorf,25427.0,PreZero Arena,Martin Petersen,1,1
+728,Regular Season,Sat,2019-11-30,15:30,Hertha BSC,1.2,1 2,1.2,Dortmund,74667.0,Olympiastadion Berlin,Sven Jablonski,1,2
+729,Regular Season,Sat,2019-11-30,18:30,Bayern Munich,2.6,1 2,1.3,Leverkusen,75000.0,Allianz Arena,Guido Winkmann,1,2
+730,Regular Season,Sun,2019-12-01,15:30,M'Gladbach,4.9,4 2,1.3,Freiburg,51080.0,Stadion im Borussia-Park,Felix Zwayer,4,2
+731,Regular Season,Sun,2019-12-01,18:00,Wolfsburg,2.2,2 3,1.3,Werder Bremen,26012.0,Volkswagen Arena,Robert Kampka,2,3
+732,Regular Season,Mon,2019-12-02,20:30,Mainz 05,2.1,2 1,1.1,Eint Frankfurt,33134.0,Opel Arena,Manuel Gräfe,2,1
+733,Regular Season,Fri,2019-12-06,20:30,Eint Frankfurt,2.5,2 2,1.3,Hertha BSC,50000.0,Commerzbank-Arena,Christian Dingert,2,2
+734,Regular Season,Sat,2019-12-07,15:30,Augsburg,3.2,2 1,0.4,Mainz 05,26950.0,WWK Arena,Markus Schmidt,2,1
+735,Regular Season,Sat,2019-12-07,15:30,M'Gladbach,1.3,2 1,1.7,Bayern Munich,54022.0,Stadion im Borussia-Park,Marco Fritz,2,1
+736,Regular Season,Sat,2019-12-07,15:30,Dortmund,3.0,5 0,0.1,Düsseldorf,81365.0,Signal Iduna Park,Daniel Siebert,5,0
+737,Regular Season,Sat,2019-12-07,15:30,Freiburg,0.4,1 0,1.2,Wolfsburg,23800.0,Schwarzwald-Stadion,Bastian Dankert,1,0
+738,Regular Season,Sat,2019-12-07,15:30,RB Leipzig,3.8,3 1,1.1,Hoffenheim,38407.0,Red Bull Arena,Deniz Aytekin,3,1
+739,Regular Season,Sat,2019-12-07,18:30,Leverkusen,2.3,2 1,1.1,Schalke 04,30210.0,BayArena,Harm Osmers,2,1
+740,Regular Season,Sun,2019-12-08,15:30,Union Berlin,2.0,2 0,1.1,Köln,22012.0,Stadion An der Alten Försterei,Patrick Ittrich,2,0
+741,Regular Season,Sun,2019-12-08,18:00,Werder Bremen,0.9,0 1,1.3,Paderborn 07,39870.0,Weserstadion,Sascha Stegemann,0,1
+742,Regular Season,Fri,2019-12-13,20:30,Hoffenheim,2.1,2 4,2.2,Augsburg,23309.0,PreZero Arena,Bibiana Steinhaus,2,4
+743,Regular Season,Sat,2019-12-14,15:30,Bayern Munich,4.9,6 1,0.5,Werder Bremen,75000.0,Allianz Arena,Robert Schröder,6,1
+744,Regular Season,Sat,2019-12-14,15:30,Paderborn 07,1.0,1 1,1.3,Union Berlin,14414.0,Benteler-Arena,Sven Jablonski,1,1
+745,Regular Season,Sat,2019-12-14,15:30,Mainz 05,0.2,0 4,1.2,Dortmund,33305.0,Opel Arena,Benjamin Cortus,0,4
+746,Regular Season,Sat,2019-12-14,15:30,Köln,1.5,2 0,0.2,Leverkusen,49500.0,RheinEnergieSTADION,Manuel Gräfe,2,0
+747,Regular Season,Sat,2019-12-14,15:30,Hertha BSC,0.7,1 0,0.8,Freiburg,37343.0,Olympiastadion Berlin,Frank Willenborg,1,0
+748,Regular Season,Sat,2019-12-14,18:30,Düsseldorf,0.1,0 3,3.4,RB Leipzig,35387.0,Merkur Spielarena,Robert Hartmann,0,3
+749,Regular Season,Sun,2019-12-15,15:30,Wolfsburg,1.1,2 1,0.4,M'Gladbach,25580.0,Volkswagen Arena,Felix Brych,2,1
+750,Regular Season,Sun,2019-12-15,18:00,Schalke 04,1.0,1 0,0.7,Eint Frankfurt,60811.0,Veltins-Arena,Felix Zwayer,1,0
+751,Regular Season,Tue,2019-12-17,18:30,Werder Bremen,1.0,0 5,2.8,Mainz 05,37720.0,Weserstadion,Frank Willenborg,0,5
+752,Regular Season,Tue,2019-12-17,20:30,Dortmund,1.1,3 3,2.5,RB Leipzig,80200.0,Signal Iduna Park,Tobias Stieler,3,3
+753,Regular Season,Tue,2019-12-17,20:30,Union Berlin,1.3,0 2,0.8,Hoffenheim,20350.0,Stadion An der Alten Försterei,Sören Storks,0,2
+754,Regular Season,Tue,2019-12-17,20:30,Augsburg,1.2,3 0,0.4,Düsseldorf,27763.0,WWK Arena,Marco Fritz,3,0
+755,Regular Season,Wed,2019-12-18,18:30,Leverkusen,0.9,0 1,1.2,Hertha BSC,24472.0,BayArena,Bastian Dankert,0,1
+756,Regular Season,Wed,2019-12-18,20:30,Freiburg,1.7,1 3,3.4,Bayern Munich,24000.0,Schwarzwald-Stadion,Sascha Stegemann,1,3
+757,Regular Season,Wed,2019-12-18,20:30,Wolfsburg,2.1,1 1,1.2,Schalke 04,24651.0,Volkswagen Arena,Martin Petersen,1,1
+758,Regular Season,Wed,2019-12-18,20:30,Eint Frankfurt,1.4,2 4,2.5,Köln,50300.0,Commerzbank-Arena,Deniz Aytekin,2,4
+759,Regular Season,Wed,2019-12-18,20:30,M'Gladbach,2.5,2 0,0.5,Paderborn 07,44494.0,Stadion im Borussia-Park,Robert Kampka,2,0
+760,Regular Season,Fri,2019-12-20,20:30,Hoffenheim,1.1,2 1,1.7,Dortmund,30150.0,PreZero Arena,Felix Zwayer,2,1
+761,Regular Season,Sat,2019-12-21,15:30,Schalke 04,1.6,2 2,2.8,Freiburg,61867.0,Veltins-Arena,Felix Brych,2,2
+762,Regular Season,Sat,2019-12-21,15:30,Mainz 05,1.9,0 1,1.5,Leverkusen,24345.0,Opel Arena,Patrick Ittrich,0,1
+763,Regular Season,Sat,2019-12-21,15:30,RB Leipzig,3.3,3 1,0.5,Augsburg,40562.0,Red Bull Arena,Daniel Siebert,3,1
+764,Regular Season,Sat,2019-12-21,15:30,Köln,1.1,1 0,0.2,Werder Bremen,50000.0,RheinEnergieSTADION,Daniel Schlager,1,0
+765,Regular Season,Sat,2019-12-21,15:30,Bayern Munich,1.3,2 0,0.9,Wolfsburg,75000.0,Allianz Arena,Christian Dingert,2,0
+766,Regular Season,Sat,2019-12-21,18:30,Hertha BSC,0.4,0 0,0.8,M'Gladbach,50208.0,Olympiastadion Berlin,Harm Osmers,0,0
+767,Regular Season,Sun,2019-12-22,15:30,Düsseldorf,1.0,2 1,2.0,Union Berlin,45490.0,Merkur Spielarena,Benjamin Cortus,2,1
+768,Regular Season,Sun,2019-12-22,18:00,Paderborn 07,2.9,2 1,2.0,Eint Frankfurt,15000.0,Benteler-Arena,Markus Schmidt,2,1
+769,Regular Season,Fri,2020-01-17,20:30,Schalke 04,1.5,2 0,0.8,M'Gladbach,62271.0,Veltins-Arena,Deniz Aytekin,2,0
+770,Regular Season,Sat,2020-01-18,15:30,Mainz 05,2.5,1 2,1.5,Freiburg,23138.0,Opel Arena,Sven Jablonski,1,2
+771,Regular Season,Sat,2020-01-18,15:30,Hoffenheim,0.9,1 2,1.5,Eint Frankfurt,29610.0,PreZero Arena,Sascha Stegemann,1,2
+772,Regular Season,Sat,2020-01-18,15:30,Augsburg,1.8,3 5,4.8,Dortmund,30660.0,WWK Arena,Manuel Gräfe,3,5
+773,Regular Season,Sat,2020-01-18,15:30,Köln,1.3,3 1,1.7,Wolfsburg,49100.0,RheinEnergieSTADION,Marco Fritz,3,1
+774,Regular Season,Sat,2020-01-18,15:30,Düsseldorf,1.0,0 1,1.0,Werder Bremen,46000.0,Merkur Spielarena,Felix Brych,0,1
+775,Regular Season,Sat,2020-01-18,18:30,RB Leipzig,2.1,3 1,1.4,Union Berlin,42146.0,Red Bull Arena,Bastian Dankert,3,1
+776,Regular Season,Sun,2020-01-19,15:30,Hertha BSC,0.6,0 4,2.3,Bayern Munich,74667.0,Olympiastadion Berlin,Tobias Stieler,0,4
+777,Regular Season,Sun,2020-01-19,18:00,Paderborn 07,1.3,1 4,2.2,Leverkusen,14889.0,Benteler-Arena,Daniel Siebert,1,4
+778,Regular Season,Fri,2020-01-24,20:30,Dortmund,2.6,5 1,1.2,Köln,81365.0,Signal Iduna Park,Harm Osmers,5,1
+779,Regular Season,Sat,2020-01-25,15:30,Freiburg,1.4,0 2,1.8,Paderborn 07,23500.0,Schwarzwald-Stadion,Christian Dingert,0,2
+780,Regular Season,Sat,2020-01-25,15:30,Union Berlin,1.0,2 0,1.6,Augsburg,22012.0,Stadion An der Alten Försterei,Bibiana Steinhaus,2,0
+781,Regular Season,Sat,2020-01-25,15:30,Wolfsburg,1.1,1 2,1.8,Hertha BSC,24894.0,Volkswagen Arena,Markus Schmidt,1,2
+782,Regular Season,Sat,2020-01-25,15:30,Eint Frankfurt,1.2,2 0,1.3,RB Leipzig,50300.0,Commerzbank-Arena,Daniel Siebert,2,0
+783,Regular Season,Sat,2020-01-25,15:30,M'Gladbach,2.3,3 1,0.7,Mainz 05,49175.0,Stadion im Borussia-Park,Felix Zwayer,3,1
+784,Regular Season,Sat,2020-01-25,18:30,Bayern Munich,3.4,5 0,0.4,Schalke 04,75000.0,Allianz Arena,Manuel Gräfe,5,0
+785,Regular Season,Sun,2020-01-26,15:30,Werder Bremen,0.7,0 3,0.9,Hoffenheim,40000.0,Weserstadion,Martin Petersen,0,3
+786,Regular Season,Sun,2020-01-26,18:00,Leverkusen,3.7,3 0,0.7,Düsseldorf,26250.0,BayArena,Daniel Schlager,3,0
+787,Regular Season,Fri,2020-01-31,20:30,Hertha BSC,0.4,0 0,0.7,Schalke 04,47863.0,Olympiastadion Berlin,Sascha Stegemann,0,0
+788,Regular Season,Sat,2020-02-01,15:30,Düsseldorf,0.3,1 1,1.0,Eint Frankfurt,45018.0,Merkur Spielarena,Frank Willenborg,1,1
+789,Regular Season,Sat,2020-02-01,15:30,Augsburg,1.1,2 1,0.5,Werder Bremen,29432.0,WWK Arena,Marco Fritz,2,1
+790,Regular Season,Sat,2020-02-01,15:30,Dortmund,3.3,5 0,0.3,Union Berlin,81365.0,Signal Iduna Park,Benjamin Cortus,5,0
+791,Regular Season,Sat,2020-02-01,15:30,Hoffenheim,3.1,2 1,2.5,Leverkusen,24489.0,PreZero Arena,Deniz Aytekin,2,1
+792,Regular Season,Sat,2020-02-01,15:30,Mainz 05,0.3,1 3,1.5,Bayern Munich,33305.0,Opel Arena,Bastian Dankert,1,3
+793,Regular Season,Sat,2020-02-01,18:30,RB Leipzig,1.6,2 2,1.2,M'Gladbach,42146.0,Red Bull Arena,Tobias Stieler,2,2
+794,Regular Season,Sun,2020-02-02,15:30,Köln,3.6,4 0,0.6,Freiburg,50000.0,RheinEnergieSTADION,Robert Kampka,4,0
+795,Regular Season,Sun,2020-02-02,18:00,Paderborn 07,1.0,2 4,1.5,Wolfsburg,13926.0,Benteler-Arena,Patrick Ittrich,2,4
+796,Regular Season,Fri,2020-02-07,20:30,Eint Frankfurt,2.3,5 0,0.5,Augsburg,48800.0,Commerzbank-Arena,Manuel Gräfe,5,0
+797,Regular Season,Sat,2020-02-08,15:30,Freiburg,1.7,1 0,1.5,Hoffenheim,24000.0,Schwarzwald-Stadion,Sven Jablonski,1,0
+798,Regular Season,Sat,2020-02-08,15:30,Werder Bremen,1.3,0 2,1.4,Union Berlin,42100.0,Weserstadion,Daniel Schlager,0,2
+799,Regular Season,Sat,2020-02-08,15:30,Wolfsburg,1.0,1 1,0.8,Düsseldorf,23445.0,Volkswagen Arena,Tobias Stieler,1,1
+800,Regular Season,Sat,2020-02-08,15:30,Hertha BSC,0.7,1 3,2.2,Mainz 05,35049.0,Olympiastadion Berlin,Martin Petersen,1,3
+801,Regular Season,Sat,2020-02-08,15:30,Schalke 04,1.3,1 1,0.8,Paderborn 07,61614.0,Veltins-Arena,Felix Brych,1,1
+802,Regular Season,Sat,2020-02-08,18:30,Leverkusen,1.5,4 3,0.8,Dortmund,30210.0,BayArena,Markus Schmidt,4,3
+803,Regular Season,Sun,2020-02-09,18:00,Bayern Munich,1.4,0 0,1.3,RB Leipzig,75000.0,Allianz Arena,Marco Fritz,0,0
+804,Regular Season,Fri,2020-02-14,20:30,Dortmund,1.2,4 0,0.0,Eint Frankfurt,81365.0,Signal Iduna Park,Bastian Dankert,4,0
+805,Regular Season,Sat,2020-02-15,15:30,Augsburg,0.9,1 1,1.3,Freiburg,26822.0,WWK Arena,Patrick Ittrich,1,1
+806,Regular Season,Sat,2020-02-15,15:30,RB Leipzig,1.3,3 0,0.4,Werder Bremen,41308.0,Red Bull Arena,Benjamin Cortus,3,0
+807,Regular Season,Sat,2020-02-15,15:30,Union Berlin,1.3,2 3,1.0,Leverkusen,22012.0,Stadion An der Alten Försterei,Harm Osmers,2,3
+808,Regular Season,Sat,2020-02-15,15:30,Hoffenheim,2.5,2 3,2.7,Wolfsburg,22506.0,PreZero Arena,Sören Storks,2,3
+809,Regular Season,Sat,2020-02-15,15:30,Paderborn 07,0.8,1 2,1.8,Hertha BSC,14687.0,Benteler-Arena,Bibiana Steinhaus,1,2
+810,Regular Season,Sat,2020-02-15,18:30,Düsseldorf,1.0,1 4,2.3,M'Gladbach,51000.0,Merkur Spielarena,Daniel Siebert,1,4
+811,Regular Season,Sun,2020-02-16,15:30,Köln,2.5,1 4,2.6,Bayern Munich,50000.0,RheinEnergieSTADION,Felix Zwayer,1,4
+812,Regular Season,Sun,2020-02-16,18:00,Mainz 05,1.3,0 0,0.8,Schalke 04,27482.0,Opel Arena,Guido Winkmann,0,0
+813,Regular Season,Fri,2020-02-21,20:30,Bayern Munich,2.6,3 2,1.3,Paderborn 07,75000.0,Allianz Arena,Markus Schmidt,3,2
+814,Regular Season,Sat,2020-02-22,15:30,Werder Bremen,0.2,0 2,1.1,Dortmund,42100.0,Weserstadion,Marco Fritz,0,2
+815,Regular Season,Sat,2020-02-22,15:30,Hertha BSC,0.6,0 5,2.6,Köln,46207.0,Olympiastadion Berlin,Daniel Schlager,0,5
+816,Regular Season,Sat,2020-02-22,15:30,M'Gladbach,2.4,1 1,1.6,Hoffenheim,50250.0,Stadion im Borussia-Park,Felix Brych,1,1
+817,Regular Season,Sat,2020-02-22,15:30,Freiburg,0.9,0 2,0.8,Düsseldorf,24000.0,Schwarzwald-Stadion,Frank Willenborg,0,2
+818,Regular Season,Sat,2020-02-22,18:30,Schalke 04,0.2,0 5,2.6,RB Leipzig,61433.0,Veltins-Arena,Sascha Stegemann,0,5
+819,Regular Season,Sun,2020-02-23,15:30,Leverkusen,0.9,2 0,0.6,Augsburg,23703.0,BayArena,Sven Jablonski,2,0
+820,Regular Season,Sun,2020-02-23,18:00,Wolfsburg,2.8,4 0,0.9,Mainz 05,21058.0,Volkswagen Arena,Benjamin Cortus,4,0
+821,Regular Season,Mon,2020-02-24,20:30,Eint Frankfurt,1.8,1 2,1.5,Union Berlin,47000.0,Commerzbank-Arena,Deniz Aytekin,1,2
+822,Regular Season,Fri,2020-02-28,20:30,Düsseldorf,1.4,3 3,2.9,Hertha BSC,31632.0,Merkur Spielarena,Tobias Stieler,3,3
+823,Regular Season,Sat,2020-02-29,15:30,Hoffenheim,0.4,0 6,3.5,Bayern Munich,30150.0,PreZero Arena,Christian Dingert,0,6
+824,Regular Season,Sat,2020-02-29,15:30,Mainz 05,1.0,2 0,0.6,Paderborn 07,24231.0,Opel Arena,Harm Osmers,2,0
+825,Regular Season,Sat,2020-02-29,15:30,Dortmund,1.6,1 0,1.1,Freiburg,81365.0,Signal Iduna Park,Robert Hartmann,1,0
+826,Regular Season,Sat,2020-02-29,15:30,Augsburg,1.1,2 3,2.5,M'Gladbach,29303.0,WWK Arena,Markus Schmidt,2,3
+827,Regular Season,Sat,2020-02-29,18:30,Köln,1.1,3 0,0.8,Schalke 04,50000.0,RheinEnergieSTADION,Manuel Gräfe,3,0
+828,Regular Season,Sun,2020-03-01,13:30,Union Berlin,0.6,2 2,1.0,Wolfsburg,22012.0,Stadion An der Alten Försterei,Bastian Dankert,2,2
+829,Regular Season,Sun,2020-03-01,15:30,RB Leipzig,0.6,1 1,1.3,Leverkusen,41216.0,Red Bull Arena,Felix Zwayer,1,1
+830,Regular Season,Fri,2020-03-06,20:00,Paderborn 07,0.6,1 2,2.5,Köln,15000.0,Benteler-Arena,Daniel Siebert,1,2
+831,Regular Season,Sat,2020-03-07,15:30,Freiburg,0.8,3 1,0.6,Union Berlin,24000.0,Schwarzwald-Stadion,Marco Fritz,3,1
+832,Regular Season,Sat,2020-03-07,15:30,Wolfsburg,0.8,0 0,1.2,RB Leipzig,27195.0,Volkswagen Arena,Daniel Schlager,0,0
+833,Regular Season,Sat,2020-03-07,15:30,Schalke 04,0.8,1 1,0.6,Hoffenheim,58324.0,Veltins-Arena,Sven Jablonski,1,1
+834,Regular Season,Sat,2020-03-07,15:30,Leverkusen,2.3,4 0,0.8,Eint Frankfurt,30210.0,BayArena,Felix Brych,4,0
+835,Regular Season,Sat,2020-03-07,15:30,Hertha BSC,1.1,2 2,0.9,Werder Bremen,58028.0,Olympiastadion Berlin,Guido Winkmann,2,2
+836,Regular Season,Sat,2020-03-07,18:30,M'Gladbach,2.0,1 2,0.7,Dortmund,53877.0,Stadion im Borussia-Park,Sascha Stegemann,1,2
+837,Regular Season,Sun,2020-03-08,15:30,Bayern Munich,2.9,2 0,0.7,Augsburg,75000.0,Allianz Arena,Bibiana Steinhaus,2,0
+838,Regular Season,Sun,2020-03-08,18:00,Mainz 05,0.8,1 1,1.9,Düsseldorf,21409.0,Opel Arena,Harm Osmers,1,1
+839,Regular Season,Wed,2020-03-11,18:30,M'Gladbach,0.9,2 1,0.8,Köln,42866.03076923077,Stadion im Borussia-Park,Deniz Aytekin,2,1
+840,Regular Season,Sat,2020-05-16,15:30,Dortmund,1.6,4 0,0.5,Schalke 04,67143.86363636363,Signal Iduna Park,Deniz Aytekin,4,0
+841,Regular Season,Sat,2020-05-16,15:30,Augsburg,1.1,1 2,1.5,Wolfsburg,25827.93442622951,WWK Arena,Felix Brych,1,2
+842,Regular Season,Sat,2020-05-16,15:30,Düsseldorf,0.7,0 0,0.7,Paderborn 07,43643.206896551725,Merkur Spielarena,Frank Willenborg,0,0
+843,Regular Season,Sat,2020-05-16,15:30,RB Leipzig,2.1,1 1,0.3,Freiburg,35584.32258064516,Red Bull Arena,Manuel Gräfe,1,1
+844,Regular Season,Sat,2020-05-16,15:30,Hoffenheim,2.5,0 3,1.5,Hertha BSC,23331.615384615383,PreZero Arena,Christian Dingert,0,3
+845,Regular Season,Sat,2020-05-16,18:30,Eint Frankfurt,1.0,1 3,3.2,M'Gladbach,42213.07692307692,Commerzbank-Arena,Felix Zwayer,1,3
+846,Regular Season,Sun,2020-05-17,15:30,Köln,2.3,2 2,1.9,Mainz 05,41037.5,RheinEnergieSTADION,Guido Winkmann,2,2
+847,Regular Season,Sun,2020-05-17,18:00,Union Berlin,0.5,0 2,1.5,Bayern Munich,15859.823529411764,Stadion An der Alten Försterei,Bastian Dankert,0,2
+848,Regular Season,Mon,2020-05-18,20:30,Werder Bremen,1.2,1 4,1.7,Leverkusen,38676.5,Weserstadion,Tobias Stieler,1,4
+849,Regular Season,Fri,2020-05-22,20:30,Hertha BSC,1.6,4 0,0.2,Union Berlin,40769.19402985075,Olympiastadion Berlin,Harm Osmers,4,0
+850,Regular Season,Sat,2020-05-23,15:30,Paderborn 07,0.7,1 1,1.7,Hoffenheim,14434.461538461539,Benteler-Arena,Bibiana Steinhaus,1,1
+851,Regular Season,Sat,2020-05-23,15:30,Freiburg,0.7,0 1,0.8,Werder Bremen,22560.31746031746,Schwarzwald-Stadion,Robert Hartmann,0,1
+852,Regular Season,Sat,2020-05-23,15:30,Wolfsburg,0.4,0 2,0.9,Dortmund,21075.417910447763,Volkswagen Arena,Daniel Siebert,0,2
+853,Regular Season,Sat,2020-05-23,15:30,M'Gladbach,1.6,1 3,2.9,Leverkusen,42866.03076923077,Stadion im Borussia-Park,Sören Storks,1,3
+854,Regular Season,Sat,2020-05-23,18:30,Bayern Munich,2.7,5 2,1.0,Eint Frankfurt,65955.64516129032,Allianz Arena,Marco Fritz,5,2
+855,Regular Season,Sun,2020-05-24,13:30,Schalke 04,0.6,0 3,1.3,Augsburg,59831.604166666664,Veltins-Arena,Sascha Stegemann,0,3
+856,Regular Season,Sun,2020-05-24,15:30,Mainz 05,0.3,0 5,5.2,RB Leipzig,23826.880597014926,Opel Arena,Markus Schmidt,0,5
+857,Regular Season,Sun,2020-05-24,18:00,Köln,1.4,2 2,0.7,Düsseldorf,41037.5,RheinEnergieSTADION,Benjamin Cortus,2,2
+858,Regular Season,Tue,2020-05-26,18:30,Dortmund,0.9,0 1,0.8,Bayern Munich,67143.86363636363,Signal Iduna Park,Tobias Stieler,0,1
+859,Regular Season,Tue,2020-05-26,20:30,Eint Frankfurt,4.8,3 3,0.9,Freiburg,42213.07692307692,Commerzbank-Arena,Martin Petersen,3,3
+860,Regular Season,Tue,2020-05-26,20:30,Werder Bremen,0.8,0 0,0.5,M'Gladbach,38676.5,Weserstadion,Manuel Gräfe,0,0
+861,Regular Season,Tue,2020-05-26,20:30,Leverkusen,1.0,1 4,2.4,Wolfsburg,25328.171875,BayArena,Daniel Schlager,1,4
+862,Regular Season,Wed,2020-05-27,18:30,RB Leipzig,0.7,2 2,1.6,Hertha BSC,35584.32258064516,Red Bull Arena,Bastian Dankert,2,2
+863,Regular Season,Wed,2020-05-27,20:30,Düsseldorf,1.9,2 1,0.6,Schalke 04,43643.206896551725,Merkur Spielarena,Tobias Welz,2,1
+864,Regular Season,Wed,2020-05-27,20:30,Hoffenheim,1.3,3 1,2.2,Köln,23331.615384615383,PreZero Arena,Felix Brych,3,1
+865,Regular Season,Wed,2020-05-27,20:30,Union Berlin,0.4,1 1,1.0,Mainz 05,15859.823529411764,Stadion An der Alten Försterei,Robert Schröder,1,1
+866,Regular Season,Wed,2020-05-27,20:30,Augsburg,0.7,0 0,1.7,Paderborn 07,25827.93442622951,WWK Arena,Deniz Aytekin,0,0
+867,Regular Season,Fri,2020-05-29,20:30,Freiburg,0.9,0 1,0.6,Leverkusen,22560.31746031746,Schwarzwald-Stadion,Marco Fritz,0,1
+868,Regular Season,Sat,2020-05-30,15:30,Mainz 05,0.9,0 1,1.7,Hoffenheim,23826.880597014926,Opel Arena,Sascha Stegemann,0,1
+869,Regular Season,Sat,2020-05-30,15:30,Schalke 04,0.7,0 1,0.5,Werder Bremen,59831.604166666664,Veltins-Arena,Felix Zwayer,0,1
+870,Regular Season,Sat,2020-05-30,15:30,Hertha BSC,2.1,2 0,0.6,Augsburg,40769.19402985075,Olympiastadion Berlin,Sven Jablonski,2,0
+871,Regular Season,Sat,2020-05-30,15:30,Wolfsburg,1.6,1 2,1.6,Eint Frankfurt,21075.417910447763,Volkswagen Arena,Guido Winkmann,1,2
+872,Regular Season,Sat,2020-05-30,18:30,Bayern Munich,3.0,5 0,0.8,Düsseldorf,65955.64516129032,Allianz Arena,Robert Hartmann,5,0
+873,Regular Season,Sun,2020-05-31,15:30,M'Gladbach,2.2,4 1,0.9,Union Berlin,42866.03076923077,Stadion im Borussia-Park,Frank Willenborg,4,1
+874,Regular Season,Sun,2020-05-31,18:00,Paderborn 07,1.0,1 6,3.8,Dortmund,14434.461538461539,Benteler-Arena,Daniel Siebert,1,6
+875,Regular Season,Mon,2020-06-01,20:30,Köln,1.0,2 4,3.4,RB Leipzig,41037.5,RheinEnergieSTADION,Christian Dingert,2,4
+876,Regular Season,Wed,2020-06-03,20:30,Werder Bremen,0.5,0 3,1.5,Eint Frankfurt,38676.5,Weserstadion,Patrick Ittrich,0,3
+877,Regular Season,Fri,2020-06-05,20:30,Freiburg,1.1,1 0,2.4,M'Gladbach,22560.31746031746,Schwarzwald-Stadion,Markus Schmidt,1,0
+878,Regular Season,Sat,2020-06-06,15:30,Düsseldorf,2.2,2 2,0.9,Hoffenheim,43643.206896551725,Merkur Spielarena,Sören Storks,2,2
+879,Regular Season,Sat,2020-06-06,15:30,Eint Frankfurt,0.4,0 2,2.0,Mainz 05,42213.07692307692,Commerzbank-Arena,Felix Brych,0,2
+880,Regular Season,Sat,2020-06-06,15:30,RB Leipzig,2.1,1 1,1.4,Paderborn 07,35584.32258064516,Red Bull Arena,Deniz Aytekin,1,1
+881,Regular Season,Sat,2020-06-06,15:30,Leverkusen,0.9,2 4,2.6,Bayern Munich,25328.171875,BayArena,Manuel Gräfe,2,4
+882,Regular Season,Sat,2020-06-06,18:30,Dortmund,1.8,1 0,0.4,Hertha BSC,67143.86363636363,Signal Iduna Park,Harm Osmers,1,0
+883,Regular Season,Sun,2020-06-07,13:30,Werder Bremen,0.7,0 1,1.7,Wolfsburg,38676.5,Weserstadion,Bibiana Steinhaus,0,1
+884,Regular Season,Sun,2020-06-07,15:30,Union Berlin,1.6,1 1,0.2,Schalke 04,15859.823529411764,Stadion An der Alten Försterei,Tobias Stieler,1,1
+885,Regular Season,Sun,2020-06-07,18:00,Augsburg,2.1,1 1,1.0,Köln,25827.93442622951,WWK Arena,Benjamin Cortus,1,1
+886,Regular Season,Fri,2020-06-12,20:30,Hoffenheim,1.8,0 2,1.6,RB Leipzig,23331.615384615383,PreZero Arena,Tobias Welz,0,2
+887,Regular Season,Sat,2020-06-13,15:30,Wolfsburg,2.4,2 2,2.2,Freiburg,21075.417910447763,Volkswagen Arena,Bastian Dankert,2,2
+888,Regular Season,Sat,2020-06-13,15:30,Köln,1.1,1 2,1.1,Union Berlin,41037.5,RheinEnergieSTADION,Martin Petersen,1,2
+889,Regular Season,Sat,2020-06-13,15:30,Düsseldorf,0.5,0 1,0.6,Dortmund,43643.206896551725,Merkur Spielarena,Sascha Stegemann,0,1
+890,Regular Season,Sat,2020-06-13,15:30,Paderborn 07,1.7,1 5,2.6,Werder Bremen,14434.461538461539,Benteler-Arena,Christian Dingert,1,5
+891,Regular Season,Sat,2020-06-13,15:30,Hertha BSC,0.9,1 4,2.5,Eint Frankfurt,40769.19402985075,Olympiastadion Berlin,Robert Hartmann,1,4
+892,Regular Season,Sat,2020-06-13,18:30,Bayern Munich,1.5,2 1,0.7,M'Gladbach,65955.64516129032,Allianz Arena,Felix Zwayer,2,1
+893,Regular Season,Sun,2020-06-14,15:30,Mainz 05,1.7,0 1,0.9,Augsburg,23826.880597014926,Opel Arena,Marco Fritz,0,1
+894,Regular Season,Sun,2020-06-14,18:00,Schalke 04,1.3,1 1,1.2,Leverkusen,59831.604166666664,Veltins-Arena,Daniel Siebert,1,1
+895,Regular Season,Tue,2020-06-16,18:30,M'Gladbach,1.7,3 0,0.4,Wolfsburg,42866.03076923077,Stadion im Borussia-Park,Robert Schröder,3,0
+896,Regular Season,Tue,2020-06-16,20:30,Werder Bremen,0.5,0 1,1.1,Bayern Munich,38676.5,Weserstadion,Harm Osmers,0,1
+897,Regular Season,Tue,2020-06-16,20:30,Freiburg,1.9,2 1,1.8,Hertha BSC,22560.31746031746,Schwarzwald-Stadion,Tobias Stieler,2,1
+898,Regular Season,Tue,2020-06-16,20:30,Union Berlin,1.7,1 0,0.8,Paderborn 07,15859.823529411764,Stadion An der Alten Försterei,Bibiana Steinhaus,1,0
+899,Regular Season,Wed,2020-06-17,18:30,Eint Frankfurt,2.5,2 1,0.8,Schalke 04,42213.07692307692,Commerzbank-Arena,Guido Winkmann,2,1
+900,Regular Season,Wed,2020-06-17,20:30,Leverkusen,2.3,3 1,0.6,Köln,25328.171875,BayArena,Sven Jablonski,3,1
+901,Regular Season,Wed,2020-06-17,20:30,RB Leipzig,1.2,2 2,1.0,Düsseldorf,35584.32258064516,Red Bull Arena,Manuel Gräfe,2,2
+902,Regular Season,Wed,2020-06-17,20:30,Augsburg,0.5,1 3,1.6,Hoffenheim,25827.93442622951,WWK Arena,Deniz Aytekin,1,3
+903,Regular Season,Wed,2020-06-17,20:30,Dortmund,1.1,0 2,1.8,Mainz 05,67143.86363636363,Signal Iduna Park,Frank Willenborg,0,2
+904,Regular Season,Sat,2020-06-20,15:30,Bayern Munich,2.0,3 1,1.8,Freiburg,65955.64516129032,Allianz Arena,Sören Storks,3,1
+905,Regular Season,Sat,2020-06-20,15:30,Hoffenheim,2.1,4 0,0.4,Union Berlin,23331.615384615383,PreZero Arena,Robert Hartmann,4,0
+906,Regular Season,Sat,2020-06-20,15:30,Mainz 05,1.9,3 1,2.0,Werder Bremen,23826.880597014926,Opel Arena,Manuel Gräfe,3,1
+907,Regular Season,Sat,2020-06-20,15:30,Köln,1.0,1 1,1.6,Eint Frankfurt,41037.5,RheinEnergieSTADION,Christian Dingert,1,1
+908,Regular Season,Sat,2020-06-20,15:30,Hertha BSC,1.9,2 0,1.4,Leverkusen,40769.19402985075,Olympiastadion Berlin,Felix Brych,2,0
+909,Regular Season,Sat,2020-06-20,15:30,Paderborn 07,0.6,1 3,4.0,M'Gladbach,14434.461538461539,Benteler-Arena,Tobias Welz,1,3
+910,Regular Season,Sat,2020-06-20,15:30,Düsseldorf,0.4,1 1,1.5,Augsburg,43643.206896551725,Merkur Spielarena,Daniel Siebert,1,1
+911,Regular Season,Sat,2020-06-20,15:30,RB Leipzig,0.9,0 2,3.1,Dortmund,35584.32258064516,Red Bull Arena,Felix Zwayer,0,2
+912,Regular Season,Sat,2020-06-20,15:30,Schalke 04,0.9,1 4,2.1,Wolfsburg,59831.604166666664,Veltins-Arena,Sascha Stegemann,1,4
+913,Regular Season,Sat,2020-06-27,15:30,Dortmund,0.2,0 4,3.1,Hoffenheim,67143.86363636363,Signal Iduna Park,Guido Winkmann,0,4
+914,Regular Season,Sat,2020-06-27,15:30,Union Berlin,1.8,3 0,1.0,Düsseldorf,15859.823529411764,Stadion An der Alten Försterei,Harm Osmers,3,0
+915,Regular Season,Sat,2020-06-27,15:30,M'Gladbach,3.0,2 1,1.0,Hertha BSC,42866.03076923077,Stadion im Borussia-Park,Deniz Aytekin,2,1
+916,Regular Season,Sat,2020-06-27,15:30,Wolfsburg,0.8,0 4,3.2,Bayern Munich,21075.417910447763,Volkswagen Arena,Patrick Ittrich,0,4
+917,Regular Season,Sat,2020-06-27,15:30,Augsburg,0.2,1 2,2.2,RB Leipzig,25827.93442622951,WWK Arena,Felix Brych,1,2
+918,Regular Season,Sat,2020-06-27,15:30,Werder Bremen,3.0,6 1,0.8,Köln,38676.5,Weserstadion,Bastian Dankert,6,1
+919,Regular Season,Sat,2020-06-27,15:30,Eint Frankfurt,2.1,3 2,2.2,Paderborn 07,42213.07692307692,Commerzbank-Arena,Benjamin Brand,3,2
+920,Regular Season,Sat,2020-06-27,15:30,Leverkusen,1.5,1 0,0.4,Mainz 05,25328.171875,BayArena,Benjamin Cortus,1,0
+921,Regular Season,Sat,2020-06-27,15:30,Freiburg,1.5,4 0,0.8,Schalke 04,22560.31746031746,Schwarzwald-Stadion,Martin Petersen,4,0
+924,Regular Season,Fri,2018-08-24,20:30,Bayern Munich,2.8,3 1,0.9,Hoffenheim,75000.0,Allianz Arena,Bastian Dankert,3,1
+925,Regular Season,Sat,2018-08-25,15:30,Hertha BSC,1.4,1 0,1.3,Nürnberg,52729.0,Olympiastadion Berlin,Tobias Welz,1,0
+926,Regular Season,Sat,2018-08-25,15:30,Wolfsburg,1.3,2 1,1.4,Schalke 04,26621.0,Volkswagen Arena,Patrick Ittrich,2,1
+927,Regular Season,Sat,2018-08-25,15:30,Freiburg,2.0,0 2,0.9,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Manuel Gräfe,0,2
+928,Regular Season,Sat,2018-08-25,15:30,Werder Bremen,1.8,1 1,1.0,Hannover 96,42100.0,Weserstadion,Felix Brych,1,1
+929,Regular Season,Sat,2018-08-25,15:30,Düsseldorf,1.3,1 2,1.3,Augsburg,40996.0,Merkur Spielarena,Markus Schmidt,1,2
+930,Regular Season,Sat,2018-08-25,18:30,M'Gladbach,4.1,2 0,1.4,Leverkusen,53087.0,Stadion im Borussia-Park,Christian Dingert,2,0
+931,Regular Season,Sun,2018-08-26,15:30,Mainz 05,1.1,1 0,1.0,Stuttgart,28705.0,Opel Arena,Daniel Siebert,1,0
+932,Regular Season,Sun,2018-08-26,18:00,Dortmund,1.0,4 1,1.6,RB Leipzig,80365.0,Signal Iduna Park,Deniz Aytekin,4,1
+933,Regular Season,Fri,2018-08-31,20:30,Hannover 96,0.8,0 0,0.7,Dortmund,49000.0,HDI-Arena,Felix Zwayer,0,0
+934,Regular Season,Sat,2018-09-01,15:30,Nürnberg,1.2,1 1,0.4,Mainz 05,37781.0,Max-Morlock-Stadion,Guido Winkmann,1,1
+935,Regular Season,Sat,2018-09-01,15:30,Eint Frankfurt,1.2,1 2,1.7,Werder Bremen,50000.0,Commerzbank-Arena,Sören Storks,1,2
+936,Regular Season,Sat,2018-09-01,15:30,Augsburg,1.1,1 1,1.1,M'Gladbach,29580.0,WWK Arena,Frank Willenborg,1,1
+937,Regular Season,Sat,2018-09-01,15:30,Leverkusen,1.5,1 3,1.2,Wolfsburg,26247.0,BayArena,Sven Jablonski,1,3
+938,Regular Season,Sat,2018-09-01,15:30,Hoffenheim,3.5,3 1,2.7,Freiburg,28619.0,PreZero Arena,Robert Hartmann,3,1
+939,Regular Season,Sat,2018-09-01,18:30,Stuttgart,0.2,0 3,1.8,Bayern Munich,58680.0,Mercedes-Benz Arena,Harm Osmers,0,3
+940,Regular Season,Sun,2018-09-02,15:30,RB Leipzig,1.8,1 1,1.2,Düsseldorf,34975.0,Red Bull Arena,Marco Fritz,1,1
+941,Regular Season,Sun,2018-09-02,18:00,Schalke 04,1.8,0 2,0.6,Hertha BSC,60181.0,Veltins-Arena,Sascha Stegemann,0,2
+942,Regular Season,Fri,2018-09-14,20:30,Dortmund,0.9,3 1,0.3,Eint Frankfurt,81000.0,Signal Iduna Park,Benjamin Cortus,3,1
+943,Regular Season,Sat,2018-09-15,15:30,RB Leipzig,2.3,3 2,1.2,Hannover 96,38937.0,Red Bull Arena,Robert Kampka,3,2
+944,Regular Season,Sat,2018-09-15,15:30,Düsseldorf,1.5,2 1,2.3,Hoffenheim,40111.0,Merkur Spielarena,Tobias Stieler,2,1
+945,Regular Season,Sat,2018-09-15,15:30,Wolfsburg,2.0,2 2,0.8,Hertha BSC,25090.0,Volkswagen Arena,Christian Dingert,2,2
+946,Regular Season,Sat,2018-09-15,15:30,Bayern Munich,1.3,3 1,0.8,Leverkusen,75000.0,Allianz Arena,Tobias Welz,3,1
+947,Regular Season,Sat,2018-09-15,15:30,Mainz 05,2.8,2 1,0.7,Augsburg,21105.0,Opel Arena,Martin Petersen,2,1
+948,Regular Season,Sat,2018-09-15,18:30,M'Gladbach,1.3,2 1,1.6,Schalke 04,54022.0,Stadion im Borussia-Park,Manuel Gräfe,2,1
+949,Regular Season,Sun,2018-09-16,15:30,Werder Bremen,0.7,1 1,1.0,Nürnberg,42100.0,Weserstadion,Daniel Schlager,1,1
+950,Regular Season,Sun,2018-09-16,18:00,Freiburg,1.1,3 3,1.0,Stuttgart,24000.0,Schwarzwald-Stadion,Deniz Aytekin,3,3
+951,Regular Season,Fri,2018-09-21,20:30,Stuttgart,1.4,0 0,0.9,Düsseldorf,54410.0,Mercedes-Benz Arena,Robert Hartmann,0,0
+952,Regular Season,Sat,2018-09-22,15:30,Hoffenheim,2.1,1 1,1.3,Dortmund,30150.0,PreZero Arena,Harm Osmers,1,1
+953,Regular Season,Sat,2018-09-22,15:30,Hertha BSC,2.8,4 2,2.2,M'Gladbach,51852.0,Olympiastadion Berlin,Markus Schmidt,4,2
+954,Regular Season,Sat,2018-09-22,15:30,Nürnberg,1.2,2 0,0.7,Hannover 96,36736.0,Max-Morlock-Stadion,Bastian Dankert,2,0
+955,Regular Season,Sat,2018-09-22,15:30,Wolfsburg,0.7,1 3,2.0,Freiburg,23011.0,Volkswagen Arena,Sascha Stegemann,1,3
+956,Regular Season,Sat,2018-09-22,15:30,Augsburg,2.2,2 3,1.5,Werder Bremen,28434.0,WWK Arena,Felix Zwayer,2,3
+957,Regular Season,Sat,2018-09-22,18:30,Schalke 04,0.4,0 2,2.4,Bayern Munich,62271.0,Veltins-Arena,Daniel Siebert,0,2
+958,Regular Season,Sun,2018-09-23,15:30,Leverkusen,1.3,1 0,0.8,Mainz 05,27473.0,BayArena,Marco Fritz,1,0
+959,Regular Season,Sun,2018-09-23,18:00,Eint Frankfurt,1.6,1 1,1.5,RB Leipzig,43800.0,Commerzbank-Arena,Felix Brych,1,1
+960,Regular Season,Tue,2018-09-25,18:30,Werder Bremen,2.5,3 1,1.0,Hertha BSC,39100.0,Weserstadion,Guido Winkmann,3,1
+961,Regular Season,Tue,2018-09-25,20:30,Hannover 96,1.7,1 3,1.9,Hoffenheim,33500.0,HDI-Arena,Christian Dingert,1,3
+962,Regular Season,Tue,2018-09-25,20:30,Bayern Munich,1.7,1 1,1.3,Augsburg,75000.0,Allianz Arena,Sören Storks,1,1
+963,Regular Season,Tue,2018-09-25,20:30,Freiburg,1.5,1 0,0.8,Schalke 04,24000.0,Schwarzwald-Stadion,Frank Willenborg,1,0
+964,Regular Season,Wed,2018-09-26,18:30,Düsseldorf,2.2,1 2,1.7,Leverkusen,40046.0,Merkur Spielarena,Manuel Gräfe,1,2
+965,Regular Season,Wed,2018-09-26,20:30,RB Leipzig,3.2,2 0,0.7,Stuttgart,32187.0,Red Bull Arena,Robert Schröder,2,0
+966,Regular Season,Wed,2018-09-26,20:30,Dortmund,2.1,7 0,0.1,Nürnberg,75700.0,Signal Iduna Park,Patrick Ittrich,7,0
+967,Regular Season,Wed,2018-09-26,20:30,Mainz 05,0.4,0 0,1.0,Wolfsburg,19205.0,Opel Arena,Tobias Stieler,0,0
+968,Regular Season,Wed,2018-09-26,20:30,M'Gladbach,1.6,3 1,1.3,Eint Frankfurt,41257.0,Stadion im Borussia-Park,Sven Jablonski,3,1
+969,Regular Season,Fri,2018-09-28,20:30,Hertha BSC,1.1,2 0,1.8,Bayern Munich,74669.0,Olympiastadion Berlin,Marco Fritz,2,0
+970,Regular Season,Sat,2018-09-29,15:30,Schalke 04,1.0,1 0,0.9,Mainz 05,61810.0,Veltins-Arena,Benjamin Cortus,1,0
+971,Regular Season,Sat,2018-09-29,15:30,Stuttgart,2.3,2 1,1.5,Werder Bremen,58569.0,Mercedes-Benz Arena,Tobias Welz,2,1
+972,Regular Season,Sat,2018-09-29,15:30,Nürnberg,2.2,3 0,1.1,Düsseldorf,36102.0,Max-Morlock-Stadion,Harm Osmers,3,0
+973,Regular Season,Sat,2018-09-29,15:30,Hoffenheim,1.8,1 2,1.6,RB Leipzig,28115.0,PreZero Arena,Deniz Aytekin,1,2
+974,Regular Season,Sat,2018-09-29,15:30,Wolfsburg,1.3,2 2,0.7,M'Gladbach,24100.0,Volkswagen Arena,Felix Zwayer,2,2
+975,Regular Season,Sat,2018-09-29,18:30,Leverkusen,1.1,2 4,2.7,Dortmund,30210.0,BayArena,Felix Brych,2,4
+976,Regular Season,Sun,2018-09-30,15:30,Eint Frankfurt,2.1,4 1,0.4,Hannover 96,46300.0,Commerzbank-Arena,Robert Hartmann,4,1
+977,Regular Season,Sun,2018-09-30,18:00,Augsburg,3.8,4 1,1.5,Freiburg,26488.0,WWK Arena,Robert Kampka,4,1
+978,Regular Season,Fri,2018-10-05,20:30,Werder Bremen,1.0,2 0,0.4,Wolfsburg,42100.0,Weserstadion,Martin Petersen,2,0
+979,Regular Season,Sat,2018-10-06,15:30,Düsseldorf,0.6,0 2,1.6,Schalke 04,52000.0,Merkur Spielarena,Sven Jablonski,0,2
+980,Regular Season,Sat,2018-10-06,15:30,Mainz 05,2.1,0 0,1.5,Hertha BSC,22405.0,Opel Arena,Daniel Schlager,0,0
+981,Regular Season,Sat,2018-10-06,15:30,Hannover 96,1.7,3 1,0.9,Stuttgart,40800.0,HDI-Arena,Sascha Stegemann,3,1
+982,Regular Season,Sat,2018-10-06,15:30,Dortmund,1.9,4 3,2.2,Augsburg,81365.0,Signal Iduna Park,Markus Schmidt,4,3
+983,Regular Season,Sat,2018-10-06,18:30,Bayern Munich,1.6,0 3,0.5,M'Gladbach,75000.0,Allianz Arena,Frank Willenborg,0,3
+984,Regular Season,Sun,2018-10-07,13:30,Freiburg,0.3,0 0,1.1,Leverkusen,23800.0,Schwarzwald-Stadion,Bastian Dankert,0,0
+985,Regular Season,Sun,2018-10-07,15:30,Hoffenheim,2.2,1 2,1.0,Eint Frankfurt,29785.0,PreZero Arena,Daniel Siebert,1,2
+986,Regular Season,Sun,2018-10-07,18:00,RB Leipzig,2.1,6 0,0.2,Nürnberg,37389.0,Red Bull Arena,Tobias Stieler,6,0
+987,Regular Season,Fri,2018-10-19,20:30,Eint Frankfurt,3.7,7 1,1.0,Düsseldorf,51000.0,Commerzbank-Arena,Deniz Aytekin,7,1
+988,Regular Season,Sat,2018-10-20,15:30,Nürnberg,1.3,1 3,2.2,Hoffenheim,36472.0,Max-Morlock-Stadion,Felix Zwayer,1,3
+989,Regular Season,Sat,2018-10-20,15:30,Leverkusen,2.2,2 2,0.6,Hannover 96,26435.0,BayArena,Patrick Ittrich,2,2
+990,Regular Season,Sat,2018-10-20,15:30,Stuttgart,1.0,0 4,1.2,Dortmund,59000.0,Mercedes-Benz Arena,Manuel Gräfe,0,4
+991,Regular Season,Sat,2018-10-20,15:30,Augsburg,0.2,0 0,0.9,RB Leipzig,28703.0,WWK Arena,Tobias Welz,0,0
+992,Regular Season,Sat,2018-10-20,15:30,Wolfsburg,1.4,1 3,2.7,Bayern Munich,30000.0,Volkswagen Arena,Guido Winkmann,1,3
+993,Regular Season,Sat,2018-10-20,18:30,Schalke 04,1.4,0 2,0.4,Werder Bremen,62271.0,Veltins-Arena,Christian Dingert,0,2
+994,Regular Season,Sun,2018-10-21,15:30,Hertha BSC,1.1,1 1,0.7,Freiburg,53716.0,Olympiastadion Berlin,Benjamin Cortus,1,1
+995,Regular Season,Sun,2018-10-21,18:00,M'Gladbach,2.6,4 0,1.2,Mainz 05,51123.0,Stadion im Borussia-Park,Sören Storks,4,0
+996,Regular Season,Fri,2018-10-26,20:30,Freiburg,1.5,3 1,1.2,M'Gladbach,24000.0,Schwarzwald-Stadion,Robert Hartmann,3,1
+997,Regular Season,Sat,2018-10-27,15:30,Hannover 96,0.8,1 2,1.6,Augsburg,37600.0,HDI-Arena,Robert Kampka,1,2
+998,Regular Season,Sat,2018-10-27,15:30,Dortmund,3.7,2 2,2.1,Hertha BSC,81000.0,Signal Iduna Park,Sascha Stegemann,2,2
+999,Regular Season,Sat,2018-10-27,15:30,Mainz 05,0.3,1 2,2.2,Bayern Munich,33305.0,Opel Arena,Harm Osmers,1,2
+1000,Regular Season,Sat,2018-10-27,15:30,Düsseldorf,0.6,0 3,2.0,Wolfsburg,38043.0,Merkur Spielarena,Daniel Schlager,0,3
+1001,Regular Season,Sat,2018-10-27,18:30,Hoffenheim,2.9,4 0,0.5,Stuttgart,30150.0,PreZero Arena,Frank Willenborg,4,0
+1002,Regular Season,Sun,2018-10-28,13:30,Nürnberg,1.0,1 1,1.6,Eint Frankfurt,42154.0,Max-Morlock-Stadion,Robert Schröder,1,1
+1003,Regular Season,Sun,2018-10-28,15:30,RB Leipzig,0.7,0 0,0.5,Schalke 04,41939.0,Red Bull Arena,Felix Brych,0,0
+1004,Regular Season,Sun,2018-10-28,18:00,Werder Bremen,1.9,2 6,3.9,Leverkusen,40400.0,Weserstadion,Marco Fritz,2,6
+1005,Regular Season,Fri,2018-11-02,20:30,Stuttgart,1.0,0 3,3.1,Eint Frankfurt,58016.0,Mercedes-Benz Arena,Sven Jablonski,0,3
+1006,Regular Season,Sat,2018-11-03,15:30,Schalke 04,2.8,3 1,1.9,Hannover 96,61959.0,Veltins-Arena,Markus Schmidt,3,1
+1007,Regular Season,Sat,2018-11-03,15:30,Leverkusen,1.6,1 4,1.6,Hoffenheim,27589.0,BayArena,Tobias Stieler,1,4
+1008,Regular Season,Sat,2018-11-03,15:30,Bayern Munich,2.0,1 1,0.3,Freiburg,75000.0,Allianz Arena,Felix Zwayer,1,1
+1009,Regular Season,Sat,2018-11-03,15:30,Augsburg,1.6,2 2,1.4,Nürnberg,30660.0,WWK Arena,Patrick Ittrich,2,2
+1010,Regular Season,Sat,2018-11-03,15:30,Wolfsburg,0.6,0 1,1.4,Dortmund,30000.0,Volkswagen Arena,Daniel Siebert,0,1
+1011,Regular Season,Sat,2018-11-03,18:30,Hertha BSC,1.4,0 3,3.7,RB Leipzig,50382.0,Olympiastadion Berlin,Deniz Aytekin,0,3
+1012,Regular Season,Sun,2018-11-04,15:30,M'Gladbach,3.5,3 0,0.8,Düsseldorf,54022.0,Stadion im Borussia-Park,Felix Brych,3,0
+1013,Regular Season,Sun,2018-11-04,18:00,Mainz 05,0.8,2 1,1.6,Werder Bremen,25105.0,Opel Arena,Guido Winkmann,2,1
+1014,Regular Season,Fri,2018-11-09,20:30,Hannover 96,2.1,2 1,3.2,Wolfsburg,35800.0,HDI-Arena,Marco Fritz,2,1
+1015,Regular Season,Sat,2018-11-10,15:30,Freiburg,1.3,1 3,0.9,Mainz 05,24000.0,Schwarzwald-Stadion,Sascha Stegemann,1,3
+1016,Regular Season,Sat,2018-11-10,15:30,Nürnberg,0.5,0 2,1.5,Stuttgart,50000.0,Max-Morlock-Stadion,Christian Dingert,0,2
+1017,Regular Season,Sat,2018-11-10,15:30,Düsseldorf,2.7,4 1,0.8,Hertha BSC,38743.0,Merkur Spielarena,Robert Hartmann,4,1
+1018,Regular Season,Sat,2018-11-10,15:30,Hoffenheim,2.3,2 1,1.3,Augsburg,27009.0,PreZero Arena,Robert Schröder,2,1
+1019,Regular Season,Sat,2018-11-10,15:30,Werder Bremen,1.4,1 3,2.0,M'Gladbach,42100.0,Weserstadion,Sören Storks,1,3
+1020,Regular Season,Sat,2018-11-10,18:30,Dortmund,2.5,3 2,2.1,Bayern Munich,81365.0,Signal Iduna Park,Manuel Gräfe,3,2
+1021,Regular Season,Sun,2018-11-11,15:30,RB Leipzig,2.2,3 0,0.4,Leverkusen,36155.0,Red Bull Arena,Martin Petersen,3,0
+1022,Regular Season,Sun,2018-11-11,18:00,Eint Frankfurt,1.7,3 0,0.8,Schalke 04,50700.0,Commerzbank-Arena,Benjamin Cortus,3,0
+1023,Regular Season,Fri,2018-11-23,20:30,Leverkusen,2.9,2 0,0.6,Stuttgart,24632.0,BayArena,Robert Schröder,2,0
+1024,Regular Season,Sat,2018-11-24,15:30,Hertha BSC,3.3,3 3,1.5,Hoffenheim,44508.0,Olympiastadion Berlin,Tobias Welz,3,3
+1025,Regular Season,Sat,2018-11-24,15:30,Bayern Munich,2.6,3 3,1.5,Düsseldorf,75000.0,Allianz Arena,Sven Jablonski,3,3
+1026,Regular Season,Sat,2018-11-24,15:30,Wolfsburg,1.7,1 0,0.5,RB Leipzig,22832.0,Volkswagen Arena,Tobias Stieler,1,0
+1027,Regular Season,Sat,2018-11-24,15:30,Mainz 05,1.0,1 2,1.2,Dortmund,33305.0,Opel Arena,Deniz Aytekin,1,2
+1028,Regular Season,Sat,2018-11-24,15:30,Augsburg,2.2,1 3,3.5,Eint Frankfurt,30660.0,WWK Arena,Felix Zwayer,1,3
+1029,Regular Season,Sat,2018-11-24,18:30,Schalke 04,2.7,5 2,2.1,Nürnberg,62271.0,Veltins-Arena,Guido Winkmann,5,2
+1030,Regular Season,Sun,2018-11-25,15:30,Freiburg,2.8,1 1,2.3,Werder Bremen,24000.0,Schwarzwald-Stadion,Bastian Dankert,1,1
+1031,Regular Season,Sun,2018-11-25,18:00,M'Gladbach,1.8,4 1,0.5,Hannover 96,48692.0,Stadion im Borussia-Park,Daniel Siebert,4,1
+1032,Regular Season,Fri,2018-11-30,20:30,Düsseldorf,1.6,0 1,0.9,Mainz 05,37091.0,Merkur Spielarena,Manuel Gräfe,0,1
+1033,Regular Season,Sat,2018-12-01,15:30,Stuttgart,0.6,1 0,1.1,Augsburg,52739.0,Mercedes-Benz Arena,Harm Osmers,1,0
+1034,Regular Season,Sat,2018-12-01,15:30,Hannover 96,1.1,0 2,1.3,Hertha BSC,35800.0,HDI-Arena,Felix Brych,0,2
+1035,Regular Season,Sat,2018-12-01,15:30,Werder Bremen,0.5,1 2,2.4,Bayern Munich,42100.0,Weserstadion,Christian Dingert,1,2
+1036,Regular Season,Sat,2018-12-01,15:30,Dortmund,2.5,2 0,0.1,Freiburg,81365.0,Signal Iduna Park,Frank Willenborg,2,0
+1037,Regular Season,Sat,2018-12-01,18:30,Hoffenheim,2.1,1 1,2.2,Schalke 04,30000.0,PreZero Arena,Robert Kampka,1,1
+1038,Regular Season,Sun,2018-12-02,15:30,RB Leipzig,2.1,2 0,0.6,M'Gladbach,41939.0,Red Bull Arena,Markus Schmidt,2,0
+1039,Regular Season,Sun,2018-12-02,18:00,Eint Frankfurt,1.7,1 2,1.1,Wolfsburg,48000.0,Commerzbank-Arena,Sascha Stegemann,1,2
+1040,Regular Season,Mon,2018-12-03,20:30,Nürnberg,0.7,1 1,1.6,Leverkusen,32238.0,Max-Morlock-Stadion,Bibiana Steinhaus,1,1
+1041,Regular Season,Fri,2018-12-07,20:30,Werder Bremen,1.9,3 1,1.2,Düsseldorf,41500.0,Weserstadion,Marco Fritz,3,1
+1042,Regular Season,Sat,2018-12-08,15:30,Freiburg,2.0,3 0,1.0,RB Leipzig,23800.0,Schwarzwald-Stadion,Tobias Welz,3,0
+1043,Regular Season,Sat,2018-12-08,15:30,Bayern Munich,2.1,3 0,0.2,Nürnberg,75000.0,Allianz Arena,Tobias Stieler,3,0
+1044,Regular Season,Sat,2018-12-08,15:30,Wolfsburg,0.5,2 2,2.0,Hoffenheim,20602.0,Volkswagen Arena,Felix Zwayer,2,2
+1045,Regular Season,Sat,2018-12-08,15:30,Leverkusen,1.7,1 0,0.8,Augsburg,25558.0,BayArena,Bastian Dankert,1,0
+1046,Regular Season,Sat,2018-12-08,15:30,Schalke 04,1.4,1 2,1.5,Dortmund,61767.0,Veltins-Arena,Daniel Siebert,1,2
+1047,Regular Season,Sat,2018-12-08,18:30,Hertha BSC,0.4,1 0,1.4,Eint Frankfurt,42578.0,Olympiastadion Berlin,Daniel Schlager,1,0
+1048,Regular Season,Sun,2018-12-09,15:30,Mainz 05,2.8,1 1,1.4,Hannover 96,23305.0,Opel Arena,Robert Hartmann,1,1
+1049,Regular Season,Sun,2018-12-09,18:00,M'Gladbach,1.2,3 0,0.9,Stuttgart,48590.0,Stadion im Borussia-Park,Deniz Aytekin,3,0
+1050,Regular Season,Fri,2018-12-14,20:30,Nürnberg,0.8,0 2,0.8,Wolfsburg,29604.0,Max-Morlock-Stadion,Sven Jablonski,0,2
+1051,Regular Season,Sat,2018-12-15,15:30,Stuttgart,1.0,2 1,1.1,Hertha BSC,47680.0,Mercedes-Benz Arena,Sascha Stegemann,2,1
+1052,Regular Season,Sat,2018-12-15,15:30,Hoffenheim,2.8,0 0,0.5,M'Gladbach,30150.0,PreZero Arena,Benjamin Cortus,0,0
+1053,Regular Season,Sat,2018-12-15,15:30,Hannover 96,0.1,0 4,3.4,Bayern Munich,49000.0,HDI-Arena,Sören Storks,0,4
+1054,Regular Season,Sat,2018-12-15,15:30,Düsseldorf,2.1,2 0,0.9,Freiburg,39301.0,Merkur Spielarena,Harm Osmers,2,0
+1055,Regular Season,Sat,2018-12-15,15:30,Augsburg,1.9,1 1,0.6,Schalke 04,27233.0,WWK Arena,Manuel Gräfe,1,1
+1056,Regular Season,Sat,2018-12-15,18:30,Dortmund,2.3,2 1,0.4,Werder Bremen,81365.0,Signal Iduna Park,Guido Winkmann,2,1
+1057,Regular Season,Sun,2018-12-16,15:30,RB Leipzig,3.2,4 1,1.0,Mainz 05,30136.0,Red Bull Arena,Martin Petersen,4,1
+1058,Regular Season,Sun,2018-12-16,18:00,Eint Frankfurt,3.5,2 1,1.1,Leverkusen,46500.0,Commerzbank-Arena,Felix Brych,2,1
+1059,Regular Season,Tue,2018-12-18,18:30,M'Gladbach,2.7,2 0,0.9,Nürnberg,42323.0,Stadion im Borussia-Park,Robert Schröder,2,0
+1060,Regular Season,Tue,2018-12-18,20:30,Wolfsburg,1.2,2 0,0.6,Stuttgart,21780.0,Volkswagen Arena,Robert Hartmann,2,0
+1061,Regular Season,Tue,2018-12-18,20:30,Düsseldorf,1.6,2 1,0.9,Dortmund,52000.0,Merkur Spielarena,Tobias Welz,2,1
+1062,Regular Season,Tue,2018-12-18,20:30,Hertha BSC,2.0,2 2,0.6,Augsburg,27939.0,Olympiastadion Berlin,Frank Willenborg,2,2
+1063,Regular Season,Wed,2018-12-19,18:30,Schalke 04,1.8,1 2,0.5,Leverkusen,61548.0,Veltins-Arena,Deniz Aytekin,1,2
+1064,Regular Season,Wed,2018-12-19,20:30,Werder Bremen,2.5,1 1,1.5,Hoffenheim,40003.0,Weserstadion,Markus Schmidt,1,1
+1065,Regular Season,Wed,2018-12-19,20:30,Freiburg,1.9,1 1,1.7,Hannover 96,23500.0,Schwarzwald-Stadion,Christian Dingert,1,1
+1066,Regular Season,Wed,2018-12-19,20:30,Mainz 05,1.5,2 2,1.1,Eint Frankfurt,30805.0,Opel Arena,Daniel Siebert,2,2
+1067,Regular Season,Wed,2018-12-19,20:30,Bayern Munich,1.8,1 0,0.4,RB Leipzig,75000.0,Allianz Arena,Marco Fritz,1,0
+1068,Regular Season,Fri,2018-12-21,20:30,Dortmund,1.7,2 1,0.6,M'Gladbach,81365.0,Signal Iduna Park,Felix Zwayer,2,1
+1069,Regular Season,Sat,2018-12-22,15:30,Leverkusen,2.5,3 1,1.6,Hertha BSC,27647.0,BayArena,Tobias Stieler,3,1
+1070,Regular Season,Sat,2018-12-22,15:30,Stuttgart,1.6,1 3,2.2,Schalke 04,54022.0,Mercedes-Benz Arena,Felix Brych,1,3
+1071,Regular Season,Sat,2018-12-22,15:30,Nürnberg,0.7,0 1,0.4,Freiburg,36190.0,Max-Morlock-Stadion,Robert Kampka,0,1
+1072,Regular Season,Sat,2018-12-22,15:30,Hannover 96,0.5,0 1,0.9,Düsseldorf,34200.0,HDI-Arena,Bastian Dankert,0,1
+1073,Regular Season,Sat,2018-12-22,15:30,RB Leipzig,1.9,3 2,2.0,Werder Bremen,40455.0,Red Bull Arena,Bibiana Steinhaus,3,2
+1074,Regular Season,Sat,2018-12-22,18:30,Eint Frankfurt,1.1,0 3,1.9,Bayern Munich,51500.0,Commerzbank-Arena,Manuel Gräfe,0,3
+1075,Regular Season,Sun,2018-12-23,15:30,Augsburg,0.9,2 3,2.1,Wolfsburg,28152.0,WWK Arena,Sören Storks,2,3
+1076,Regular Season,Sun,2018-12-23,18:00,Hoffenheim,3.1,1 1,1.3,Mainz 05,28216.0,PreZero Arena,Sascha Stegemann,1,1
+1077,Regular Season,Fri,2019-01-18,20:30,Hoffenheim,1.0,1 3,2.7,Bayern Munich,30150.0,PreZero Arena,Tobias Welz,1,3
+1078,Regular Season,Sat,2019-01-19,15:30,Stuttgart,2.8,2 3,1.7,Mainz 05,51881.0,Mercedes-Benz Arena,Tobias Stieler,2,3
+1079,Regular Season,Sat,2019-01-19,15:30,Leverkusen,1.8,0 1,0.7,M'Gladbach,29628.0,BayArena,Daniel Siebert,0,1
+1080,Regular Season,Sat,2019-01-19,15:30,Augsburg,0.8,1 2,1.1,Düsseldorf,27568.0,WWK Arena,Christian Dingert,1,2
+1081,Regular Season,Sat,2019-01-19,15:30,Hannover 96,0.9,0 1,2.7,Werder Bremen,44300.0,HDI-Arena,Marco Fritz,0,1
+1082,Regular Season,Sat,2019-01-19,15:30,Eint Frankfurt,2.7,3 1,1.6,Freiburg,49200.0,Commerzbank-Arena,Sven Jablonski,3,1
+1083,Regular Season,Sat,2019-01-19,18:30,RB Leipzig,1.3,0 1,1.0,Dortmund,41939.0,Red Bull Arena,Deniz Aytekin,0,1
+1084,Regular Season,Sun,2019-01-20,15:30,Nürnberg,1.0,1 3,2.3,Hertha BSC,36112.0,Max-Morlock-Stadion,Guido Winkmann,1,3
+1085,Regular Season,Sun,2019-01-20,18:00,Schalke 04,2.5,2 1,1.4,Wolfsburg,58827.0,Veltins-Arena,Manuel Gräfe,2,1
+1086,Regular Season,Fri,2019-01-25,20:30,Hertha BSC,0.9,2 2,1.0,Schalke 04,43027.0,Olympiastadion Berlin,Felix Brych,2,2
+1087,Regular Season,Sat,2019-01-26,15:30,Wolfsburg,0.7,0 3,3.1,Leverkusen,21736.0,Volkswagen Arena,Felix Zwayer,0,3
+1088,Regular Season,Sat,2019-01-26,15:30,Freiburg,2.0,2 4,2.5,Hoffenheim,23900.0,Schwarzwald-Stadion,Bibiana Steinhaus,2,4
+1089,Regular Season,Sat,2019-01-26,15:30,M'Gladbach,1.9,2 0,0.6,Augsburg,42509.0,Stadion im Borussia-Park,Harm Osmers,2,0
+1090,Regular Season,Sat,2019-01-26,15:30,Mainz 05,3.0,2 1,0.5,Nürnberg,22005.0,Opel Arena,Bastian Dankert,2,1
+1091,Regular Season,Sat,2019-01-26,15:30,Dortmund,2.2,5 1,0.8,Hannover 96,81365.0,Signal Iduna Park,Manuel Gräfe,5,1
+1092,Regular Season,Sat,2019-01-26,18:30,Werder Bremen,3.5,2 2,1.6,Eint Frankfurt,42100.0,Weserstadion,Markus Schmidt,2,2
+1093,Regular Season,Sun,2019-01-27,15:30,Bayern Munich,2.2,4 1,0.9,Stuttgart,75000.0,Allianz Arena,Frank Willenborg,4,1
+1094,Regular Season,Sun,2019-01-27,18:00,Düsseldorf,0.3,0 4,2.4,RB Leipzig,34394.0,Merkur Spielarena,Robert Hartmann,0,4
+1095,Regular Season,Fri,2019-02-01,20:30,Hannover 96,0.1,0 3,3.0,RB Leipzig,32400.0,HDI-Arena,Daniel Schlager,0,3
+1096,Regular Season,Sat,2019-02-02,15:30,Hertha BSC,1.4,0 1,1.2,Wolfsburg,39259.0,Olympiastadion Berlin,Bastian Dankert,0,1
+1097,Regular Season,Sat,2019-02-02,15:30,Leverkusen,1.7,3 1,1.6,Bayern Munich,30210.0,BayArena,Tobias Stieler,3,1
+1098,Regular Season,Sat,2019-02-02,15:30,Eint Frankfurt,1.0,1 1,1.5,Dortmund,51500.0,Commerzbank-Arena,Felix Zwayer,1,1
+1099,Regular Season,Sat,2019-02-02,15:30,Nürnberg,1.3,1 1,0.9,Werder Bremen,35753.0,Max-Morlock-Stadion,Robert Kampka,1,1
+1100,Regular Season,Sat,2019-02-02,15:30,Hoffenheim,1.8,1 1,0.9,Düsseldorf,24747.0,PreZero Arena,Benjamin Cortus,1,1
+1101,Regular Season,Sat,2019-02-02,18:30,Schalke 04,0.4,0 2,1.6,M'Gladbach,62271.0,Veltins-Arena,Marco Fritz,0,2
+1102,Regular Season,Sun,2019-02-03,15:30,Augsburg,3.3,3 0,0.3,Mainz 05,25733.0,WWK Arena,Sören Storks,3,0
+1103,Regular Season,Sun,2019-02-03,18:00,Stuttgart,1.3,2 2,2.1,Freiburg,51009.0,Mercedes-Benz Arena,Deniz Aytekin,2,2
+1104,Regular Season,Fri,2019-02-08,20:30,Mainz 05,1.7,1 5,2.7,Leverkusen,21905.0,Opel Arena,Robert Schröder,1,5
+1105,Regular Season,Sat,2019-02-09,15:30,Dortmund,2.5,3 3,1.3,Hoffenheim,81365.0,Signal Iduna Park,Marco Fritz,3,3
+1106,Regular Season,Sat,2019-02-09,15:30,Freiburg,1.0,3 3,1.7,Wolfsburg,23600.0,Schwarzwald-Stadion,Felix Brych,3,3
+1107,Regular Season,Sat,2019-02-09,15:30,Hannover 96,1.7,2 0,1.1,Nürnberg,33700.0,HDI-Arena,Tobias Welz,2,0
+1108,Regular Season,Sat,2019-02-09,15:30,RB Leipzig,1.7,0 0,0.4,Eint Frankfurt,38330.0,Red Bull Arena,Guido Winkmann,0,0
+1109,Regular Season,Sat,2019-02-09,15:30,M'Gladbach,1.1,0 3,1.6,Hertha BSC,48232.0,Stadion im Borussia-Park,Martin Petersen,0,3
+1110,Regular Season,Sat,2019-02-09,18:30,Bayern Munich,2.2,3 1,0.8,Schalke 04,75000.0,Allianz Arena,Daniel Siebert,3,1
+1111,Regular Season,Sun,2019-02-10,15:30,Werder Bremen,1.2,4 0,1.2,Augsburg,40138.0,Weserstadion,Manuel Gräfe,4,0
+1112,Regular Season,Sun,2019-02-10,18:00,Düsseldorf,1.9,3 0,1.2,Stuttgart,40211.0,Merkur Spielarena,Christian Dingert,3,0
+1113,Regular Season,Fri,2019-02-15,20:30,Augsburg,0.4,2 3,1.8,Bayern Munich,30660.0,WWK Arena,Bibiana Steinhaus,2,3
+1114,Regular Season,Sat,2019-02-16,15:30,Stuttgart,1.2,1 3,1.2,RB Leipzig,46072.0,Mercedes-Benz Arena,Felix Zwayer,1,3
+1115,Regular Season,Sat,2019-02-16,15:30,Schalke 04,0.5,0 0,1.0,Freiburg,58271.0,Veltins-Arena,Frank Willenborg,0,0
+1116,Regular Season,Sat,2019-02-16,15:30,Wolfsburg,2.0,3 0,0.8,Mainz 05,20334.0,Volkswagen Arena,Benjamin Cortus,3,0
+1117,Regular Season,Sat,2019-02-16,15:30,Hoffenheim,3.4,3 0,0.4,Hannover 96,23404.0,PreZero Arena,Daniel Siebert,3,0
+1118,Regular Season,Sat,2019-02-16,18:30,Hertha BSC,1.1,1 1,0.5,Werder Bremen,49627.0,Olympiastadion Berlin,Sören Storks,1,1
+1119,Regular Season,Sun,2019-02-17,15:30,Eint Frankfurt,1.0,1 1,1.2,M'Gladbach,51500.0,Commerzbank-Arena,Deniz Aytekin,1,1
+1120,Regular Season,Sun,2019-02-17,18:00,Leverkusen,1.8,2 0,0.2,Düsseldorf,27717.0,BayArena,Markus Schmidt,2,0
+1121,Regular Season,Mon,2019-02-18,20:30,Nürnberg,0.3,0 0,1.4,Dortmund,50000.0,Max-Morlock-Stadion,Harm Osmers,0,0
+1122,Regular Season,Fri,2019-02-22,20:30,Werder Bremen,1.0,1 1,0.9,Stuttgart,41000.0,Weserstadion,Robert Hartmann,1,1
+1123,Regular Season,Sat,2019-02-23,15:30,Bayern Munich,0.7,1 0,0.4,Hertha BSC,75000.0,Allianz Arena,Harm Osmers,1,0
+1124,Regular Season,Sat,2019-02-23,15:30,Freiburg,2.1,5 1,1.3,Augsburg,23600.0,Schwarzwald-Stadion,Tobias Welz,5,1
+1125,Regular Season,Sat,2019-02-23,15:30,Mainz 05,2.9,3 0,0.7,Schalke 04,26005.0,Opel Arena,Sven Jablonski,3,0
+1126,Regular Season,Sat,2019-02-23,15:30,M'Gladbach,1.2,0 3,0.9,Wolfsburg,48041.0,Stadion im Borussia-Park,Robert Kampka,0,3
+1127,Regular Season,Sat,2019-02-23,18:30,Düsseldorf,1.6,2 1,0.1,Nürnberg,41816.0,Merkur Spielarena,Sascha Stegemann,2,1
+1128,Regular Season,Sun,2019-02-24,15:30,Hannover 96,0.5,0 3,1.9,Eint Frankfurt,39100.0,HDI-Arena,Marco Fritz,0,3
+1129,Regular Season,Sun,2019-02-24,18:00,Dortmund,1.2,3 2,0.9,Leverkusen,81029.0,Signal Iduna Park,Christian Dingert,3,2
+1130,Regular Season,Mon,2019-02-25,20:30,RB Leipzig,1.3,1 1,1.2,Hoffenheim,33569.0,Red Bull Arena,Felix Brych,1,1
+1131,Regular Season,Fri,2019-03-01,20:30,Augsburg,0.9,2 1,2.2,Dortmund,30660.0,WWK Arena,Tobias Stieler,2,1
+1132,Regular Season,Sat,2019-03-02,15:30,Nürnberg,1.1,0 1,1.3,RB Leipzig,34532.0,Max-Morlock-Stadion,Daniel Schlager,0,1
+1133,Regular Season,Sat,2019-03-02,15:30,Hertha BSC,1.4,2 1,0.6,Mainz 05,33981.0,Olympiastadion Berlin,Deniz Aytekin,2,1
+1134,Regular Season,Sat,2019-03-02,15:30,Schalke 04,0.7,0 4,2.1,Düsseldorf,60322.0,Veltins-Arena,Felix Brych,0,4
+1135,Regular Season,Sat,2019-03-02,15:30,Leverkusen,2.2,2 0,0.3,Freiburg,26607.0,BayArena,Guido Winkmann,2,0
+1136,Regular Season,Sat,2019-03-02,15:30,Eint Frankfurt,1.6,3 2,2.0,Hoffenheim,49500.0,Commerzbank-Arena,Manuel Gräfe,3,2
+1137,Regular Season,Sat,2019-03-02,18:30,M'Gladbach,0.7,1 5,4.7,Bayern Munich,54022.0,Stadion im Borussia-Park,Felix Zwayer,1,5
+1138,Regular Season,Sun,2019-03-03,15:30,Stuttgart,2.0,5 1,0.1,Hannover 96,55781.0,Mercedes-Benz Arena,Bastian Dankert,5,1
+1139,Regular Season,Sun,2019-03-03,18:00,Wolfsburg,1.2,1 1,1.3,Werder Bremen,28101.0,Volkswagen Arena,Daniel Siebert,1,1
+1140,Regular Season,Fri,2019-03-08,20:30,Werder Bremen,2.5,4 2,1.1,Schalke 04,42100.0,Weserstadion,Martin Petersen,4,2
+1141,Regular Season,Sat,2019-03-09,15:30,Freiburg,1.4,2 1,1.2,Hertha BSC,24000.0,Schwarzwald-Stadion,Robert Schröder,2,1
+1142,Regular Season,Sat,2019-03-09,15:30,RB Leipzig,1.5,0 0,0.2,Augsburg,38590.0,Red Bull Arena,Sven Jablonski,0,0
+1143,Regular Season,Sat,2019-03-09,15:30,Dortmund,2.0,3 1,0.7,Stuttgart,81365.0,Signal Iduna Park,Benjamin Cortus,3,1
+1144,Regular Season,Sat,2019-03-09,15:30,Bayern Munich,3.3,6 0,0.1,Wolfsburg,75000.0,Allianz Arena,Sascha Stegemann,6,0
+1145,Regular Season,Sat,2019-03-09,18:30,Mainz 05,0.6,0 1,1.7,M'Gladbach,30405.0,Opel Arena,Markus Schmidt,0,1
+1146,Regular Season,Sun,2019-03-10,15:30,Hoffenheim,2.2,2 1,0.6,Nürnberg,29015.0,PreZero Arena,Christian Dingert,2,1
+1147,Regular Season,Sun,2019-03-10,18:00,Hannover 96,1.2,2 3,2.4,Leverkusen,33800.0,HDI-Arena,Sören Storks,2,3
+1148,Regular Season,Mon,2019-03-11,20:30,Düsseldorf,0.6,0 3,2.3,Eint Frankfurt,41419.0,Merkur Spielarena,Robert Hartmann,0,3
+1149,Regular Season,Fri,2019-03-15,20:30,M'Gladbach,1.5,1 1,0.5,Freiburg,46832.0,Stadion im Borussia-Park,Robert Kampka,1,1
+1150,Regular Season,Sat,2019-03-16,15:30,Wolfsburg,4.2,5 2,1.4,Düsseldorf,25350.0,Volkswagen Arena,Bastian Dankert,5,2
+1151,Regular Season,Sat,2019-03-16,15:30,Augsburg,1.0,3 1,1.7,Hannover 96,28136.0,WWK Arena,Manuel Gräfe,3,1
+1152,Regular Season,Sat,2019-03-16,15:30,Schalke 04,1.2,0 1,1.3,RB Leipzig,59913.0,Veltins-Arena,Guido Winkmann,0,1
+1153,Regular Season,Sat,2019-03-16,15:30,Stuttgart,1.1,1 1,2.3,Hoffenheim,56743.0,Mercedes-Benz Arena,Felix Zwayer,1,1
+1154,Regular Season,Sat,2019-03-16,18:30,Hertha BSC,1.6,2 3,2.9,Dortmund,74649.0,Olympiastadion Berlin,Tobias Welz,2,3
+1155,Regular Season,Sun,2019-03-17,13:30,Leverkusen,1.6,1 3,1.1,Werder Bremen,30210.0,BayArena,Deniz Aytekin,1,3
+1156,Regular Season,Sun,2019-03-17,15:30,Eint Frankfurt,2.9,1 0,0.5,Nürnberg,51500.0,Commerzbank-Arena,Bibiana Steinhaus,1,0
+1157,Regular Season,Sun,2019-03-17,18:00,Bayern Munich,2.3,6 0,0.3,Mainz 05,75000.0,Allianz Arena,Frank Willenborg,6,0
+1158,Regular Season,Fri,2019-03-29,20:30,Hoffenheim,1.7,4 1,2.3,Leverkusen,28350.0,PreZero Arena,Harm Osmers,4,1
+1159,Regular Season,Sat,2019-03-30,15:30,Dortmund,1.1,2 0,0.2,Wolfsburg,81365.0,Signal Iduna Park,Markus Schmidt,2,0
+1160,Regular Season,Sat,2019-03-30,15:30,Freiburg,0.7,1 1,2.3,Bayern Munich,24000.0,Schwarzwald-Stadion,Christian Dingert,1,1
+1161,Regular Season,Sat,2019-03-30,15:30,Düsseldorf,1.4,3 1,0.9,M'Gladbach,52500.0,Merkur Spielarena,Tobias Stieler,3,1
+1162,Regular Season,Sat,2019-03-30,15:30,Nürnberg,1.2,3 0,0.9,Augsburg,42658.0,Max-Morlock-Stadion,Daniel Siebert,3,0
+1163,Regular Season,Sat,2019-03-30,15:30,Werder Bremen,1.4,3 1,1.0,Mainz 05,40711.0,Weserstadion,Marco Fritz,3,1
+1164,Regular Season,Sat,2019-03-30,18:30,RB Leipzig,3.8,5 0,0.9,Hertha BSC,41939.0,Red Bull Arena,Sören Storks,5,0
+1165,Regular Season,Sun,2019-03-31,15:30,Hannover 96,1.0,0 1,0.5,Schalke 04,44500.0,HDI-Arena,Sven Jablonski,0,1
+1166,Regular Season,Sun,2019-03-31,18:00,Eint Frankfurt,1.0,3 0,0.5,Stuttgart,51500.0,Commerzbank-Arena,Felix Brych,3,0
+1167,Regular Season,Fri,2019-04-05,20:30,Mainz 05,1.6,5 0,1.4,Freiburg,27305.0,Opel Arena,Sven Jablonski,5,0
+1168,Regular Season,Sat,2019-04-06,15:30,Schalke 04,0.7,1 2,2.2,Eint Frankfurt,61842.0,Veltins-Arena,Sascha Stegemann,1,2
+1169,Regular Season,Sat,2019-04-06,15:30,Wolfsburg,1.5,3 1,1.0,Hannover 96,23512.0,Volkswagen Arena,Benjamin Cortus,3,1
+1170,Regular Season,Sat,2019-04-06,15:30,Stuttgart,2.8,1 1,2.6,Nürnberg,58757.0,Mercedes-Benz Arena,Frank Willenborg,1,1
+1171,Regular Season,Sat,2019-04-06,15:30,Hertha BSC,1.3,1 2,2.8,Düsseldorf,51604.0,Olympiastadion Berlin,Christian Dingert,1,2
+1172,Regular Season,Sat,2019-04-06,15:30,Leverkusen,1.6,2 4,1.5,RB Leipzig,28845.0,BayArena,Tobias Welz,2,4
+1173,Regular Season,Sat,2019-04-06,18:30,Bayern Munich,3.5,5 0,0.4,Dortmund,75000.0,Allianz Arena,Manuel Gräfe,5,0
+1174,Regular Season,Sun,2019-04-07,15:30,Augsburg,0.4,0 4,2.7,Hoffenheim,27552.0,WWK Arena,Robert Schröder,0,4
+1175,Regular Season,Sun,2019-04-07,18:00,M'Gladbach,1.4,1 1,0.8,Werder Bremen,54022.0,Stadion im Borussia-Park,Daniel Schlager,1,1
+1176,Regular Season,Fri,2019-04-12,20:30,Nürnberg,1.9,1 1,1.2,Schalke 04,50000.0,Max-Morlock-Stadion,Robert Kampka,1,1
+1177,Regular Season,Sat,2019-04-13,15:30,RB Leipzig,1.6,2 0,0.4,Wolfsburg,41212.0,Red Bull Arena,Daniel Siebert,2,0
+1178,Regular Season,Sat,2019-04-13,15:30,Werder Bremen,1.5,2 1,0.7,Freiburg,42100.0,Weserstadion,Bibiana Steinhaus,2,1
+1179,Regular Season,Sat,2019-04-13,15:30,Stuttgart,0.5,0 1,2.5,Leverkusen,53657.0,Mercedes-Benz Arena,Tobias Stieler,0,1
+1180,Regular Season,Sat,2019-04-13,15:30,Hannover 96,0.8,0 1,1.9,M'Gladbach,40200.0,HDI-Arena,Felix Brych,0,1
+1181,Regular Season,Sat,2019-04-13,18:30,Dortmund,1.4,2 1,3.2,Mainz 05,81365.0,Signal Iduna Park,Deniz Aytekin,2,1
+1182,Regular Season,Sun,2019-04-14,13:30,Hoffenheim,3.2,2 0,0.4,Hertha BSC,28010.0,PreZero Arena,Martin Petersen,2,0
+1183,Regular Season,Sun,2019-04-14,15:30,Düsseldorf,0.9,1 4,3.7,Bayern Munich,54600.0,Merkur Spielarena,Felix Zwayer,1,4
+1184,Regular Season,Sun,2019-04-14,18:00,Eint Frankfurt,1.7,1 3,2.3,Augsburg,51000.0,Commerzbank-Arena,Bastian Dankert,1,3
+1185,Regular Season,Sat,2019-04-20,15:30,Bayern Munich,2.7,1 0,0.2,Werder Bremen,75000.0,Allianz Arena,Tobias Welz,1,0
+1186,Regular Season,Sat,2019-04-20,15:30,Augsburg,2.7,6 0,1.7,Stuttgart,30660.0,WWK Arena,Manuel Gräfe,6,0
+1187,Regular Season,Sat,2019-04-20,15:30,Mainz 05,3.4,3 1,2.4,Düsseldorf,29205.0,Opel Arena,Markus Schmidt,3,1
+1188,Regular Season,Sat,2019-04-20,15:30,Leverkusen,1.5,2 0,0.2,Nürnberg,26405.0,BayArena,Guido Winkmann,2,0
+1189,Regular Season,Sat,2019-04-20,18:30,M'Gladbach,1.7,1 2,2.2,RB Leipzig,51757.0,Stadion im Borussia-Park,Harm Osmers,1,2
+1190,Regular Season,Sat,2019-04-20,20:30,Schalke 04,1.9,2 5,1.9,Hoffenheim,58958.0,Veltins-Arena,Christian Dingert,2,5
+1191,Regular Season,Sun,2019-04-21,15:30,Freiburg,0.6,0 4,2.8,Dortmund,24000.0,Schwarzwald-Stadion,Robert Hartmann,0,4
+1192,Regular Season,Sun,2019-04-21,18:00,Hertha BSC,1.5,0 0,0.7,Hannover 96,38916.0,Olympiastadion Berlin,Sascha Stegemann,0,0
+1193,Regular Season,Mon,2019-04-22,20:30,Wolfsburg,2.0,1 1,1.1,Eint Frankfurt,26102.0,Volkswagen Arena,Marco Fritz,1,1
+1194,Regular Season,Fri,2019-04-26,20:30,Augsburg,0.3,1 4,2.2,Leverkusen,26404.0,WWK Arena,Frank Willenborg,1,4
+1195,Regular Season,Sat,2019-04-27,15:30,Eint Frankfurt,1.2,0 0,1.5,Hertha BSC,51500.0,Commerzbank-Arena,Sven Jablonski,0,0
+1196,Regular Season,Sat,2019-04-27,15:30,Dortmund,0.9,2 4,1.1,Schalke 04,80196.0,Signal Iduna Park,Felix Zwayer,2,4
+1197,Regular Season,Sat,2019-04-27,15:30,Düsseldorf,1.9,4 1,2.7,Werder Bremen,52500.0,Merkur Spielarena,Benjamin Cortus,4,1
+1198,Regular Season,Sat,2019-04-27,15:30,Hannover 96,1.0,1 0,2.2,Mainz 05,30400.0,HDI-Arena,Sören Storks,1,0
+1199,Regular Season,Sat,2019-04-27,15:30,RB Leipzig,1.7,2 1,0.9,Freiburg,40826.0,Red Bull Arena,Robert Schröder,2,1
+1200,Regular Season,Sat,2019-04-27,18:30,Stuttgart,1.5,1 0,1.5,M'Gladbach,56730.0,Mercedes-Benz Arena,Bastian Dankert,1,0
+1201,Regular Season,Sun,2019-04-28,15:30,Hoffenheim,2.4,1 4,1.5,Wolfsburg,27725.0,PreZero Arena,Deniz Aytekin,1,4
+1202,Regular Season,Sun,2019-04-28,18:00,Nürnberg,1.5,1 1,1.8,Bayern Munich,50000.0,Max-Morlock-Stadion,Tobias Stieler,1,1
+1203,Regular Season,Fri,2019-05-03,20:30,Mainz 05,1.4,3 3,2.3,RB Leipzig,23805.0,Opel Arena,Bibiana Steinhaus,3,3
+1204,Regular Season,Sat,2019-05-04,15:30,Bayern Munich,3.3,3 1,0.9,Hannover 96,75000.0,Allianz Arena,Christian Dingert,3,1
+1205,Regular Season,Sat,2019-05-04,15:30,Wolfsburg,1.4,2 0,0.6,Nürnberg,22512.0,Volkswagen Arena,Daniel Siebert,2,0
+1206,Regular Season,Sat,2019-05-04,15:30,M'Gladbach,1.2,2 2,3.0,Hoffenheim,51807.0,Stadion im Borussia-Park,Sascha Stegemann,2,2
+1207,Regular Season,Sat,2019-05-04,15:30,Hertha BSC,2.3,3 1,1.4,Stuttgart,48668.0,Olympiastadion Berlin,Daniel Schlager,3,1
+1208,Regular Season,Sat,2019-05-04,18:30,Werder Bremen,1.0,2 2,2.1,Dortmund,42100.0,Weserstadion,Marco Fritz,2,2
+1209,Regular Season,Sun,2019-05-05,13:30,Schalke 04,1.4,0 0,0.3,Augsburg,59841.0,Veltins-Arena,Manuel Gräfe,0,0
+1210,Regular Season,Sun,2019-05-05,15:30,Freiburg,1.0,1 1,0.8,Düsseldorf,24000.0,Schwarzwald-Stadion,Tobias Welz,1,1
+1211,Regular Season,Sun,2019-05-05,18:00,Leverkusen,2.8,6 1,0.1,Eint Frankfurt,30210.0,BayArena,Robert Hartmann,6,1
+1212,Regular Season,Sat,2019-05-11,15:30,Stuttgart,0.7,3 0,0.5,Wolfsburg,54068.0,Mercedes-Benz Arena,Felix Brych,3,0
+1213,Regular Season,Sat,2019-05-11,15:30,Hoffenheim,2.3,0 1,0.8,Werder Bremen,30150.0,PreZero Arena,Bastian Dankert,0,1
+1214,Regular Season,Sat,2019-05-11,15:30,Nürnberg,0.8,0 4,2.0,M'Gladbach,50000.0,Max-Morlock-Stadion,Frank Willenborg,0,4
+1215,Regular Season,Sat,2019-05-11,15:30,Hannover 96,1.8,3 0,0.6,Freiburg,38100.0,HDI-Arena,Robert Hartmann,3,0
+1216,Regular Season,Sat,2019-05-11,15:30,Leverkusen,1.8,1 1,1.4,Schalke 04,30210.0,BayArena,Deniz Aytekin,1,1
+1217,Regular Season,Sat,2019-05-11,15:30,Augsburg,1.3,3 4,2.5,Hertha BSC,29307.0,WWK Arena,Guido Winkmann,3,4
+1218,Regular Season,Sat,2019-05-11,15:30,RB Leipzig,0.6,0 0,1.3,Bayern Munich,41939.0,Red Bull Arena,Manuel Gräfe,0,0
+1219,Regular Season,Sat,2019-05-11,15:30,Dortmund,1.2,3 2,1.4,Düsseldorf,81365.0,Signal Iduna Park,Tobias Stieler,3,2
+1220,Regular Season,Sun,2019-05-12,18:00,Eint Frankfurt,1.3,0 2,1.1,Mainz 05,51500.0,Commerzbank-Arena,Harm Osmers,0,2
+1221,Regular Season,Sat,2019-05-18,15:30,Freiburg,1.2,5 1,0.9,Nürnberg,24000.0,Schwarzwald-Stadion,Markus Schmidt,5,1
+1222,Regular Season,Sat,2019-05-18,15:30,M'Gladbach,0.4,0 2,2.1,Dortmund,54022.0,Stadion im Borussia-Park,Manuel Gräfe,0,2
+1223,Regular Season,Sat,2019-05-18,15:30,Werder Bremen,1.0,2 1,1.4,RB Leipzig,42100.0,Weserstadion,Felix Brych,2,1
+1224,Regular Season,Sat,2019-05-18,15:30,Mainz 05,2.7,4 2,1.5,Hoffenheim,28305.0,Opel Arena,Deniz Aytekin,4,2
+1225,Regular Season,Sat,2019-05-18,15:30,Bayern Munich,4.3,5 1,0.8,Eint Frankfurt,75000.0,Allianz Arena,Sascha Stegemann,5,1
+1226,Regular Season,Sat,2019-05-18,15:30,Hertha BSC,1.3,1 5,2.0,Leverkusen,59287.0,Olympiastadion Berlin,Marco Fritz,1,5
+1227,Regular Season,Sat,2019-05-18,15:30,Wolfsburg,2.5,8 1,0.7,Augsburg,24456.0,Volkswagen Arena,Felix Zwayer,8,1
+1228,Regular Season,Sat,2019-05-18,15:30,Düsseldorf,2.0,2 1,1.0,Hannover 96,50000.0,Merkur Spielarena,Benjamin Cortus,2,1
+1229,Regular Season,Sat,2019-05-18,15:30,Schalke 04,0.8,0 0,1.0,Stuttgart,61676.0,Veltins-Arena,Robert Schröder,0,0
+1232,Regular Season,Fri,2017-08-18,20:30,Bayern Munich,2.5,3 1,2.1,Leverkusen,75000.0,Allianz Arena,Tobias Stieler,3,1
+1233,Regular Season,Sat,2017-08-19,15:30,Wolfsburg,0.5,0 3,1.1,Dortmund,30000.0,Volkswagen Arena,Robert Hartmann,0,3
+1234,Regular Season,Sat,2017-08-19,15:30,Hertha BSC,0.7,2 0,1.2,Stuttgart,44751.0,Olympiastadion Berlin,Sascha Stegemann,2,0
+1235,Regular Season,Sat,2017-08-19,15:30,Hoffenheim,1.2,1 0,1.0,Werder Bremen,30150.0,Dietmar-Hopp-Stadion,Guido Winkmann,1,0
+1236,Regular Season,Sat,2017-08-19,15:30,Hamburger SV,0.7,1 0,0.6,Augsburg,49449.0,Volksparkstadion,Daniel Siebert,1,0
+1237,Regular Season,Sat,2017-08-19,15:30,Mainz 05,0.9,0 1,0.7,Hannover 96,28279.0,Opel Arena,Felix Brych,0,1
+1238,Regular Season,Sat,2017-08-19,18:30,Schalke 04,1.6,2 0,0.9,RB Leipzig,61435.0,Veltins-Arena,Felix Zwayer,2,0
+1239,Regular Season,Sun,2017-08-20,15:30,Freiburg,0.2,0 0,1.3,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Manuel Gräfe,0,0
+1240,Regular Season,Sun,2017-08-20,18:00,M'Gladbach,1.5,1 0,1.0,Köln,54018.0,Stadion im Borussia-Park,Deniz Aytekin,1,0
+1241,Regular Season,Fri,2017-08-25,20:30,Köln,2.3,1 3,1.7,Hamburger SV,50000.0,RheinEnergieSTADION,Felix Brych,1,3
+1242,Regular Season,Sat,2017-08-26,15:30,Stuttgart,2.3,1 0,0.9,Mainz 05,53100.0,Mercedes-Benz Arena,Benjamin Brand,1,0
+1243,Regular Season,Sat,2017-08-26,15:30,Augsburg,3.3,2 2,1.4,M'Gladbach,29243.0,WWK Arena,Sascha Stegemann,2,2
+1244,Regular Season,Sat,2017-08-26,15:30,Leverkusen,2.6,2 2,0.7,Hoffenheim,27106.0,BayArena,Harm Osmers,2,2
+1245,Regular Season,Sat,2017-08-26,15:30,Eint Frankfurt,1.4,0 1,1.0,Wolfsburg,46000.0,Commerzbank-Arena,Benjamin Cortus,0,1
+1246,Regular Season,Sat,2017-08-26,15:30,Werder Bremen,0.4,0 2,1.8,Bayern Munich,42100.0,Weserstadion,Bastian Dankert,0,2
+1247,Regular Season,Sat,2017-08-26,18:30,Dortmund,2.2,2 0,0.7,Hertha BSC,80860.0,Signal Iduna Park,Marco Fritz,2,0
+1248,Regular Season,Sun,2017-08-27,15:30,RB Leipzig,3.1,4 1,0.4,Freiburg,39265.0,Red Bull Arena,Christian Dingert,4,1
+1249,Regular Season,Sun,2017-08-27,18:00,Hannover 96,0.9,1 0,0.4,Schalke 04,49000.0,HDI-Arena,Patrick Ittrich,1,0
+1250,Regular Season,Fri,2017-09-08,20:30,Hamburger SV,0.9,0 2,2.4,RB Leipzig,50231.0,Volksparkstadion,Deniz Aytekin,0,2
+1251,Regular Season,Sat,2017-09-09,15:30,M'Gladbach,0.9,0 1,0.4,Eint Frankfurt,51431.0,Stadion im Borussia-Park,Robert Kampka,0,1
+1252,Regular Season,Sat,2017-09-09,15:30,Mainz 05,1.3,3 1,0.9,Leverkusen,24876.0,Opel Arena,Markus Schmidt,3,1
+1253,Regular Season,Sat,2017-09-09,15:30,Freiburg,0.7,0 0,1.6,Dortmund,24000.0,Schwarzwald-Stadion,Benjamin Cortus,0,0
+1254,Regular Season,Sat,2017-09-09,15:30,Augsburg,2.0,3 0,0.7,Köln,27510.0,WWK Arena,Tobias Stieler,3,0
+1255,Regular Season,Sat,2017-09-09,15:30,Wolfsburg,1.4,1 1,1.0,Hannover 96,27321.0,Volkswagen Arena,Felix Zwayer,1,1
+1256,Regular Season,Sat,2017-09-09,18:30,Hoffenheim,0.4,2 0,1.8,Bayern Munich,30150.0,Dietmar-Hopp-Stadion,Daniel Siebert,2,0
+1257,Regular Season,Sun,2017-09-10,15:30,Hertha BSC,0.9,1 1,1.1,Werder Bremen,49118.0,Olympiastadion Berlin,Bibiana Steinhaus,1,1
+1258,Regular Season,Sun,2017-09-10,18:00,Schalke 04,2.3,3 1,1.3,Stuttgart,61098.0,Veltins-Arena,Frank Willenborg,3,1
+1259,Regular Season,Fri,2017-09-15,20:30,Hannover 96,1.8,2 0,0.7,Hamburger SV,49000.0,HDI-Arena,Robert Hartmann,2,0
+1260,Regular Season,Sat,2017-09-16,15:30,Werder Bremen,0.9,1 2,0.9,Schalke 04,42100.0,Weserstadion,Benjamin Brand,1,2
+1261,Regular Season,Sat,2017-09-16,15:30,Stuttgart,0.9,1 0,0.5,Wolfsburg,50500.0,Mercedes-Benz Arena,Guido Winkmann,1,0
+1262,Regular Season,Sat,2017-09-16,15:30,Eint Frankfurt,1.8,1 2,1.0,Augsburg,46500.0,Commerzbank-Arena,Christian Dingert,1,2
+1263,Regular Season,Sat,2017-09-16,15:30,Bayern Munich,4.9,4 0,0.7,Mainz 05,75000.0,Allianz Arena,Sascha Stegemann,4,0
+1264,Regular Season,Sat,2017-09-16,18:30,RB Leipzig,1.3,2 2,1.7,M'Gladbach,42558.0,Red Bull Arena,Marco Fritz,2,2
+1265,Regular Season,Sun,2017-09-17,13:30,Hoffenheim,0.7,1 1,0.8,Hertha BSC,27243.0,Dietmar-Hopp-Stadion,Markus Schmidt,1,1
+1266,Regular Season,Sun,2017-09-17,15:30,Leverkusen,2.7,4 0,0.6,Freiburg,26232.0,BayArena,Sven Jablonski,4,0
+1267,Regular Season,Sun,2017-09-17,18:00,Dortmund,3.1,5 0,0.5,Köln,81000.0,Signal Iduna Park,Patrick Ittrich,5,0
+1268,Regular Season,Tue,2017-09-19,18:30,M'Gladbach,1.3,2 0,0.8,Stuttgart,44063.0,Stadion im Borussia-Park,Sören Storks,2,0
+1269,Regular Season,Tue,2017-09-19,20:30,Augsburg,1.1,1 0,0.9,RB Leipzig,26113.0,WWK Arena,Daniel Siebert,1,0
+1270,Regular Season,Tue,2017-09-19,20:30,Wolfsburg,1.0,1 1,1.5,Werder Bremen,26174.0,Volkswagen Arena,Felix Brych,1,1
+1271,Regular Season,Tue,2017-09-19,20:30,Schalke 04,1.0,0 3,2.3,Bayern Munich,62271.0,Veltins-Arena,Marco Fritz,0,3
+1272,Regular Season,Wed,2017-09-20,18:30,Köln,1.7,0 1,1.7,Eint Frankfurt,49000.0,RheinEnergieSTADION,Martin Petersen,0,1
+1273,Regular Season,Wed,2017-09-20,20:30,Freiburg,2.2,1 1,1.5,Hannover 96,22900.0,Schwarzwald-Stadion,Tobias Stieler,1,1
+1274,Regular Season,Wed,2017-09-20,20:30,Mainz 05,1.3,2 3,1.3,Hoffenheim,23477.0,Opel Arena,Manuel Gräfe,2,3
+1275,Regular Season,Wed,2017-09-20,20:30,Hertha BSC,0.8,2 1,0.5,Leverkusen,32825.0,Olympiastadion Berlin,Deniz Aytekin,2,1
+1276,Regular Season,Wed,2017-09-20,20:30,Hamburger SV,0.5,0 3,2.7,Dortmund,52962.0,Volksparkstadion,Felix Zwayer,0,3
+1277,Regular Season,Fri,2017-09-22,20:30,Bayern Munich,2.9,2 2,1.0,Wolfsburg,75000.0,Allianz Arena,Christian Dingert,2,2
+1278,Regular Season,Sat,2017-09-23,15:30,Hoffenheim,2.0,2 0,1.7,Schalke 04,30150.0,Dietmar-Hopp-Stadion,Sascha Stegemann,2,0
+1279,Regular Season,Sat,2017-09-23,15:30,Werder Bremen,1.8,0 0,1.3,Freiburg,41000.0,Weserstadion,Robert Hartmann,0,0
+1280,Regular Season,Sat,2017-09-23,15:30,RB Leipzig,2.0,2 1,1.1,Eint Frankfurt,40606.0,Red Bull Arena,Benjamin Brand,2,1
+1281,Regular Season,Sat,2017-09-23,15:30,Mainz 05,1.1,1 0,0.6,Hertha BSC,23517.0,Opel Arena,Tobias Stieler,1,0
+1282,Regular Season,Sat,2017-09-23,15:30,Stuttgart,0.7,0 0,0.8,Augsburg,55202.0,Mercedes-Benz Arena,Harm Osmers,0,0
+1283,Regular Season,Sat,2017-09-23,18:30,Dortmund,2.6,6 1,1.3,M'Gladbach,81360.0,Signal Iduna Park,Manuel Gräfe,6,1
+1284,Regular Season,Sun,2017-09-24,15:30,Hannover 96,1.3,0 0,1.2,Köln,47000.0,HDI-Arena,Daniel Siebert,0,0
+1285,Regular Season,Sun,2017-09-24,18:00,Leverkusen,2.4,3 0,0.5,Hamburger SV,27601.0,BayArena,Robert Kampka,3,0
+1286,Regular Season,Fri,2017-09-29,20:30,Schalke 04,1.2,1 1,1.1,Leverkusen,61515.0,Veltins-Arena,Guido Winkmann,1,1
+1287,Regular Season,Sat,2017-09-30,15:30,M'Gladbach,2.2,2 1,1.4,Hannover 96,50542.0,Stadion im Borussia-Park,Christian Dingert,2,1
+1288,Regular Season,Sat,2017-09-30,15:30,Wolfsburg,0.9,1 1,0.9,Mainz 05,24352.0,Volkswagen Arena,Robert Hartmann,1,1
+1289,Regular Season,Sat,2017-09-30,15:30,Augsburg,1.8,1 2,2.4,Dortmund,30660.0,WWK Arena,Marco Fritz,1,2
+1290,Regular Season,Sat,2017-09-30,15:30,Eint Frankfurt,1.3,2 1,1.5,Stuttgart,51500.0,Commerzbank-Arena,Felix Brych,2,1
+1291,Regular Season,Sat,2017-09-30,18:30,Hamburger SV,1.0,0 0,0.5,Werder Bremen,54613.0,Volksparkstadion,Deniz Aytekin,0,0
+1292,Regular Season,Sun,2017-10-01,13:30,Freiburg,1.1,3 2,1.1,Hoffenheim,24000.0,Schwarzwald-Stadion,Daniel Siebert,3,2
+1293,Regular Season,Sun,2017-10-01,15:30,Hertha BSC,2.0,2 2,1.8,Bayern Munich,71212.0,Olympiastadion Berlin,Harm Osmers,2,2
+1294,Regular Season,Sun,2017-10-01,18:00,Köln,1.7,1 2,2.6,RB Leipzig,48700.0,RheinEnergieSTADION,Felix Zwayer,1,2
+1295,Regular Season,Fri,2017-10-13,20:30,Stuttgart,2.6,2 1,1.7,Köln,58716.0,Mercedes-Benz Arena,Benjamin Cortus,2,1
+1296,Regular Season,Sat,2017-10-14,15:30,Hoffenheim,1.8,2 2,1.1,Augsburg,27014.0,Dietmar-Hopp-Stadion,Manuel Gräfe,2,2
+1297,Regular Season,Sat,2017-10-14,15:30,Hertha BSC,0.3,0 2,1.7,Schalke 04,50590.0,Olympiastadion Berlin,Benjamin Brand,0,2
+1298,Regular Season,Sat,2017-10-14,15:30,Bayern Munich,2.0,5 0,0.6,Freiburg,75000.0,Allianz Arena,Frank Willenborg,5,0
+1299,Regular Season,Sat,2017-10-14,15:30,Mainz 05,1.1,3 2,1.6,Hamburger SV,30371.0,Opel Arena,Felix Brych,3,2
+1300,Regular Season,Sat,2017-10-14,15:30,Hannover 96,1.0,1 2,0.8,Eint Frankfurt,43500.0,HDI-Arena,Bastian Dankert,1,2
+1301,Regular Season,Sat,2017-10-14,18:30,Dortmund,3.1,2 3,2.3,RB Leipzig,80100.0,Signal Iduna Park,Deniz Aytekin,2,3
+1302,Regular Season,Sun,2017-10-15,15:30,Leverkusen,1.9,2 2,1.5,Wolfsburg,29104.0,BayArena,Patrick Ittrich,2,2
+1303,Regular Season,Sun,2017-10-15,18:00,Werder Bremen,1.4,0 2,2.1,M'Gladbach,42100.0,Weserstadion,Markus Schmidt,0,2
+1304,Regular Season,Fri,2017-10-20,20:30,Schalke 04,2.0,2 0,0.5,Mainz 05,59476.0,Veltins-Arena,Bibiana Steinhaus,2,0
+1305,Regular Season,Sat,2017-10-21,15:30,M'Gladbach,1.9,1 5,2.4,Leverkusen,53053.0,Stadion im Borussia-Park,Bastian Dankert,1,5
+1306,Regular Season,Sat,2017-10-21,15:30,Augsburg,1.4,1 2,1.0,Hannover 96,25971.0,WWK Arena,Sascha Stegemann,1,2
+1307,Regular Season,Sat,2017-10-21,15:30,Eint Frankfurt,2.4,2 2,2.1,Dortmund,51500.0,Commerzbank-Arena,Robert Hartmann,2,2
+1308,Regular Season,Sat,2017-10-21,15:30,RB Leipzig,1.0,1 0,0.6,Stuttgart,42558.0,Red Bull Arena,Sven Jablonski,1,0
+1309,Regular Season,Sat,2017-10-21,18:30,Hamburger SV,0.2,0 1,2.3,Bayern Munich,57000.0,Volksparkstadion,Marco Fritz,0,1
+1310,Regular Season,Sun,2017-10-22,13:30,Köln,2.0,0 0,1.0,Werder Bremen,50000.0,RheinEnergieSTADION,Robert Kampka,0,0
+1311,Regular Season,Sun,2017-10-22,15:30,Freiburg,3.0,1 1,2.0,Hertha BSC,23800.0,Schwarzwald-Stadion,Guido Winkmann,1,1
+1312,Regular Season,Sun,2017-10-22,18:00,Wolfsburg,1.5,1 1,1.9,Hoffenheim,23514.0,Volkswagen Arena,Felix Zwayer,1,1
+1313,Regular Season,Fri,2017-10-27,20:30,Mainz 05,0.4,1 1,0.8,Eint Frankfurt,33794.0,Opel Arena,Sascha Stegemann,1,1
+1314,Regular Season,Sat,2017-10-28,15:30,Hoffenheim,1.0,1 3,1.8,M'Gladbach,30150.0,Dietmar-Hopp-Stadion,Harm Osmers,1,3
+1315,Regular Season,Sat,2017-10-28,15:30,Hannover 96,2.6,4 2,1.0,Dortmund,49000.0,HDI-Arena,Patrick Ittrich,4,2
+1316,Regular Season,Sat,2017-10-28,15:30,Schalke 04,1.5,1 1,1.3,Wolfsburg,60429.0,Veltins-Arena,Markus Schmidt,1,1
+1317,Regular Season,Sat,2017-10-28,15:30,Hertha BSC,0.9,2 1,0.8,Hamburger SV,52131.0,Olympiastadion Berlin,Felix Brych,2,1
+1318,Regular Season,Sat,2017-10-28,15:30,Leverkusen,1.9,2 1,0.4,Köln,30210.0,BayArena,Manuel Gräfe,2,1
+1319,Regular Season,Sat,2017-10-28,18:30,Bayern Munich,1.9,2 0,0.2,RB Leipzig,75000.0,Allianz Arena,Daniel Siebert,2,0
+1320,Regular Season,Sun,2017-10-29,15:30,Werder Bremen,1.1,0 3,2.8,Augsburg,40500.0,Weserstadion,Sören Storks,0,3
+1321,Regular Season,Sun,2017-10-29,18:00,Stuttgart,1.3,3 0,0.5,Freiburg,58872.0,Mercedes-Benz Arena,Tobias Stieler,3,0
+1322,Regular Season,Fri,2017-11-03,20:30,Eint Frankfurt,2.1,2 1,1.3,Werder Bremen,51500.0,Commerzbank-Arena,Benjamin Brand,2,1
+1323,Regular Season,Sat,2017-11-04,15:30,Augsburg,1.2,1 1,0.6,Leverkusen,26133.0,WWK Arena,Christian Dingert,1,1
+1324,Regular Season,Sat,2017-11-04,15:30,RB Leipzig,2.1,2 1,1.0,Hannover 96,40461.0,Red Bull Arena,Martin Petersen,2,1
+1325,Regular Season,Sat,2017-11-04,15:30,Hamburger SV,1.6,3 1,1.1,Stuttgart,54976.0,Volksparkstadion,Guido Winkmann,3,1
+1326,Regular Season,Sat,2017-11-04,15:30,M'Gladbach,0.9,1 1,0.9,Mainz 05,52659.0,Stadion im Borussia-Park,Sven Jablonski,1,1
+1327,Regular Season,Sat,2017-11-04,15:30,Freiburg,1.2,0 1,0.7,Schalke 04,24000.0,Schwarzwald-Stadion,Felix Brych,0,1
+1328,Regular Season,Sat,2017-11-04,18:30,Dortmund,3.1,1 3,1.5,Bayern Munich,81360.0,Signal Iduna Park,Tobias Stieler,1,3
+1329,Regular Season,Sun,2017-11-05,15:30,Köln,1.1,0 3,2.7,Hoffenheim,49200.0,RheinEnergieSTADION,Deniz Aytekin,0,3
+1330,Regular Season,Sun,2017-11-05,18:00,Wolfsburg,2.4,3 3,1.5,Hertha BSC,25214.0,Volkswagen Arena,Robert Kampka,3,3
+1331,Regular Season,Fri,2017-11-17,20:30,Stuttgart,2.1,2 1,1.9,Dortmund,58932.0,Mercedes-Benz Arena,Frank Willenborg,2,1
+1332,Regular Season,Sat,2017-11-18,15:30,Bayern Munich,1.7,3 0,0.5,Augsburg,75000.0,Allianz Arena,Markus Schmidt,3,0
+1333,Regular Season,Sat,2017-11-18,15:30,Hoffenheim,1.1,1 1,0.8,Eint Frankfurt,30150.0,Dietmar-Hopp-Stadion,Felix Zwayer,1,1
+1334,Regular Season,Sat,2017-11-18,15:30,Leverkusen,2.2,2 2,2.3,RB Leipzig,29218.0,BayArena,Harm Osmers,2,2
+1335,Regular Season,Sat,2017-11-18,15:30,Mainz 05,1.7,1 0,0.8,Köln,30473.0,Opel Arena,Felix Brych,1,0
+1336,Regular Season,Sat,2017-11-18,15:30,Wolfsburg,2.7,3 1,1.0,Freiburg,23744.0,Volkswagen Arena,Manuel Gräfe,3,1
+1337,Regular Season,Sat,2017-11-18,18:30,Hertha BSC,1.5,2 4,1.4,M'Gladbach,48304.0,Olympiastadion Berlin,Bastian Dankert,2,4
+1338,Regular Season,Sun,2017-11-19,15:30,Schalke 04,1.9,2 0,1.2,Hamburger SV,62271.0,Veltins-Arena,Robert Hartmann,2,0
+1339,Regular Season,Sun,2017-11-19,18:00,Werder Bremen,2.8,4 0,1.3,Hannover 96,41500.0,Weserstadion,Benjamin Cortus,4,0
+1340,Regular Season,Fri,2017-11-24,20:30,Hannover 96,1.6,1 1,1.3,Stuttgart,43500.0,HDI-Arena,Christian Dingert,1,1
+1341,Regular Season,Sat,2017-11-25,15:30,Eint Frankfurt,0.6,0 1,1.1,Leverkusen,50000.0,Commerzbank-Arena,Patrick Ittrich,0,1
+1342,Regular Season,Sat,2017-11-25,15:30,Augsburg,2.4,2 1,0.2,Wolfsburg,26541.0,WWK Arena,Tobias Stieler,2,1
+1343,Regular Season,Sat,2017-11-25,15:30,Dortmund,1.8,4 4,1.8,Schalke 04,80179.0,Signal Iduna Park,Deniz Aytekin,4,4
+1344,Regular Season,Sat,2017-11-25,15:30,Freiburg,2.9,2 1,0.9,Mainz 05,24000.0,Schwarzwald-Stadion,Daniel Siebert,2,1
+1345,Regular Season,Sat,2017-11-25,15:30,RB Leipzig,1.2,2 0,1.0,Werder Bremen,40172.0,Red Bull Arena,Sascha Stegemann,2,0
+1346,Regular Season,Sat,2017-11-25,18:30,M'Gladbach,2.4,2 1,1.9,Bayern Munich,54018.0,Stadion im Borussia-Park,Manuel Gräfe,2,1
+1347,Regular Season,Sun,2017-11-26,15:30,Hamburger SV,1.7,3 0,1.1,Hoffenheim,46470.0,Volksparkstadion,Bastian Dankert,3,0
+1348,Regular Season,Sun,2017-11-26,18:00,Köln,1.1,0 2,2.0,Hertha BSC,47800.0,RheinEnergieSTADION,Bibiana Steinhaus,0,2
+1349,Regular Season,Fri,2017-12-01,20:30,Freiburg,1.3,0 0,0.7,Hamburger SV,24000.0,Schwarzwald-Stadion,Benjamin Brand,0,0
+1350,Regular Season,Sat,2017-12-02,15:30,Hoffenheim,1.4,4 0,0.5,RB Leipzig,28299.0,Dietmar-Hopp-Stadion,Daniel Siebert,4,0
+1351,Regular Season,Sat,2017-12-02,15:30,Werder Bremen,1.1,1 0,1.1,Stuttgart,41500.0,Weserstadion,Bastian Dankert,1,0
+1352,Regular Season,Sat,2017-12-02,15:30,Leverkusen,2.0,1 1,0.8,Dortmund,30210.0,BayArena,Robert Hartmann,1,1
+1353,Regular Season,Sat,2017-12-02,15:30,Mainz 05,0.6,1 3,2.1,Augsburg,25037.0,Opel Arena,Frank Willenborg,1,3
+1354,Regular Season,Sat,2017-12-02,15:30,Bayern Munich,3.7,3 1,1.2,Hannover 96,75000.0,Allianz Arena,Guido Winkmann,3,1
+1355,Regular Season,Sat,2017-12-02,18:30,Schalke 04,2.5,2 2,1.8,Köln,61761.0,Veltins-Arena,Tobias Stieler,2,2
+1356,Regular Season,Sun,2017-12-03,15:30,Hertha BSC,1.1,1 2,0.5,Eint Frankfurt,38781.0,Olympiastadion Berlin,Sören Storks,1,2
+1357,Regular Season,Sun,2017-12-03,18:00,Wolfsburg,1.5,3 0,1.1,M'Gladbach,24250.0,Volkswagen Arena,Benjamin Cortus,3,0
+1358,Regular Season,Fri,2017-12-08,20:30,Stuttgart,0.4,0 2,1.5,Leverkusen,54650.0,Mercedes-Benz Arena,Deniz Aytekin,0,2
+1359,Regular Season,Sat,2017-12-09,15:30,Dortmund,1.9,1 2,1.0,Werder Bremen,81160.0,Signal Iduna Park,Manuel Gräfe,1,2
+1360,Regular Season,Sat,2017-12-09,15:30,Hamburger SV,1.3,0 0,0.1,Wolfsburg,45226.0,Volksparkstadion,Christian Dingert,0,0
+1361,Regular Season,Sat,2017-12-09,15:30,RB Leipzig,1.6,2 2,0.9,Mainz 05,32817.0,Red Bull Arena,Patrick Ittrich,2,2
+1362,Regular Season,Sat,2017-12-09,15:30,Eint Frankfurt,0.6,0 1,0.3,Bayern Munich,51500.0,Commerzbank-Arena,Harm Osmers,0,1
+1363,Regular Season,Sat,2017-12-09,18:30,M'Gladbach,1.4,1 1,1.0,Schalke 04,54018.0,Stadion im Borussia-Park,Sascha Stegemann,1,1
+1364,Regular Season,Sun,2017-12-10,13:30,Köln,1.5,3 4,3.3,Freiburg,45100.0,RheinEnergieSTADION,Robert Kampka,3,4
+1365,Regular Season,Sun,2017-12-10,15:30,Hannover 96,1.4,2 0,0.8,Hoffenheim,36800.0,HDI-Arena,Markus Schmidt,2,0
+1366,Regular Season,Sun,2017-12-10,18:00,Augsburg,1.2,1 1,0.6,Hertha BSC,26641.0,WWK Arena,Martin Petersen,1,1
+1367,Regular Season,Tue,2017-12-12,18:30,Wolfsburg,2.4,1 1,0.5,RB Leipzig,22827.0,Volkswagen Arena,Guido Winkmann,1,1
+1368,Regular Season,Tue,2017-12-12,20:30,Freiburg,1.7,1 0,0.4,M'Gladbach,23800.0,Schwarzwald-Stadion,Deniz Aytekin,1,0
+1369,Regular Season,Tue,2017-12-12,20:30,Hamburger SV,1.7,1 2,1.3,Eint Frankfurt,40983.0,Volksparkstadion,Manuel Gräfe,1,2
+1370,Regular Season,Tue,2017-12-12,20:30,Mainz 05,0.5,0 2,2.0,Dortmund,32976.0,Opel Arena,Benjamin Brand,0,2
+1371,Regular Season,Wed,2017-12-13,18:30,Hoffenheim,1.4,1 0,0.7,Stuttgart,30150.0,Dietmar-Hopp-Stadion,Bibiana Steinhaus,1,0
+1372,Regular Season,Wed,2017-12-13,20:30,Hertha BSC,2.5,3 1,2.6,Hannover 96,29231.0,Olympiastadion Berlin,Robert Hartmann,3,1
+1373,Regular Season,Wed,2017-12-13,20:30,Schalke 04,3.1,3 2,1.8,Augsburg,59215.0,Veltins-Arena,Sven Jablonski,3,2
+1374,Regular Season,Wed,2017-12-13,20:30,Bayern Munich,2.7,1 0,0.3,Köln,75000.0,Allianz Arena,Daniel Siebert,1,0
+1375,Regular Season,Wed,2017-12-13,20:30,Leverkusen,2.6,1 0,0.4,Werder Bremen,26620.0,BayArena,Tobias Stieler,1,0
+1376,Regular Season,Fri,2017-12-15,20:30,M'Gladbach,2.1,3 1,0.8,Hamburger SV,51409.0,Stadion im Borussia-Park,Markus Schmidt,3,1
+1377,Regular Season,Sat,2017-12-16,15:30,Stuttgart,1.2,0 1,2.0,Bayern Munich,58885.0,Mercedes-Benz Arena,Patrick Ittrich,0,1
+1378,Regular Season,Sat,2017-12-16,15:30,Köln,1.8,1 0,1.2,Wolfsburg,41100.0,RheinEnergieSTADION,Benjamin Brand,1,0
+1379,Regular Season,Sat,2017-12-16,15:30,Werder Bremen,1.3,2 2,1.0,Mainz 05,39000.0,Weserstadion,Benjamin Cortus,2,2
+1380,Regular Season,Sat,2017-12-16,15:30,Eint Frankfurt,1.6,2 2,1.9,Schalke 04,50600.0,Commerzbank-Arena,Robert Kampka,2,2
+1381,Regular Season,Sat,2017-12-16,15:30,Augsburg,2.5,3 3,1.7,Freiburg,26345.0,WWK Arena,Christian Dingert,3,3
+1382,Regular Season,Sat,2017-12-16,18:30,Dortmund,3.1,2 1,1.3,Hoffenheim,81000.0,Signal Iduna Park,Harm Osmers,2,1
+1383,Regular Season,Sun,2017-12-17,15:30,Hannover 96,2.4,4 4,2.5,Leverkusen,32800.0,HDI-Arena,Sören Storks,4,4
+1384,Regular Season,Sun,2017-12-17,18:00,RB Leipzig,2.3,2 3,1.2,Hertha BSC,36109.0,Red Bull Arena,Frank Willenborg,2,3
+1385,Regular Season,Fri,2018-01-12,20:30,Leverkusen,0.7,1 3,1.6,Bayern Munich,30210.0,BayArena,Daniel Siebert,1,3
+1386,Regular Season,Sat,2018-01-13,15:30,Eint Frankfurt,1.9,1 1,0.2,Freiburg,45300.0,Commerzbank-Arena,Sascha Stegemann,1,1
+1387,Regular Season,Sat,2018-01-13,15:30,Stuttgart,0.4,1 0,1.0,Hertha BSC,57181.0,Mercedes-Benz Arena,Felix Brych,1,0
+1388,Regular Season,Sat,2018-01-13,15:30,Hannover 96,2.8,3 2,0.6,Mainz 05,34500.0,HDI-Arena,Bastian Dankert,3,2
+1389,Regular Season,Sat,2018-01-13,15:30,Augsburg,1.6,1 0,0.6,Hamburger SV,30087.0,WWK Arena,Manuel Gräfe,1,0
+1390,Regular Season,Sat,2018-01-13,15:30,Werder Bremen,1.6,1 1,1.4,Hoffenheim,37500.0,Weserstadion,Robert Hartmann,1,1
+1391,Regular Season,Sat,2018-01-13,18:30,RB Leipzig,2.6,3 1,0.4,Schalke 04,42558.0,Red Bull Arena,Deniz Aytekin,3,1
+1392,Regular Season,Sun,2018-01-14,15:30,Köln,0.9,2 1,2.0,M'Gladbach,50000.0,RheinEnergieSTADION,Felix Zwayer,2,1
+1393,Regular Season,Sun,2018-01-14,18:00,Dortmund,2.4,0 0,1.4,Wolfsburg,80600.0,Signal Iduna Park,Tobias Stieler,0,0
+1394,Regular Season,Fri,2018-01-19,20:30,Hertha BSC,0.6,1 1,1.2,Dortmund,65893.0,Olympiastadion Berlin,Christian Dingert,1,1
+1395,Regular Season,Sat,2018-01-20,15:30,M'Gladbach,1.1,2 0,1.0,Augsburg,42016.0,Stadion im Borussia-Park,Bibiana Steinhaus,2,0
+1396,Regular Season,Sat,2018-01-20,15:30,Mainz 05,2.6,3 2,1.0,Stuttgart,25736.0,Opel Arena,Harm Osmers,3,2
+1397,Regular Season,Sat,2018-01-20,15:30,Hoffenheim,0.7,1 4,2.6,Leverkusen,28017.0,Dietmar-Hopp-Stadion,Tobias Stieler,1,4
+1398,Regular Season,Sat,2018-01-20,15:30,Wolfsburg,1.4,1 3,1.7,Eint Frankfurt,24450.0,Volkswagen Arena,Markus Schmidt,1,3
+1399,Regular Season,Sat,2018-01-20,15:30,Freiburg,0.5,2 1,1.0,RB Leipzig,23700.0,Schwarzwald-Stadion,Benjamin Brand,2,1
+1400,Regular Season,Sat,2018-01-20,18:30,Hamburger SV,1.0,0 2,1.2,Köln,52674.0,Volksparkstadion,Guido Winkmann,0,2
+1401,Regular Season,Sun,2018-01-21,15:30,Bayern Munich,1.8,4 2,0.5,Werder Bremen,75000.0,Allianz Arena,Robert Kampka,4,2
+1402,Regular Season,Sun,2018-01-21,18:00,Schalke 04,0.5,1 1,0.9,Hannover 96,60650.0,Veltins-Arena,Martin Petersen,1,1
+1403,Regular Season,Fri,2018-01-26,20:30,Eint Frankfurt,1.2,2 0,1.4,M'Gladbach,47500.0,Commerzbank-Arena,Marco Fritz,2,0
+1404,Regular Season,Sat,2018-01-27,15:30,Bayern Munich,2.7,5 2,1.0,Hoffenheim,75000.0,Allianz Arena,Manuel Gräfe,5,2
+1405,Regular Season,Sat,2018-01-27,15:30,RB Leipzig,1.2,1 1,1.1,Hamburger SV,42558.0,Red Bull Arena,Benjamin Cortus,1,1
+1406,Regular Season,Sat,2018-01-27,15:30,Stuttgart,0.6,0 2,2.7,Schalke 04,55096.0,Mercedes-Benz Arena,Felix Zwayer,0,2
+1407,Regular Season,Sat,2018-01-27,15:30,Dortmund,1.3,2 2,0.4,Freiburg,81360.0,Signal Iduna Park,Daniel Siebert,2,2
+1408,Regular Season,Sat,2018-01-27,15:30,Köln,1.1,1 1,0.8,Augsburg,49900.0,RheinEnergieSTADION,Christian Dingert,1,1
+1409,Regular Season,Sat,2018-01-27,18:30,Werder Bremen,1.6,0 0,1.1,Hertha BSC,40030.0,Weserstadion,Bastian Dankert,0,0
+1410,Regular Season,Sun,2018-01-28,15:30,Leverkusen,1.8,2 0,0.1,Mainz 05,25471.0,BayArena,Frank Willenborg,2,0
+1411,Regular Season,Sun,2018-01-28,18:00,Hannover 96,1.0,0 1,0.4,Wolfsburg,34300.0,HDI-Arena,Felix Brych,0,1
+1412,Regular Season,Fri,2018-02-02,20:30,Köln,2.4,2 3,1.8,Dortmund,50000.0,RheinEnergieSTADION,Benjamin Brand,2,3
+1413,Regular Season,Sat,2018-02-03,15:30,Hertha BSC,1.0,1 1,1.9,Hoffenheim,32598.0,Olympiastadion Berlin,Deniz Aytekin,1,1
+1414,Regular Season,Sat,2018-02-03,15:30,Freiburg,1.0,0 0,0.7,Leverkusen,24000.0,Schwarzwald-Stadion,Robert Kampka,0,0
+1415,Regular Season,Sat,2018-02-03,15:30,Mainz 05,1.6,0 2,1.8,Bayern Munich,34000.0,Opel Arena,Sören Storks,0,2
+1416,Regular Season,Sat,2018-02-03,15:30,Wolfsburg,1.0,1 1,1.5,Stuttgart,24378.0,Volkswagen Arena,Robert Hartmann,1,1
+1417,Regular Season,Sat,2018-02-03,15:30,Schalke 04,1.1,1 2,2.0,Werder Bremen,62271.0,Veltins-Arena,Guido Winkmann,1,2
+1418,Regular Season,Sat,2018-02-03,18:30,M'Gladbach,1.0,0 1,1.1,RB Leipzig,49018.0,Stadion im Borussia-Park,Tobias Stieler,0,1
+1419,Regular Season,Sun,2018-02-04,15:30,Augsburg,2.4,3 0,0.6,Eint Frankfurt,27188.0,WWK Arena,Harm Osmers,3,0
+1420,Regular Season,Sun,2018-02-04,18:00,Hamburger SV,1.5,1 1,1.4,Hannover 96,46016.0,Volksparkstadion,Sascha Stegemann,1,1
+1421,Regular Season,Fri,2018-02-09,20:30,RB Leipzig,2.2,2 0,1.0,Augsburg,34286.0,Red Bull Arena,Sven Jablonski,2,0
+1422,Regular Season,Sat,2018-02-10,15:30,Eint Frankfurt,2.2,4 2,1.4,Köln,47700.0,Commerzbank-Arena,Daniel Siebert,4,2
+1423,Regular Season,Sat,2018-02-10,15:30,Hannover 96,1.0,2 1,1.1,Freiburg,37800.0,HDI-Arena,Manuel Gräfe,2,1
+1424,Regular Season,Sat,2018-02-10,15:30,Dortmund,2.3,2 0,0.6,Hamburger SV,81360.0,Signal Iduna Park,Marco Fritz,2,0
+1425,Regular Season,Sat,2018-02-10,15:30,Hoffenheim,2.5,4 2,1.4,Mainz 05,24105.0,Dietmar-Hopp-Stadion,Benjamin Cortus,4,2
+1426,Regular Season,Sat,2018-02-10,15:30,Leverkusen,1.0,0 2,0.8,Hertha BSC,25601.0,BayArena,Patrick Ittrich,0,2
+1427,Regular Season,Sat,2018-02-10,18:30,Bayern Munich,1.8,2 1,0.7,Schalke 04,75000.0,Allianz Arena,Tobias Stieler,2,1
+1428,Regular Season,Sun,2018-02-11,15:30,Stuttgart,0.7,1 0,0.9,M'Gladbach,53296.0,Mercedes-Benz Arena,Frank Willenborg,1,0
+1429,Regular Season,Sun,2018-02-11,18:00,Werder Bremen,1.0,3 1,1.9,Wolfsburg,38062.0,Weserstadion,Deniz Aytekin,3,1
+1430,Regular Season,Fri,2018-02-16,20:30,Hertha BSC,0.5,0 2,1.6,Mainz 05,30908.0,Olympiastadion Berlin,Martin Petersen,0,2
+1431,Regular Season,Sat,2018-02-17,15:30,Köln,0.3,1 1,1.6,Hannover 96,48400.0,RheinEnergieSTADION,Markus Schmidt,1,1
+1432,Regular Season,Sat,2018-02-17,15:30,Wolfsburg,0.3,1 2,2.7,Bayern Munich,30000.0,Volkswagen Arena,Sascha Stegemann,1,2
+1433,Regular Season,Sat,2018-02-17,15:30,Hamburger SV,1.0,1 2,2.2,Leverkusen,45691.0,Volksparkstadion,Felix Brych,1,2
+1434,Regular Season,Sat,2018-02-17,15:30,Freiburg,1.9,1 0,0.5,Werder Bremen,24000.0,Schwarzwald-Stadion,Robert Hartmann,1,0
+1435,Regular Season,Sat,2018-02-17,18:30,Schalke 04,1.2,2 1,0.5,Hoffenheim,60741.0,Veltins-Arena,Benjamin Brand,2,1
+1436,Regular Season,Sun,2018-02-18,15:30,Augsburg,0.5,0 1,1.6,Stuttgart,30007.0,WWK Arena,Tobias Stieler,0,1
+1437,Regular Season,Sun,2018-02-18,18:00,M'Gladbach,2.4,0 1,0.5,Dortmund,54018.0,Stadion im Borussia-Park,Bastian Dankert,0,1
+1438,Regular Season,Mon,2018-02-19,20:30,Eint Frankfurt,1.2,2 1,0.6,RB Leipzig,45100.0,Commerzbank-Arena,Felix Zwayer,2,1
+1439,Regular Season,Fri,2018-02-23,20:30,Mainz 05,1.0,1 1,1.3,Wolfsburg,25173.0,Opel Arena,Bastian Dankert,1,1
+1440,Regular Season,Sat,2018-02-24,15:30,Bayern Munich,2.4,0 0,0.3,Hertha BSC,75000.0,Allianz Arena,Guido Winkmann,0,0
+1441,Regular Season,Sat,2018-02-24,15:30,Hoffenheim,0.6,1 1,1.0,Freiburg,30150.0,Dietmar-Hopp-Stadion,Christian Dingert,1,1
+1442,Regular Season,Sat,2018-02-24,15:30,Hannover 96,1.9,0 1,1.3,M'Gladbach,43000.0,HDI-Arena,Robert Kampka,0,1
+1443,Regular Season,Sat,2018-02-24,15:30,Stuttgart,1.7,1 0,0.5,Eint Frankfurt,55418.0,Mercedes-Benz Arena,Bibiana Steinhaus,1,0
+1444,Regular Season,Sat,2018-02-24,18:30,Werder Bremen,0.9,1 0,0.6,Hamburger SV,42100.0,Weserstadion,Felix Zwayer,1,0
+1445,Regular Season,Sun,2018-02-25,15:30,Leverkusen,0.3,0 2,1.5,Schalke 04,30210.0,BayArena,Daniel Siebert,0,2
+1446,Regular Season,Sun,2018-02-25,18:00,RB Leipzig,2.4,1 2,1.6,Köln,31793.0,Red Bull Arena,Harm Osmers,1,2
+1447,Regular Season,Mon,2018-02-26,20:30,Dortmund,0.7,1 1,1.2,Augsburg,54300.0,Signal Iduna Park,Manuel Gräfe,1,1
+1448,Regular Season,Fri,2018-03-02,20:30,M'Gladbach,1.7,2 2,1.9,Werder Bremen,52211.0,Stadion im Borussia-Park,Benjamin Cortus,2,2
+1449,Regular Season,Sat,2018-03-03,15:30,Augsburg,0.4,0 2,2.1,Hoffenheim,27100.0,WWK Arena,Patrick Ittrich,0,2
+1450,Regular Season,Sat,2018-03-03,15:30,Wolfsburg,0.2,1 2,1.5,Leverkusen,24354.0,Volkswagen Arena,Felix Zwayer,1,2
+1451,Regular Season,Sat,2018-03-03,15:30,Schalke 04,0.5,1 0,1.6,Hertha BSC,61578.0,Veltins-Arena,Sascha Stegemann,1,0
+1452,Regular Season,Sat,2018-03-03,15:30,Hamburger SV,1.6,0 0,0.5,Mainz 05,46739.0,Volksparkstadion,Markus Schmidt,0,0
+1453,Regular Season,Sat,2018-03-03,15:30,Eint Frankfurt,1.8,1 0,0.4,Hannover 96,48500.0,Commerzbank-Arena,Marco Fritz,1,0
+1454,Regular Season,Sat,2018-03-03,18:30,RB Leipzig,0.6,1 1,1.8,Dortmund,42558.0,Red Bull Arena,Felix Brych,1,1
+1455,Regular Season,Sun,2018-03-04,15:30,Köln,1.5,2 3,0.5,Stuttgart,50000.0,RheinEnergieSTADION,Sören Storks,2,3
+1456,Regular Season,Sun,2018-03-04,18:00,Freiburg,0.5,0 4,2.1,Bayern Munich,24000.0,Schwarzwald-Stadion,Frank Willenborg,0,4
+1457,Regular Season,Fri,2018-03-09,20:30,Mainz 05,0.8,0 1,0.3,Schalke 04,30655.0,Opel Arena,Felix Brych,0,1
+1458,Regular Season,Sat,2018-03-10,15:30,Hertha BSC,1.3,0 0,0.3,Freiburg,38625.0,Olympiastadion Berlin,Sven Jablonski,0,0
+1459,Regular Season,Sat,2018-03-10,15:30,Hoffenheim,1.5,3 0,0.5,Wolfsburg,25550.0,Dietmar-Hopp-Stadion,Manuel Gräfe,3,0
+1460,Regular Season,Sat,2018-03-10,15:30,Hannover 96,1.0,1 3,2.2,Augsburg,36500.0,HDI-Arena,Bastian Dankert,1,3
+1461,Regular Season,Sat,2018-03-10,15:30,Bayern Munich,4.2,6 0,0.0,Hamburger SV,75000.0,Allianz Arena,Christian Dingert,6,0
+1462,Regular Season,Sat,2018-03-10,18:30,Leverkusen,2.5,2 0,0.6,M'Gladbach,28809.0,BayArena,Robert Hartmann,2,0
+1463,Regular Season,Sun,2018-03-11,15:30,Stuttgart,1.0,0 0,0.7,RB Leipzig,53548.0,Mercedes-Benz Arena,Tobias Stieler,0,0
+1464,Regular Season,Sun,2018-03-11,18:00,Dortmund,1.2,3 2,1.3,Eint Frankfurt,81360.0,Signal Iduna Park,Deniz Aytekin,3,2
+1465,Regular Season,Mon,2018-03-12,20:30,Werder Bremen,1.4,3 1,0.6,Köln,41100.0,Weserstadion,Benjamin Brand,3,1
+1466,Regular Season,Fri,2018-03-16,20:30,Freiburg,0.4,1 2,1.5,Stuttgart,24000.0,Schwarzwald-Stadion,Benjamin Brand,1,2
+1467,Regular Season,Sat,2018-03-17,15:30,M'Gladbach,3.0,3 3,2.2,Hoffenheim,51049.0,Stadion im Borussia-Park,Martin Petersen,3,3
+1468,Regular Season,Sat,2018-03-17,15:30,Eint Frankfurt,2.4,3 0,0.6,Mainz 05,49500.0,Commerzbank-Arena,Daniel Siebert,3,0
+1469,Regular Season,Sat,2018-03-17,15:30,Hamburger SV,0.9,1 2,1.9,Hertha BSC,52159.0,Volksparkstadion,Robert Kampka,1,2
+1470,Regular Season,Sat,2018-03-17,15:30,Augsburg,0.6,1 3,2.5,Werder Bremen,30080.0,WWK Arena,Sascha Stegemann,1,3
+1471,Regular Season,Sat,2018-03-17,18:30,Wolfsburg,1.7,0 1,1.0,Schalke 04,27502.0,Volkswagen Arena,Benjamin Cortus,0,1
+1472,Regular Season,Sun,2018-03-18,13:30,Dortmund,2.6,1 0,0.6,Hannover 96,81360.0,Signal Iduna Park,Patrick Ittrich,1,0
+1473,Regular Season,Sun,2018-03-18,15:30,Köln,1.4,2 0,0.6,Leverkusen,50000.0,RheinEnergieSTADION,Harm Osmers,2,0
+1474,Regular Season,Sun,2018-03-18,18:00,RB Leipzig,2.2,2 1,1.6,Bayern Munich,42558.0,Red Bull Arena,Marco Fritz,2,1
+1475,Regular Season,Sat,2018-03-31,15:30,Leverkusen,0.8,0 0,0.3,Augsburg,25831.0,BayArena,Frank Willenborg,0,0
+1476,Regular Season,Sat,2018-03-31,15:30,Hannover 96,1.0,2 3,3.1,RB Leipzig,42300.0,HDI-Arena,Guido Winkmann,2,3
+1477,Regular Season,Sat,2018-03-31,15:30,Hoffenheim,3.1,6 0,0.6,Köln,30150.0,Dietmar-Hopp-Stadion,Robert Hartmann,6,0
+1478,Regular Season,Sat,2018-03-31,15:30,Schalke 04,2.1,2 0,0.2,Freiburg,61688.0,Veltins-Arena,Tobias Stieler,2,0
+1479,Regular Season,Sat,2018-03-31,15:30,Stuttgart,1.1,1 1,0.9,Hamburger SV,60449.0,Mercedes-Benz Arena,Felix Brych,1,1
+1480,Regular Season,Sat,2018-03-31,18:30,Bayern Munich,4.0,6 0,0.6,Dortmund,75000.0,Allianz Arena,Bastian Dankert,6,0
+1481,Regular Season,Sat,2018-03-31,20:30,Hertha BSC,0.5,0 0,0.9,Wolfsburg,34765.0,Olympiastadion Berlin,Deniz Aytekin,0,0
+1482,Regular Season,Sun,2018-04-01,15:30,Werder Bremen,0.9,2 1,1.0,Eint Frankfurt,42100.0,Weserstadion,Felix Zwayer,2,1
+1483,Regular Season,Sun,2018-04-01,18:00,Mainz 05,0.7,0 0,0.9,M'Gladbach,30173.0,Opel Arena,Manuel Gräfe,0,0
+1484,Regular Season,Fri,2018-04-06,20:30,Hannover 96,1.5,2 1,1.4,Werder Bremen,49000.0,HDI-Arena,Tobias Welz,2,1
+1485,Regular Season,Sat,2018-04-07,15:30,Freiburg,1.4,0 2,0.9,Wolfsburg,24000.0,Schwarzwald-Stadion,Sascha Stegemann,0,2
+1486,Regular Season,Sat,2018-04-07,15:30,Köln,1.3,1 1,1.5,Mainz 05,50000.0,RheinEnergieSTADION,Benjamin Cortus,1,1
+1487,Regular Season,Sat,2018-04-07,15:30,Augsburg,1.2,1 4,1.6,Bayern Munich,30660.0,WWK Arena,Markus Schmidt,1,4
+1488,Regular Season,Sat,2018-04-07,15:30,M'Gladbach,1.4,2 1,2.6,Hertha BSC,51417.0,Stadion im Borussia-Park,Bibiana Steinhaus,2,1
+1489,Regular Season,Sat,2018-04-07,18:30,Hamburger SV,1.9,3 2,1.2,Schalke 04,54137.0,Volksparkstadion,Christian Dingert,3,2
+1490,Regular Season,Sun,2018-04-08,15:30,Dortmund,1.7,3 0,0.6,Stuttgart,81360.0,Signal Iduna Park,Patrick Ittrich,3,0
+1491,Regular Season,Sun,2018-04-08,18:00,Eint Frankfurt,1.6,1 1,1.1,Hoffenheim,50500.0,Commerzbank-Arena,Daniel Siebert,1,1
+1492,Regular Season,Mon,2018-04-09,20:30,RB Leipzig,1.6,1 4,1.6,Leverkusen,35617.0,Red Bull Arena,Deniz Aytekin,1,4
+1493,Regular Season,Fri,2018-04-13,20:30,Wolfsburg,1.1,0 0,0.3,Augsburg,23512.0,Volkswagen Arena,Patrick Ittrich,0,0
+1494,Regular Season,Sat,2018-04-14,15:30,Hoffenheim,2.5,2 0,0.5,Hamburger SV,30150.0,Dietmar-Hopp-Stadion,Harm Osmers,2,0
+1495,Regular Season,Sat,2018-04-14,15:30,Hertha BSC,1.7,2 1,1.6,Köln,49253.0,Olympiastadion Berlin,Sören Storks,2,1
+1496,Regular Season,Sat,2018-04-14,15:30,Leverkusen,2.9,4 1,0.9,Eint Frankfurt,30210.0,BayArena,Felix Brych,4,1
+1497,Regular Season,Sat,2018-04-14,15:30,Stuttgart,0.9,1 1,0.9,Hannover 96,57131.0,Mercedes-Benz Arena,Sven Jablonski,1,1
+1498,Regular Season,Sat,2018-04-14,18:30,Bayern Munich,3.4,5 1,0.2,M'Gladbach,75000.0,Allianz Arena,Robert Kampka,5,1
+1499,Regular Season,Sun,2018-04-15,15:30,Schalke 04,0.8,2 0,0.8,Dortmund,61786.0,Veltins-Arena,Manuel Gräfe,2,0
+1500,Regular Season,Sun,2018-04-15,18:00,Werder Bremen,1.1,1 1,1.2,RB Leipzig,42100.0,Weserstadion,Christian Dingert,1,1
+1501,Regular Season,Mon,2018-04-16,20:30,Mainz 05,2.4,2 0,0.4,Freiburg,26407.0,Opel Arena,Guido Winkmann,2,0
+1502,Regular Season,Fri,2018-04-20,20:30,M'Gladbach,2.1,3 0,0.4,Wolfsburg,47797.0,Stadion im Borussia-Park,Tobias Stieler,3,0
+1503,Regular Season,Sat,2018-04-21,15:30,Hamburger SV,1.5,1 0,1.0,Freiburg,54847.0,Volksparkstadion,Benjamin Cortus,1,0
+1504,Regular Season,Sat,2018-04-21,15:30,Stuttgart,1.4,2 0,0.6,Werder Bremen,58932.0,Mercedes-Benz Arena,Sören Storks,2,0
+1505,Regular Season,Sat,2018-04-21,15:30,RB Leipzig,1.9,2 5,3.0,Hoffenheim,41780.0,Red Bull Arena,Tobias Welz,2,5
+1506,Regular Season,Sat,2018-04-21,15:30,Hannover 96,0.5,0 3,1.3,Bayern Munich,49000.0,HDI-Arena,Martin Petersen,0,3
+1507,Regular Season,Sat,2018-04-21,15:30,Eint Frankfurt,1.4,0 3,1.4,Hertha BSC,51000.0,Commerzbank-Arena,Sascha Stegemann,0,3
+1508,Regular Season,Sat,2018-04-21,18:30,Dortmund,3.2,4 0,0.5,Leverkusen,81360.0,Signal Iduna Park,Markus Schmidt,4,0
+1509,Regular Season,Sun,2018-04-22,15:30,Augsburg,1.8,2 0,0.3,Mainz 05,29110.0,WWK Arena,Frank Willenborg,2,0
+1510,Regular Season,Sun,2018-04-22,18:00,Köln,0.9,2 2,2.2,Schalke 04,50000.0,RheinEnergieSTADION,Marco Fritz,2,2
+1511,Regular Season,Fri,2018-04-27,20:30,Hoffenheim,1.8,3 1,1.4,Hannover 96,26452.0,Dietmar-Hopp-Stadion,Patrick Ittrich,3,1
+1512,Regular Season,Sat,2018-04-28,15:30,Bayern Munich,2.2,4 1,1.3,Eint Frankfurt,75000.0,Allianz Arena,Christian Dingert,4,1
+1513,Regular Season,Sat,2018-04-28,15:30,Schalke 04,1.3,1 1,1.9,M'Gladbach,62271.0,Veltins-Arena,Harm Osmers,1,1
+1514,Regular Season,Sat,2018-04-28,15:30,Wolfsburg,1.0,1 3,2.5,Hamburger SV,29400.0,Volkswagen Arena,Daniel Siebert,1,3
+1515,Regular Season,Sat,2018-04-28,15:30,Freiburg,4.1,3 2,1.4,Köln,24000.0,Schwarzwald-Stadion,Deniz Aytekin,3,2
+1516,Regular Season,Sat,2018-04-28,15:30,Hertha BSC,1.5,2 2,1.0,Augsburg,40935.0,Olympiastadion Berlin,Marco Fritz,2,2
+1517,Regular Season,Sat,2018-04-28,18:30,Leverkusen,2.9,0 1,0.2,Stuttgart,30210.0,BayArena,Tobias Welz,0,1
+1518,Regular Season,Sun,2018-04-29,15:30,Mainz 05,2.0,3 0,1.4,RB Leipzig,30083.0,Opel Arena,Bastian Dankert,3,0
+1519,Regular Season,Sun,2018-04-29,18:00,Werder Bremen,1.1,1 1,2.7,Dortmund,41000.0,Weserstadion,Felix Brych,1,1
+1520,Regular Season,Sat,2018-05-05,15:30,Werder Bremen,0.2,0 0,1.0,Leverkusen,41000.0,Weserstadion,Robert Hartmann,0,0
+1521,Regular Season,Sat,2018-05-05,15:30,Stuttgart,1.0,2 0,2.6,Hoffenheim,58312.0,Mercedes-Benz Arena,Felix Zwayer,2,0
+1522,Regular Season,Sat,2018-05-05,15:30,Hannover 96,1.4,3 1,0.9,Hertha BSC,49000.0,HDI-Arena,Sören Storks,3,1
+1523,Regular Season,Sat,2018-05-05,15:30,M'Gladbach,2.2,3 1,2.1,Freiburg,54018.0,Stadion im Borussia-Park,Manuel Gräfe,3,1
+1524,Regular Season,Sat,2018-05-05,15:30,Dortmund,0.9,1 2,1.1,Mainz 05,81360.0,Signal Iduna Park,Daniel Siebert,1,2
+1525,Regular Season,Sat,2018-05-05,15:30,RB Leipzig,1.8,4 1,0.7,Wolfsburg,41487.0,Red Bull Arena,Marco Fritz,4,1
+1526,Regular Season,Sat,2018-05-05,15:30,Augsburg,1.0,1 2,2.0,Schalke 04,30660.0,WWK Arena,Robert Kampka,1,2
+1527,Regular Season,Sat,2018-05-05,15:30,Köln,1.7,1 3,2.4,Bayern Munich,50000.0,RheinEnergieSTADION,Bibiana Steinhaus,1,3
+1528,Regular Season,Sat,2018-05-05,15:30,Eint Frankfurt,1.2,3 0,0.9,Hamburger SV,51500.0,Commerzbank-Arena,Deniz Aytekin,3,0
+1529,Regular Season,Sat,2018-05-12,15:30,Leverkusen,4.7,3 2,2.1,Hannover 96,30210.0,BayArena,Guido Winkmann,3,2
+1530,Regular Season,Sat,2018-05-12,15:30,Mainz 05,1.0,1 2,1.0,Werder Bremen,34000.0,Opel Arena,Martin Petersen,1,2
+1531,Regular Season,Sat,2018-05-12,15:30,Hamburger SV,2.3,2 1,1.1,M'Gladbach,57000.0,Volksparkstadion,Felix Brych,2,1
+1532,Regular Season,Sat,2018-05-12,15:30,Bayern Munich,2.5,1 4,2.6,Stuttgart,75000.0,Allianz Arena,Sascha Stegemann,1,4
+1533,Regular Season,Sat,2018-05-12,15:30,Freiburg,0.9,2 0,0.1,Augsburg,24000.0,Schwarzwald-Stadion,Bastian Dankert,2,0
+1534,Regular Season,Sat,2018-05-12,15:30,Schalke 04,1.1,1 0,0.6,Eint Frankfurt,61585.0,Veltins-Arena,Frank Willenborg,1,0
+1535,Regular Season,Sat,2018-05-12,15:30,Hertha BSC,1.0,2 6,1.4,RB Leipzig,60502.0,Olympiastadion Berlin,Sven Jablonski,2,6
+1536,Regular Season,Sat,2018-05-12,15:30,Hoffenheim,1.4,3 1,1.3,Dortmund,30150.0,Dietmar-Hopp-Stadion,Manuel Gräfe,3,1
+1537,Regular Season,Sat,2018-05-12,15:30,Wolfsburg,3.2,4 1,0.8,Köln,26112.0,Volkswagen Arena,Markus Schmidt,4,1
