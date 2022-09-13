@@ -3,3 +3,4 @@ Bundesliga dashboard with python and streamlit
 <br /> App link: 
 <br /> :point_right: https://kareem1179-projects-proj-5-streamlitproj-5-8g6won.streamlitapp.com/ :point_left:
 ![](./bundesliga_logo.png)
+<img width="200" src="https://kareem1179-projects-proj-5-streamlitproj-5-8g6won.streamlitapp.com/">
