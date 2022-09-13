@@ -1,5 +1,5 @@
 
-# Dashboarding with Python and streamlit ![](./bundesliga_logo.png)
+# Dashboarding with Python and streamlit <img width = "300" src="./bundesliga_logo.png">
 
 With data from the bundesliga between the 2017 and 2022 season, we generate graphs to take a peak at different characterisitcs; including a team's ranking change after each matchday, which official a team performance worse with him as the referee, etc..
 
