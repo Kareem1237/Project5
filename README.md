@@ -4,7 +4,7 @@ With data from the bundesliga between the 2017 and 2022 season, we generate grap
 
 Using streamlit, we create an interactive dashboard that allows the user to choose the team/s and season to explore different insights. The dashboard has been launched and can be accessed here:
 
-👉 https://kareem1179-projects-proj-5-streamlitproj-5-8g6won.streamlitapp.com/ 👈
+👉 https://kareem1237-project5-proj-5-vmesa7.streamlitapp.com/ 👈
 
 In the accompanyinh repository, you can access the python code and data set.
 
